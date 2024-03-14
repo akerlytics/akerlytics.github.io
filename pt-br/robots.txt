@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://akerlytics.github.io/multi-language-al-folio/sitemap.xml
+Sitemap: https://akerlytics.github.io/sitemap.xml
