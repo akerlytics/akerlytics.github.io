@@ -6,6 +6,9 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
+  - title: petitions
+    permalink: /petitions/
+  - title: divider
   - title: publications
     permalink: /publications/
   - title: divider
