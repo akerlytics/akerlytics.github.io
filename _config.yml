@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: In
+middle_name: Co
+last_name: Neto
+email: akerlytics@gmail.com
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -154,24 +154,30 @@ related_blog_posts:
 # -----------------------------------------------------------------------------
 
 collections:
+  contributions:
+    output: true
+    permalink: /:collection/:title/
   news:
     defaults:
       layout: post
+    output: true
+    permalink: /:collection/:title/
+  petitions: 
     output: true
     permalink: /:collection/:title/
   projects:
     output: true
     permalink: /:collection/:title/
 
-announcements:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+# announcements:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+#   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

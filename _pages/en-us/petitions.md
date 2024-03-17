@@ -1,8 +1,8 @@
 ---
-page_id: petitions
+page_id: petitions-liquid
 layout: page
-title: petitions
-permalink: /petitions/
+title: petitions-liquid
+permalink: /petitions-liquid/
 ---
 
 {% include petitions.liquid %}

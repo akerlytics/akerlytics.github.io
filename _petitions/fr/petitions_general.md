@@ -1,20 +1,11 @@
 ---
 page_id: petition
 layout: about
-title: Pétitions
-permalink: /
+title: Pétitions Générale
+subtitle: 
+permalink: /petitions/
 toc:
   sidebar: left
-#subtitle: <a href='#'>Affiliations</a>. Adresse. Contactes. Moto. Etc.
-
-# profile:
-#   align: right
-#   image: prof_pic.jpg
-#   image_circular: false # crops the image to make it circular
-#   more_info: >
-#     <p>555 your office number</p>
-#     <p>123 your address street</p>
-#     <p>Your City, State 12345</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -79,6 +70,5 @@ social: false # includes social icons at the bottom of the page
 <!-- #endregion -->
 
 - Les deux pétitions reflètent les préoccupations concernant l'impact potentiel des traités et des amendements relatifs aux pandémies de l'OMS sur la souveraineté canadienne et la nécessité d'une implication publique et parlementaire dans le processus décisionnel.
-- La différence significative dans le nombre de signatures (540 pour e-4040 contre 18 973 pour e-4401) indique un engagement public ou une préoccupation plus élevée pour les questions soulevées dans e-4401.
 - Les réponses du gouvernement aux deux pétitions soulignent l'engagement du Canada dans la coopération internationale pour la préparation aux pandémies tout en maintenant la souveraineté et en prenant des décisions fondées sur des preuves qui respectent les contextes nationaux.
 

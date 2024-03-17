@@ -1,24 +1,10 @@
 ---
 page_id: about
 layout: about
-title: propos
+title: À-propos
 permalink: /
 toc:
   sidebar: left
-#subtitle: <a href='#'>Affiliations</a>. Adresse. Contactes. Moto. Etc.
-
-# profile:
-#   align: right
-#   image: prof_pic.jpg
-#   image_circular: false # crops the image to make it circular
-#   more_info: >
-#     <p>555 your office number</p>
-#     <p>123 your address street</p>
-#     <p>Your City, State 12345</p>
-
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
 ---
 
 
@@ -27,7 +13,7 @@ social: false # includes social icons at the bottom of the page
 <!-- @#résumé-du-dossier---documents-et-instruments-de-l’oms -->
 <!-- #endregion -->
 
-Ce document fournit un aperçu des efforts actuels de l'OMS pour développer et amender des instruments internationaux clés liés à la santé publique mondiale, notamment le Règlement Sanitaire International (RSI) et le Traité international sur la prévention, la préparation et la riposte aux pandémies. Il met en lumière les rencontres clés, les entités en charge, et les documents importants associés à ces efforts. De plus, il souligne l'importance de l'engagement public et du débat parlementaire concernant ces développements, ainsi que le rôle critique des organisations non gouvernementales comme le World Council for Health dans la fourniture de contre-arguments et de recommandations basées sur des preuves. Les citations sélectionnées mettent en exergue les préoccupations concernant l'influence des contributions financières sur les décisions de l'OMS et l'importance de maintenir la souveraineté nationale face aux pressions internationales pour l'adoption de ces nouveaux instruments juridiques.
+Ce document fournit un aperçu des efforts actuels de l'OMS pour développer et amender des instruments internationaux clés liés à la santé publique mondiale, notamment le Règlement Sanitaire International (RSI) et le Traité international sur la prévention, la préparation et la riposte aux pandémies. Il met en lumière les rencontres clés, les entités en charge, et les documents importants associés à ces efforts. De plus, il souligne l'importance de l'engagement public et du débat parlementaire concernant ces développements, ainsi que le rôle critique des organisations non gouvernementales comme le World Council for Health dans la fourniture de contre-arguments et de recommandations basées sur des preuves. Les citations sélectionnées présentent les préoccupations concernant l'influence des contributions financières sur les décisions de l'OMS et l'importance de maintenir la souveraineté nationale face aux pressions internationales pour l'adoption de ces nouveaux instruments juridiques.
 
 
 ---
