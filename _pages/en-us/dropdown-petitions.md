@@ -1,15 +1,13 @@
 ---
 id: dropdown-debates
 layout: page
-title: debates
+title: petitions
 nav: true
-nav_order: 2
+nav_order: 3
 dropdown: true
 children:
   - title: Petitions
     permalink: /petitions/
-  - title: Debates UK
-    permalink: /blog/
   - title: divider
   - title: Petitions-Liquid
     permalink: /petitions-liquid/

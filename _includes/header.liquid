@@ -1,8 +1,11 @@
 <header>
   <!-- Nav Bar -->
-  <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
+  <nav
+    id="navbar"
+    class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}"
+    role="navigation">
     <div class="container">
-      {% if page.permalink != '/' %}
+      {% if false and page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if false and site.title == 'blank' %}
             {% if site.first_name %}
@@ -32,8 +35,7 @@
         data-target="#navbarNav"
         aria-controls="navbarNav"
         aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
+        aria-label="Toggle navigation">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar top-bar"></span>
         <span class="icon-bar middle-bar"></span>
@@ -43,7 +45,9 @@
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
           {% for page in site.pages %}
-            {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
+            {% if page.permalink == '/' %}
+              {% assign about_title = page.title %}
+            {% endif %}
           {% endfor %}
 
           <!-- About -->
@@ -75,8 +79,7 @@
                     role="button"
                     data-toggle="dropdown"
                     aria-haspopup="true"
-                    aria-expanded="false"
-                  >
+                    aria-expanded="false">
                     {{- p.title }}
                     {% if page.title == p.title or has_active_child %}
                       <span class="sr-only">(current)</span>
@@ -96,7 +99,10 @@
                 </li>
               {% else %}
                 <li class="nav-item {% if page.url contains p.permalink %}active{% endif %}">
-                  {% if p.permalink contains '/blog/' %}{% assign url = '/blog/' %} {% else %}{% assign url = p.url %}{% endif %}
+                  {% if p.permalink contains '/blog/' %}
+                    {% assign url = '/blog/' %}
+                  {% else %}
+                    {% assign url = p.url %}{% endif %}
                   <a class="nav-link" href="{{ url | relative_url }}">
                     {{- p.title }}
                     {% if page.url contains p.url %}
@@ -117,7 +123,11 @@
               {% endif %}
               <li class="nav-item active">
                 {% if site.active_lang == site.default_lang %}
-                  <a class="nav-link" {% static_href -%} href="{{site.baseurl}}/{{ other_language }}{{page.url}}" {%- endstatic_href %}>
+                  <a
+                    class="nav-link"
+                    {% static_href -%}
+                    href="{{site.baseurl}}/{{ other_language }}{{page.url}}"
+                    {%- endstatic_href %}>
                     {% if site.country_flag %}
                       <span class="fi fi-{{ other_language | split: "-" | last }}"></span>
                     {% else %}
@@ -125,7 +135,11 @@
                     {%- endif -%}
                   </a>
                 {% else %}
-                  <a class="nav-link" {% static_href -%} href="{{site.baseurl}}{{ page.url }}" {%- endstatic_href %}>
+                  <a
+                    class="nav-link"
+                    {% static_href -%}
+                    href="{{site.baseurl}}{{ page.url }}"
+                    {%- endstatic_href %}>
                     {% if site.country_flag %}
                       <span class="fi fi-{{ site.default_lang | split: "-" | last }}"></span>
                     {% else %}
@@ -143,8 +157,7 @@
                   role="button"
                   data-toggle="dropdown"
                   aria-haspopup="true"
-                  aria-expanded="false"
-                >
+                  aria-expanded="false">
                   {% if site.country_flag %}
                     <span class="fi fi-{{ site.active_lang | split: "-" | last }}"></span>
                   {% else %}
@@ -162,7 +175,11 @@
                         <div class="dropdown-divider"></div>
                       {% endif %}
                       {% if l == site.default_lang %}
-                        <a class="dropdown-item" {% static_href -%} href="{{site.baseurl}}{{page.url}}" {%- endstatic_href %}>
+                        <a
+                          class="dropdown-item"
+                          {% static_href -%}
+                          href="{{site.baseurl}}{{page.url}}"
+                          {%- endstatic_href %}>
                           {% if site.country_flag %}
                             <span class="fi fi-{{ l | split: "-" | last }}"></span>
                           {% else %}
@@ -170,7 +187,11 @@
                           {%- endif -%}
                         </a>
                       {% else %}
-                        <a class="dropdown-item" {% static_href -%} href="{{site.baseurl}}/{{l}}{{page.url}}" {%- endstatic_href %}>
+                        <a
+                          class="dropdown-item"
+                          {% static_href -%}
+                          href="{{site.baseurl}}/{{l}}{{page.url}}"
+                          {%- endstatic_href %}>
                           {% if site.country_flag %}
                             <span class="fi fi-{{ l | split: "-" | last }}"></span>
                           {% else %}
