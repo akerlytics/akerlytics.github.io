@@ -2,9 +2,9 @@
 page_id: tutorial-markdown
 layout: page
 permalink: /tutorial/
-title: Sheat sheet for Markdown text
+title: Cheet sheet for Markdown text
 description: Tutorial-Markdown
-nav: true
+nav: false
 #nav_order: 6
 ---
 

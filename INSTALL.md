@@ -17,6 +17,8 @@
 
 # Installing and Deploying
 
+for windows https://youtu.be/g6AJ9qPPoyc?si=FoDGV2H6XiL79Vgn&t=246
+
 ## Recommended Approach
 
 The recommended approach for using **al-folio** is to first create your own site using the template with as few changes as possible, and only when it is up and running customize it however you like. This way it is easier to pinpoint what causes a potential issue in case of a bug. The minimum steps required to create your own site are:
