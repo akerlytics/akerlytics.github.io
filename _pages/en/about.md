@@ -7,11 +7,9 @@ toc:
   sidebar: left
 ---
 
-allo
-
 # Overview of the Issue - Documents et instruments de l’OMS
 <!-- #region -->
-<!-- @#résumé-du-dossier---documents-et-instruments-de-l’oms -->
+<!-- @#overview-of-the-issue---documents-et-instruments-de-l’oms -->
 <!-- #endregion -->
 
 Ce document fournit un aperçu des efforts actuels de l'OMS pour développer et amender des instruments internationaux clés liés à la santé publique mondiale, notamment le Règlement Sanitaire International (RSI) et le Traité international sur la prévention, la préparation et la riposte aux pandémies. Il met en lumière les rencontres clés, les entités en charge, et les documents importants associés à ces efforts. De plus, il souligne l'importance de l'engagement public et du débat parlementaire concernant ces développements, ainsi que le rôle critique des organisations non gouvernementales comme le World Council for Health dans la fourniture de contre-arguments et de recommandations basées sur des preuves. Les citations sélectionnées présentent les préoccupations concernant l'influence des contributions financières sur les décisions de l'OMS et l'importance de maintenir la souveraineté nationale face aux pressions internationales pour l'adoption de ces nouveaux instruments juridiques.
@@ -21,7 +19,7 @@ Ce document fournit un aperçu des efforts actuels de l'OMS pour développer et 
 ## Object de la recherche
 <!-- #region -->
 <!-- @#object-de-la-recherche -->
-<sup>[ | ](#résumé-du-dossier---documents-et-instruments-de-l’oms)[ << ](#object-de-la-recherche)[ up ](#résumé-du-dossier---documents-et-instruments-de-l’oms)[ down ](#réunions-et-documents-récents)</sup>
+<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8681; ](#réunions-et-documents-récents) - [ &#9998; ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ ? ](#réunions-et-documents-récents)</sup>
 <!-- #endregion -->
 
 Deux documents de l’Organisme mondial de la santé (OMS) sont en cours de développement et seront signés en loi par le Canada le 22 mai 2024. Des mises à jour sont prévues avant cette date :
@@ -48,7 +46,7 @@ Ces rencontres sont organisées par l’Organe de Négociation Intergouvernement
 ## Réunions et documents récents
 <!-- #region -->
 <!-- @#réunions-et-documents-récents -->
-<sup>[ | ](#résumé-du-dossier---documents-et-instruments-de-l’oms)[ << ](#object-de-la-recherche)[ up ](#object-de-la-recherche)[ down ](#documents-importants-de-loms)</sup>
+<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#object-de-la-recherche)[ &#8681; ](#documents-importants-de-loms) - [ &#9998; ](#object-de-la-recherche)[ ? ](#documents-importants-de-loms)</sup>
 <!-- #endregion -->
 
 - [Septième réunion de l'INB](https://apps.who.int/gb/inb/e/e_inb-7.html)
@@ -60,7 +58,7 @@ Ces rencontres sont organisées par l’Organe de Négociation Intergouvernement
 ## Documents importants de l'OMS
 <!-- #region -->
 <!-- @#documents-importants-de-loms -->
-<sup>[ | ](#résumé-du-dossier---documents-et-instruments-de-l’oms)[ << ](#object-de-la-recherche)[ up ](#réunions-et-documents-récents)[ down ](#comité-interne-à-loms-danalyse-des-changements)</sup>
+<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#réunions-et-documents-récents)[ &#8681; ](#comité-interne-à-loms-danalyse-des-changements) - [ &#9998; ](#réunions-et-documents-récents)[ ? ](#comité-interne-à-loms-danalyse-des-changements)</sup>
 <!-- #endregion -->
 
 - **Dernière version du document sur la prévention, la préparation et la riposte aux pandémies** :
@@ -71,7 +69,7 @@ Ces rencontres sont organisées par l’Organe de Négociation Intergouvernement
 ## Comité interne à l'OMS d'analyse des changements
 <!-- #region -->
 <!-- @#comité-interne-à-loms-danalyse-des-changements -->
-<sup>[ | ](#résumé-du-dossier---documents-et-instruments-de-l’oms)[ << ](#object-de-la-recherche)[ up ](#documents-importants-de-loms)[ down ](#chronologie-des-événements)</sup>
+<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#documents-importants-de-loms)[ &#8681; ](#chronologie-des-événements) - [ &#9998; ](#documents-importants-de-loms)[ ? ](#chronologie-des-événements)</sup>
 <!-- #endregion -->
 
 - [Document de référence en anglais](https://apps.who.int/gb/wgihr/pdf_files/wgihr2/A_WGIHR2_Reference_document-en.pdf)
@@ -81,7 +79,7 @@ Ces rencontres sont organisées par l’Organe de Négociation Intergouvernement
 ## Chronologie des événements
 <!-- #region -->
 <!-- @#chronologie-des-événements -->
-<sup>[ | ](#résumé-du-dossier---documents-et-instruments-de-l’oms)[ << ](#object-de-la-recherche)[ up ](#comité-interne-à-loms-danalyse-des-changements)[ down ](#points-importants)</sup>
+<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#comité-interne-à-loms-danalyse-des-changements)[ &#8681; ](#points-importants) - [ &#9998; ](#comité-interne-à-loms-danalyse-des-changements)[ ? ](#points-importants)</sup>
 <!-- #endregion -->
 
 Pour plus d'informations sur l'historique des deux documents, consultez :
@@ -100,7 +98,7 @@ todo: move to Leslyne Lewis
 ## Points importants
 <!-- #region -->
 <!-- @#points-importants -->
-<sup>[ | ](#résumé-du-dossier---documents-et-instruments-de-l’oms)[ << ](#object-de-la-recherche)[ up ](#chronologie-des-événements)[ down ](#pétitions)</sup>
+<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#chronologie-des-événements)[ &#8681; ](#pétitions) - [ &#9998; ](#chronologie-des-événements)[ ? ](#pétitions)</sup>
 <!-- #endregion -->
 
 - **Concernant le point 2 de la lettre envoyée aux députés** :
@@ -114,7 +112,7 @@ todo: move to Leslyne Lewis
 ## Pétitions
 <!-- #region -->
 <!-- @#pétitions -->
-<sup>[ | ](#résumé-du-dossier---documents-et-instruments-de-l’oms)[ << ](#object-de-la-recherche)[ up ](#points-importants)[ down ](#organisme-important)</sup>
+<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#points-importants)[ &#8681; ](#organisme-important) - [ &#9998; ](#points-importants)[ ? ](#organisme-important)</sup>
 <!-- #endregion -->
 
 - **Pétition à la Chambre des communes** et **Pétition au gouvernement du Canada** :
@@ -129,7 +127,7 @@ voir les [notes sur les pétitions Canadiennes](/petitions/can/)
 ## Organisme important
 <!-- #region -->
 <!-- @#organisme-important -->
-<sup>[ | ](#résumé-du-dossier---documents-et-instruments-de-l’oms)[ << ](#object-de-la-recherche)[ up ](#pétitions)[ down ](#citations-importantes)</sup>
+<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#pétitions)[ &#8681; ](#citations-importantes) - [ &#9998; ](#pétitions)[ ? ](#citations-importantes)</sup>
 <!-- #endregion -->
 
 - **World Council for Health Policy** :
@@ -145,7 +143,7 @@ voir les [notes sur les pétitions Canadiennes](/petitions/can/)
 ## Citations importantes
 <!-- #region -->
 <!-- @#citations-importantes -->
-<sup>[ | ](#résumé-du-dossier---documents-et-instruments-de-l’oms)[ << ](#object-de-la-recherche)[ up ](#organisme-important) ~~down~~</sup>
+<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#organisme-important) ~~down~~  - [ &#9998; ](#organisme-important)[ ? ]()</sup>
 <!-- #endregion -->
 
 > Un groupe d'experts en sciences politiques et en droit a préparé un brief politique approfondi de 45 pages sur les amendements proposés aux Règlements Sanitaires Internationaux (2005) et le traité/accord pandémique de l'OMS (WHO CA+). Ce brief offre un aperçu professionnel sur les instruments juridiques proposés. Il présente également un compte rendu historique des erreurs commises pendant la pandémie de COVID, décrit les tentatives faites pour établir ces erreurs comme normes acceptées, et fournit des insights précieux sur comment corriger le cap avant qu'il ne soit trop tard. Les points centraux du brief sont résumés ci-dessous pour votre commodité.

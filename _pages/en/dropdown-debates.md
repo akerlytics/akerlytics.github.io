@@ -10,4 +10,7 @@ children:
   - title: Debates
     permalink: /debates/
   - title: divider
+  - title: Petitions
+    permalink: /petitions/
+  - title: divider
 ---
