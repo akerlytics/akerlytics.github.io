@@ -1,5 +1,5 @@
 ---
-id: dropdown-debates
+id: dropdown-petitions
 layout: page
 title: petitions
 # nav: true

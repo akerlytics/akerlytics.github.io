@@ -1,10 +1,10 @@
 ---
-id: dropdown-debates
+id: dropdown-petitions
 layout: page
 title: Pétitions
-nav: true
+# nav: true
 # nav_order: 3
-# dropdown: true
+dropdown: true
 children:
   - title: Pétitions
     permalink: /petitions/

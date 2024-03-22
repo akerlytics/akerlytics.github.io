@@ -228,6 +228,7 @@ exclude:
   - readme_preview/
   - UPGRADING.md
   - vendor
+  - _text_content/_pages # has no effect
 keep_files:
   - CNAME
   - .nojekyll
@@ -246,7 +247,7 @@ plugins:
   - jekyll-polyglot
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-toc
+  - jekyll-toc # https://github.com/toshimaru/jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
 

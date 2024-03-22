@@ -3,150 +3,170 @@ page_id: about
 layout: about
 title: About
 permalink: /
-toc:
-  sidebar: left
+# toc:
+#   sidebar: left
 ---
 
-# Overview of the Issue - Documents et instruments de l’OMS
+# Political Issue Tracker - CAN
 <!-- #region -->
-<!-- @#overview-of-the-issue---documents-et-instruments-de-l’oms -->
+<!-- @#political-issue-tracker---can -->
 <!-- #endregion -->
 
-Ce document fournit un aperçu des efforts actuels de l'OMS pour développer et amender des instruments internationaux clés liés à la santé publique mondiale, notamment le Règlement Sanitaire International (RSI) et le Traité international sur la prévention, la préparation et la riposte aux pandémies. Il met en lumière les rencontres clés, les entités en charge, et les documents importants associés à ces efforts. De plus, il souligne l'importance de l'engagement public et du débat parlementaire concernant ces développements, ainsi que le rôle critique des organisations non gouvernementales comme le World Council for Health dans la fourniture de contre-arguments et de recommandations basées sur des preuves. Les citations sélectionnées présentent les préoccupations concernant l'influence des contributions financières sur les décisions de l'OMS et l'importance de maintenir la souveraineté nationale face aux pressions internationales pour l'adoption de ces nouveaux instruments juridiques.
+Welcome to the **Political Issue Tracker** effort for the current issue of concern for Canadians.
+
+Current issue:
+> World Health Organisation's documents which will be signed into law Mai 22 2024.
+
+See below for a description of the current issue.
+
+### Intent and roadmap for tracking this issue
+
+The intent is for this effort to be an *open source* living document repository. Thi website is hosted and stored with the service of *GitHub*. Since the whole project is located there, any one can request to participate, see [contribute](todo).
 
 
 ---
-## Object de la recherche
+## Overview Description of the Issue
 <!-- #region -->
-<!-- @#object-de-la-recherche -->
-<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8681; ](#réunions-et-documents-récents) - [ &#9998; ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ ? ](#réunions-et-documents-récents)</sup>
+<!-- @#overview-of-the-issue---documents-and-instruments-of-the-who -->
 <!-- #endregion -->
 
-Deux documents de l’Organisme mondial de la santé (OMS) sont en cours de développement et seront signés en loi par le Canada le 22 mai 2024. Des mises à jour sont prévues avant cette date :
+This document provides an overview of the current efforts of the WHO to develop and amend key international instruments related to global public health, including the International Health Regulations (IHR) and the International Treaty on Pandemic Prevention, Preparedness, and Response. It highlights key meetings, the entities in charge, and the important documents associated with these efforts. Furthermore, it emphasizes the importance of public engagement and parliamentary debate regarding these developments, as well as the critical role of non-governmental organizations like the World Council for Health in providing counter-arguments and evidence-based recommendations. Selected quotes present concerns about the influence of financial contributions on WHO decisions and the importance of maintaining national sovereignty in the face of international pressures to adopt these new legal instruments.
 
-- **Huitième rencontre** : 19 février – 1 mars 2024
-- **Neuvième rencontre** : 18–29 mars 2024
-
-Ces rencontres sont organisées par l’Organe de Négociation Intergouvernemental (ONI) ou Intergovernmental Negotiating Body (INB) en anglais.
-
-### Les deux documents de l'OMS
-<!-- #region -->
-<!-- @#les-deux-documents-de-loms -->
-<!-- #endregion -->
-
-1. **Règlement Sanitaire International (2005) (RSI)** ou International Health Regulations (2005) (IHR) en anglais.
-   - Entité en charge : Working Group on Amendments to the International Health Regulations (WGIHR) ou Groupe de travail pour les amendements au Règlement sanitaire international.
-   - [Plus d'informations](https://apps.who.int/gb/wgihr/)
-
-2. **Traité international sur la prévention, la préparation et la riposte aux pandémies** ou International Treaty on Pandemic Prevention, Preparedness, and Response (Pandemic Treaty) en anglais.
-   - Entité en charge : Intergovernmental Negotiating Body (INB) ou Organe de Négociation Intergouvernemental (ONI).
-   - [Plus d'informations](https://inb.who.int/)
 
 ---
-## Réunions et documents récents
+## Research Objective
 <!-- #region -->
-<!-- @#réunions-et-documents-récents -->
-<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#object-de-la-recherche)[ &#8681; ](#documents-importants-de-loms) - [ &#9998; ](#object-de-la-recherche)[ ? ](#documents-importants-de-loms)</sup>
+<!-- @#research-objective -->
 <!-- #endregion -->
 
-- [Septième réunion de l'INB](https://apps.who.int/gb/inb/e/e_inb-7.html)
-- **Prochaines réunions** :
-  - Huitième réunion de l'INB : 19 février – 1 mars 2024
-  - Neuvième réunion de l'INB : 18–29 mars 2024
+Two documents from the World Health Organization (WHO) are currently being developed and will be signed into law by Canada on May 22, 2024. Updates are expected before this date:
+
+- **Ninth meeting**: March 18–29, 2024
+
+These meetings are organized by the Intergovernmental Negotiating Body (INB), see next section for link to INB.
+
+### The two active WHO documents
+
+The two following documents are in the final stretch to being signed in May 2024. These documents represent critical components of the World Health Organization's (WHO) ongoing efforts to strengthen global health security and governance. The International Health Regulations (2005) (IHR) and the International Treaty on Pandemic Prevention, Preparedness, and Response (Pandemic Treaty) are intended to establishing a framework for international cooperation and response to public health emergencies. The development and amendment of these documents involve extensive negotiations and consultations with member states, reflecting the collective ambition to enhance global preparedness against future pandemics. These efforts underscore the importance of a coordinated international approach to public health threats, emphasizing the need for transparency, equity, and shared responsibility.
+
+1. **International Health Regulations (2005) (IHR)**
+   - Entity in charge: Working Group on Amendments to the International Health Regulations (WGIHR).
+   - [More information on WGIHR](https://apps.who.int/gb/wgihr/)
+
+2. **International Treaty on Pandemic Prevention, Preparedness, and Response** (Pandemic Treaty)
+   - Entity in charge: Intergovernmental Negotiating Body (INB).
+   - [More information on INB](https://inb.who.int/)
+
+<!-- @optional target start -->
+Our concern here is that the consultations of member states doesn't automatically ensure proper discussions and debates are done by the member states with their respective populations. The democratic process requires not just the involvement of government officials and health experts but also the engagement of the public in meaningful ways. It is essential that these significant health governance instruments are subject to open, transparent, and inclusive debate within each country, allowing for a broad range of voices to be heard. This ensures that the policies and agreements forged at the international level truly reflect the will and the needs of the people they affect, safeguarding democratic principles in global health decision-making.
+<!-- @optional target end -->
+
+<!-- @optional text
+Our concern here is that the consultations of member states don't automatically ensure proper discussions and debates are conducted by the member states with their respective populations. The democratic process demands that such significant international agreements undergo thorough public scrutiny and debate within each country. This is crucial to ensure that the voices of the citizens are heard and that their concerns and perspectives are taken into account before such treaties are ratified. The essence of democracy is not just in the act of voting but in continuous and informed participation of the public in decisions that affect their lives and futures. Therefore, it is imperative that member states commit to engaging their populations in meaningful dialogue about these documents, to uphold the principles of democracy and ensure that international health policies are aligned with the will and welfare of the people.
+-->
+<!-- @optional voting
+Note to contributors: do not write directly into this section, this is filled automatically
+Todo: number, voting link, deadline for inclusion to document
+-->
+
+<!-- @optional display start -->
+<!-- Note to contributors: do not write directly into this section, this is filled automatically -->
+<!-- @optional display end -->
 
 ---
-## Documents importants de l'OMS
+## Recent Meetings and Documents
 <!-- #region -->
-<!-- @#documents-importants-de-loms -->
-<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#réunions-et-documents-récents)[ &#8681; ](#comité-interne-à-loms-danalyse-des-changements) - [ &#9998; ](#réunions-et-documents-récents)[ ? ](#comité-interne-à-loms-danalyse-des-changements)</sup>
+<!-- @#recent-meetings-and-documents -->
 <!-- #endregion -->
 
-- **Dernière version du document sur la prévention, la préparation et la riposte aux pandémies** :
-  - [Anglais](https://apps.who.int/gb/inb/pdf_files/inb7/A_INB7_3-en.pdf)
-  - [Français](https://apps.who.int/gb/inb/pdf_files/inb7/A_INB7_3-fr.pdf)
+- [Seventh INB meeting](https://apps.who.int/gb/inb/e/e_inb-7.html)
+- [Height INB meeting](https://apps.who.int/gb/inb/e/e_inb-8.html)
+- **Upcoming meetings**:
+  - Ninth INB meeting: March 18–29, 2024
 
 ---
-## Comité interne à l'OMS d'analyse des changements
+## Important WHO Documents
 <!-- #region -->
-<!-- @#comité-interne-à-loms-danalyse-des-changements -->
-<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#documents-importants-de-loms)[ &#8681; ](#chronologie-des-événements) - [ &#9998; ](#documents-importants-de-loms)[ ? ](#chronologie-des-événements)</sup>
+<!-- @#important-who-documents -->
 <!-- #endregion -->
 
-- [Document de référence en anglais](https://apps.who.int/gb/wgihr/pdf_files/wgihr2/A_WGIHR2_Reference_document-en.pdf)
-- [Document de référence en français](https://apps.who.int/gb/wgihr/pdf_files/wgihr2/A_WGIHR2_Reference_document-fr.pdf)
+- **Latest document on pandemic prevention, preparedness, and response**:
+  - [A_INB7_3-en.pdf](https://apps.who.int/gb/inb/pdf_files/inb7/A_INB7_3-en.pdf)
 
 ---
-## Chronologie des événements
+## WHO Internal Committee for Change Analysis
 <!-- #region -->
-<!-- @#chronologie-des-événements -->
-<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#comité-interne-à-loms-danalyse-des-changements)[ &#8681; ](#points-importants) - [ &#9998; ](#comité-interne-à-loms-danalyse-des-changements)[ ? ](#points-importants)</sup>
+<!-- @#who-internal-committee-for-change-analysis -->
 <!-- #endregion -->
 
-Pour plus d'informations sur l'historique des deux documents, consultez :
+- see [Reference document](https://apps.who.int/gb/wgihr/pdf_files/wgihr2/A_WGIHR2_Reference_document-en.pdf)
 
-- **Site de Leslyne Lewis** (députée élue par les comtés Haldimand - Norfolk de l’Ontario) :
-  - [Français](https://leslynlewismp-ca.translate.goog/2024/01/17/the-who-pandemic-treaty/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp)
-  - [Anglais](https://leslynlewismp.ca/2024/01/17/the-who-pandemic-treaty/)
+---
+## Timeline of Events
+<!-- #region -->
+<!-- @#timeline-of-events -->
+<!-- #endregion -->
+
+For more information on the history of the two documents, see:
+
+- **Leslyne Lewis's site** (elected MP for the Haldimand - Norfolk counties of Ontario):
+  - [French](https://leslynlewismp-ca.translate.goog/2024/01/17/the-who-pandemic-treaty/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp)
+  - [English](https://leslynlewismp.ca/2024/01/17/the-who-pandemic-treaty/)
 
 todo: move to Leslyne Lewis
-- **Contre-article** :
-  - [Français](https://www-cbc-ca.translate.goog/news/politics/leslyn-lewis-who-world-health-organization-pandemic-1.6460159?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp)
-  - [Anglais](https://www.cbc.ca/news/politics/leslyn-lewis-who-world-health-organization-pandemic-1.6460159)
+- **Counter-article**:
+  - [French](https://www-cbc-ca.translate.goog/news/politics/leslyn-lewis-who-world-health-organization-pandemic-1.6460159?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp)
+  - [English](https://www.cbc.ca/news/politics/leslyn-lewis-who-world-health-organization-pandemic-1.6460159)
 
 
 ---
-## Points importants
+## Key Points
 <!-- #region -->
-<!-- @#points-importants -->
-<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#chronologie-des-événements)[ &#8681; ](#pétitions) - [ &#9998; ](#chronologie-des-événements)[ ? ](#pétitions)</sup>
+<!-- @#key-points -->
 <!-- #endregion -->
 
-- **Concernant le point 2 de la lettre envoyée aux députés** :
-  > Deux autres amendements proposent de supprimer le mot « non contraignant » des définitions des termes « recommandation permanente » et « recommandation temporaire ».
+- **Regarding point 2 of the letter sent to MPs**:
+  > Two other amendments propose removing the word "non-binding" from the definitions of the terms "standing recommendation" and "temporary recommendation".
 
-- **Concernant le point 3 de la lettre** :
-  > Mentionner l’équité, l’inclusivité, la cohérence et la solidarité, en tant que principes, soit pour remplacer la référence qui est faite à la dignité, aux droits de l’homme et aux libertés fondamentales, soit sous la forme d’un paragraphe supplémentaire.
+- **Regarding point 3 of the letter**:
+  > Mention equity, inclusivity, coherence, and solidarity as principles, either to replace the reference made to dignity, human rights, and fundamental freedoms, or in the form of an additional paragraph.
 
 
 ---
-## Pétitions
+## Petitions
 <!-- #region -->
-<!-- @#pétitions -->
-<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#points-importants)[ &#8681; ](#organisme-important) - [ &#9998; ](#points-importants)[ ? ](#organisme-important)</sup>
+<!-- @#petitions -->
 <!-- #endregion -->
 
-- **Pétition à la Chambre des communes** et **Pétition au gouvernement du Canada** :
-  Les citoyens demandent que toute signature d'un traité international sur la pandémie par l'OMS soit approuvée par référendum public.
+- **Petition to the House of Commons** and **Petition to the Government of Canada**:
+  Citizens request that any signature of an international pandemic treaty by the WHO be approved by public referendum.
 
-voir les [notes sur les pétitions Canadiennes](/petitions/can/)
+see the [notes on Canadian petitions](/petitions/can/)
 
 [Link-test with header](/petitions/can/#petition-e-4401)
 
 
 ---
-## Organisme important
+## Important Entity
 <!-- #region -->
-<!-- @#organisme-important -->
-<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#pétitions)[ &#8681; ](#citations-importantes) - [ &#9998; ](#pétitions)[ ? ](#citations-importantes)</sup>
+<!-- @#important-entity -->
 <!-- #endregion -->
 
-- **World Council for Health Policy** :
-  Travaille sur le développement de briefs politiques pour présenter des recherches et recommandations sur diverses questions essentielles.
+- **World Council for Health Policy**:
+  Works on developing policy briefs to present research and recommendations on various key issues.
 
-  - [Lien vers les politiques](https://worldcouncilforhealth.org/policy/)
-  - [Compilation des amendements](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/WGIHR_Redlined-words-of-Proposed-Amendement-Compilation-en.pdf)
-  - [Arguments complets](https://worldcouncilforhealth.org/wp-content/uploads/2023/06/Rejecting-Monopoly-Power-over-Global-Public-Health.-WCH-Policy-Brief-on-the-Proposed-IHR-Amendments-and-Pandemic-Treaty.pdf)
-  - [Résumé des arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/Policy-Brief-Summary-1.pdf)
+  - [Link to policies](https://worldcouncilforhealth.org/policy/)
+  - [Compilation of amendments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/WGIHR_Redlined-words-of-Proposed-Amendement-Compilation-en.pdf)
+  - [Full arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/06/Rejecting-Monopoly-Power-over-Global-Public-Health.-WCH-Policy-Brief-on-the-Proposed-IHR-Amendments-and-Pandemic-Treaty.pdf)
+  - [Summary of arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/Policy-Brief-Summary-1.pdf)
 
 
 ---
-## Citations importantes
+## Important Quotes
 <!-- #region -->
-<!-- @#citations-importantes -->
-<sup>[ | ](#overview-of-the-issue---documents-et-instruments-de-l’oms)[ &#8803; ](#object-de-la-recherche)[ &#8679; ](#organisme-important) ~~down~~  - [ &#9998; ](#organisme-important)[ ? ]()</sup>
+<!-- @#important-quotes -->
 <!-- #endregion -->
 
-> Un groupe d'experts en sciences politiques et en droit a préparé un brief politique approfondi de 45 pages sur les amendements proposés aux Règlements Sanitaires Internationaux (2005) et le traité/accord pandémique de l'OMS (WHO CA+). Ce brief offre un aperçu professionnel sur les instruments juridiques proposés. Il présente également un compte rendu historique des erreurs commises pendant la pandémie de COVID, décrit les tentatives faites pour établir ces erreurs comme normes acceptées, et fournit des insights précieux sur comment corriger le cap avant qu'il ne soit trop tard. Les points centraux du brief sont résumés ci-dessous pour votre commodité.
+> A group of experts in political science and law prepared a comprehensive 45-page policy brief on the proposed amendments to the International Health Regulations (2005) and the WHO's pandemic treaty/agreement (WHO CA+). This brief provides a professional overview of the proposed legal instruments. It also presents a historical account of mistakes made during the COVID pandemic, describes attempts to establish these mistakes as accepted norms, and provides valuable insights on how to correct course before it's too late. The central points of the brief are summarized below for your convenience.
 
-> Il est notable dans ce contexte que l'OMS contrôle seulement environ un quart de son propre budget. Le reste consiste en contributions volontaires ciblées par ses bailleurs de fonds. Si elles sont adoptées, certaines des amendements aux RSI (2005) permettraient aux intérêts spéciaux qui ont compromis l'organisation (voir par exemple Cohen & Carter 2010) de standardiser et d'imposer comment les États et même les acteurs non étatiques dans le monde entier doivent répondre aux urgences de santé publique et aborder une variété de questions de santé mondiale en général.
-
+> It is notable in this context that the WHO controls only about a quarter of its own budget. The rest consists of targeted voluntary

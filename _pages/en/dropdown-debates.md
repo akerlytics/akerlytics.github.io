@@ -4,7 +4,6 @@ layout: page
 title: debates
 nav: true
 nav_order: 2
-
 dropdown: true
 children:
   - title: Debates

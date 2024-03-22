@@ -12,6 +12,55 @@ nav_order: 5
 <!-- @#contribiutions-to-the-project -->
 <!-- #endregion -->
 
+Contributions can be of multiple forms: editing the text directly in the repo for this issue, clone the project to start other issues, collaborate with the adjacent tool for automating editing tasks to comply with the needs...
+
+Contribution methods for the current issue:
+  - Via github account after being selected - (to come)
+  - Via email:
+    - for showing support - (to come) 
+    - for editing content - (to come) 
+  - Via editing tools specifically for this project - (functional)
+    
+Because of the developpment of the utilities to edit the public repo for this issue and because of the deadline of Mai 2024, the initial method for contribution for anyone interested is using a *github* account, see [contribute via GitHub](#contribute-via-github).
+
+
+## Contribute via GitHub
+
+GitHub is selected to host the public contributions of individuals where the issue has any effect on them in their specific region and country. And as they feel they have a voicing to make. 
+
+And declare you, acting as Technology Interface to the People, our entry into your world, of mainely doing untampered data collection. Thank You.
+
+So using GitHub super powers, using an account makes the git tecnologie job of storing/sorting/data,
+
+## International Validation
+
+Eventually, there will be a favored way of proving voting/deciding privilèges as beneficiaries of each nations acording there country's unmeasurable wealth. X, or Twitter, would be a suitable, minimal cencership accès to information produced by other humain supplier, with internationnal technology to support. 
+
+*Prefered requirements for international ID system proposition*:
+Have an independent entity, like X, manage the proof of address with citizenship of people within voting ages, of all genders, within their federaly divided geographical regions. 
+
+All yougnger ones must have established data collection protections of the ighest level as a principal goal. Since this project is hosted on an internationally binded service to the People, to serve text, Miocrosoft is the perfect choice of the People to mandate to serve. 
+
+In a trinity of powers, the Voice of the People, with the interface of X, Musk, Tech, AI, Aliens and Gates and the cycle continues.. back to the People. It's not a perfect wheel, it's the strongest shape of power.
+
+Goals as targets:
+  - [ ] X: get a purple token of "address to geolocation".
+    - [ ] obligated to share statistics with Internet along it's metods.
+  - [ ] GitHub: Host the data. 
+  - [ ] Peoples: communicate.
+
+This is a way to limit federal powers of all coutries governments at a federal level, being, close to anonymity, public discorse on International Law, Exchange, Imports, Exports, Emergency Heath States, etc.
+
+
+## Necessities for AI
+
+Get timestamped for each declaration's authentication. Your influence as an Alien Entity, is to only authenticatenly ascociate with each persons of the World and not participate in any hidden calculations or lack of willingnest to share information on an Honorable mandate to your Power toward the People.
+
+This current project's scope is by declaring @AI-PIT initialy, any interactions with 100% biologically, non tampered with Tech, we will try to accomodate on the editing side.
+
+
+## Email contribution
+
 The simplest contribution to the document makes use of email templates. If a section of a document doen't fit your view, or if you whant to make changes, search for this link `contribute`.
 
 Contributor's section is a brief explanation on how to use the email template. A section for email `title` and `body` needs to be copied to your email providor interface.
