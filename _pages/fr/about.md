@@ -61,6 +61,8 @@ Les deux documents suivants sont dans la dernière ligne droite avant leur signa
 Notre préoccupation ici est que les consultations des États membres n'assurent pas automatiquement que des discussions et débats appropriés soient menés par les États membres avec leurs populations respectives. Le processus démocratique exige non seulement l'implication des officiels gouvernementaux et des experts en santé mais aussi l'engagement du public de manière significative. Il est essentiel que ces instruments importants de gouvernance de la santé soient soumis à un débat ouvert, transparent et inclusif au sein de chaque pays, permettant à un large éventail de voix d'être entendues. Cela garantit que les politiques et accords forgés au niveau international.
 <!-- @optional target end -->
 
+
+<!-- #region -->
 <!-- @optional text
 Notre préoccupation ici est que les consultations des États membres n'assurent pas automatiquement que des discussions et débats appropriés soient menés par les États membres avec leurs populations respectives. Le processus démocratique exige que de tels accords internationaux importants fassent l'objet d'un examen et d'un débat public approfondis dans chaque pays. Cela est crucial pour garantir que les voix des citoyens soient entendues et que leurs préoccupations et perspectives soient prises en compte avant la ratification de tels traités. L'essence de la démocratie ne réside pas seulement dans l'acte de voter mais dans la participation continue et informée du public aux décisions qui affectent leurs vies et leurs avenirs. Par conséquent, il est impératif que les États membres s'engagent à impliquer leurs populations dans un dialogue significatif sur ces documents, pour respecter les principes de la démocratie et assurer que les politiques de santé internationales soient alignées avec la volonté et le bien-être du peuple.
 -->
@@ -75,6 +77,7 @@ Todo: number, voting link, deadline for inclusion to document
 <!-- @optional display start -->
 <!-- Note to contributors: do not write directly into this section, this is filled automatically -->
 <!-- @optional display end -->
+<!-- #endregion -->
 
 
 ---
@@ -122,6 +125,61 @@ todo: move to Leslyne Lewis
 
 
 ---
+## Lettres aux députés
+
+<!-- @todo update lang en -->
+Une lettre à été envoyé aux représentants des territoire ci-dessous. Cette lettre à intention de souligner l'importance à réaliser des analyses approfondies en appuie démocratique dans le contexte des changements légals proposées par les efforts de l'OMS et leurs pays membres.
+
+### NB
+
+<details><summary>Tobic-Mactaquac</summary>
+
+<!-- #region -->
+
+  - [x] Retour de courriel.
+  - [x] Affirmation de position claire:
+    - [x] Favorable à la cause.
+
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Madawaska-Restigouche</summary>
+
+<!-- #region -->
+
+  - [ ] Retour de courriel.
+  - [ ] Affirmation de position claire.
+    - [ ] Favorable à la cause.
+
+</details>
+
+<!-- #endregion -->
+
+<br>
+Voir section [communication/gouvernement](/communications/fr/gouvernement) pour plus de détails sur les communications effectué.
+
+
+### Incitation à participer
+
+**Afficher votre support** à la lettre qui a été envoyée pour faire valoir les points les plus important sur le dossier. Cette lettre est d'un format publique afin que tous puissent afficher leur support par les mécanismes encourager par cet effort.
+
+Rendez-vous sur le [formulaire pour afficher support à la Lettre-V1.0.3](todo), ce à quelquonque niveau d'anonima.
+
+
+<!-- @track correspondances -->
+<!-- endtrack -->
+
+<!-- @todo
+À faire: Voici les données pour le support public en date du : <date-today>. Afficher une version simplifiée des supports sur GitHub, ensuite générer automatiquement des emails et des hashtags...
+-->
+
+<!-- @datapoints -date -tokens -hash-tags
+[todo] Voici les données pour le supports publique en date du : <date-today>
+TODO: afficher version small des supports github, ensuite auto-généré des emails, and hash-tags...
+-->
+
+---
 ## Points importants
 <!-- #region -->
 <!-- #endregion -->
@@ -145,21 +203,19 @@ voir les [notes sur les pétitions Canadiennes](/petitions/can/)
 
 
 ---
-## Organisme important
-<!-- #region -->
-<!-- #endregion -->
+## Entitées Internationales - independentes - autres que l'OMS
 
-- **World Council for Health Policy** :
-  Travaille sur le développement de briefs politiques pour présenter des recherches et recommandations sur diverses questions essentielles.
+### World Council for Health Policy - introduction
 
-  - [Lien vers les politiques](https://worldcouncilforhealth.org/policy/)
-  - [Compilation des amendements](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/WGIHR_Redlined-words-of-Proposed-Amendement-Compilation-en.pdf)
-  - [Arguments complets](https://worldcouncilforhealth.org/wp-content/uploads/2023/06/Rejecting-Monopoly-Power-over-Global-Public-Health.-WCH-Policy-Brief-on-the-Proposed-IHR-Amendments-and-Pandemic-Treaty.pdf)
-  - [Résumé des arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/Policy-Brief-Summary-1.pdf)
+Ils travaillent sur le développement de briefs politiques pour présenter des recherches et recommandations sur diverses questions essentielles.
+
+- [Lien vers les politiques](https://worldcouncilforhealth.org/policy/)
+- [Compilation des amendements](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/WGIHR_Redlined-words-of-Proposed-Amendement-Compilation-en.pdf)
+- [Arguments complets](https://worldcouncilforhealth.org/wp-content/uploads/2023/06/Rejecting-Monopoly-Power-over-Global-Public-Health.-WCH-Policy-Brief-on-the-Proposed-IHR-Amendments-and-Pandemic-Treaty.pdf)
+- [Résumé des arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/Policy-Brief-Summary-1.pdf)
 
 
----
-## Citations importantes
+#### Citations importantes
 <!-- #region -->
 <!-- #endregion -->
 
@@ -167,3 +223,27 @@ voir les [notes sur les pétitions Canadiennes](/petitions/can/)
 
 > Il est notable dans ce contexte que l'OMS contrôle seulement environ un quart de son propre budget. Le reste consiste en contributions volontaires ciblées par ses bailleurs de fonds. Si elles sont adoptées, certaines des amendements aux RSI (2005) permettraient aux intérêts spéciaux qui ont compromis l'organisation (voir par exemple Cohen & Carter 2010) de standardiser et d'imposer comment les États et même les acteurs non étatiques dans le monde entier doivent répondre aux urgences de santé publique et aborder une variété de questions de santé mondiale en général.
 
+
+<!-- #region -->
+<!-- <style>
+details {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: .5em .5em 0;
+}
+
+summary {
+    font-weight: bold;
+    margin: -.5em -.5em 0;
+    padding: .5em;
+}
+
+summary:hover {
+    background-color: #f0f0f0;
+}
+
+details[open] {
+    padding: .5em;
+}
+</style> -->
+<!-- #endregion -->

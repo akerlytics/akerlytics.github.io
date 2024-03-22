@@ -167,7 +167,7 @@ collections:
     output: true
     permalink: /:collection/:title/
 
-  # forked
+  # demo
   news:
     defaults:
       layout: post

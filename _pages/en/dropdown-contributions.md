@@ -10,7 +10,7 @@ children:
   - title: Contribution
     permalink: /contributions/
   - title: divider
-  - title: Lettres pour Députées
+  - title: Letters to MP
     permalink: /todo/
   - title: divider
 ---

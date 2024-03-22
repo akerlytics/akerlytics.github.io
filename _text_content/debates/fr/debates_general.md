@@ -1,7 +1,7 @@
 ---
 page_id: debates
 layout: about
-title: Debates - General Scope
+title: Débats - Générale
 subtitle: 
 permalink: /debates/
 # nav: true
@@ -10,6 +10,6 @@ toc:
   sidebar: left
 ---
 
-TODO: Internation stage debates
+TODO: Test - FR
 
-add reference to World Council for Health HERE
+Ajouter les référence au World Coucil for Health ici.

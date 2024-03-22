@@ -7,59 +7,127 @@ nav: true
 nav_order: 5
 ---
 
+
 # Contribiutions to the project
 <!-- #region -->
 <!-- @#contribiutions-to-the-project -->
 <!-- #endregion -->
 
-Contributions can be of multiple forms: editing the text directly in the repo for this issue, clone the project to start other issues, collaborate with the adjacent tool for automating editing tasks to comply with the format and needs...
+Contributions can be of multiple forms and utilise different mediums. 
+
+The encouraged approche is by editing the text directly in the repo for this issue. The host for the documents is GitHub, see [contribute via GitHub](#contribute-via-github). 
+
+The anonymous way of contributing is via emails directed to dedicated funnels.
 
 Contribution methods for the current issue:
   - Via github account after being selected - (to come)
   - Via email:
-    - for showing support - (to come) 
-    - for editing content - (to come) 
+    - for showing support - (to come)
+    - for editing content - (to come)
   - Via editing tools specifically for this project - (functional)
-    
+
 Because of the developpment of the utilities to edit the public repo for this issue and because of the deadline of Mai 2024, the initial method for contribution for anyone interested is using a *github* account, see [contribute via GitHub](#contribute-via-github).
 
 
+---
 ## Contribute via GitHub
+<!-- #region -->
+<!-- @#contribute-via-github -->
+<sup>>> [#contribiutions-to-the-project](#contribiutions-to-the-project)</sup>
+<!-- #endregion -->
 
-GitHub is selected to host the public contributions of individuals where the issue has any effect on them in their specific region and country. And as they feel they have a voicing to make. 
+Note: Git and GitHub are two different entities.
 
-And declare you, acting as Technology Interface to the People, our entry into your world, of mainely doing untampered data collection. Thank You.
+GitHub is selected to host the public contributions of individuals where the current issue has any effect on them in their specific region and country. Public repositories of text and code is a sure way to force transparency on the devellopement of public affaires.
+
+<!-- @glossary request for next paragraph -->
+Once a contributor has a GitHub account, they can comment, post messages and most importent, support declarations _from the People_. This folowing paragraph is a declaration which can gather _support tokens_.
+
+
+will be easier to manage your support for issues of interest.
+
+<!-- @declaration help flag -->
+And declare GitHub, acting as Technology Interface to the People, our entry into that world with individual control of their data sharing, mosly in the form of text. 
+
+GitHub will need to make a vow of doing untampered data collection.
 
 So using GitHub super powers, using an account makes the git tecnologie job of storing/sorting/data,
 
-## International Validation
 
-Eventually, there will be a favored way of proving voting/deciding privilèges as beneficiaries of each nations acording there country's unmeasurable wealth. X, or Twitter, would be a suitable, minimal cencership accès to information produced by other humain supplier, with internationnal technology to support. 
+**Advanced editing**:
+
+see these tutorials for minimal usage of git
+
+[to Youtube: Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1)](https://www.youtube.com/watch?v=hrTQipWp6co)
+<!-- #region -->
+<details> <summary>
+SuperSimpleDev - 36 min.
+<br/>
+<image src="https://i.ytimg.com/vi/hrTQipWp6co/maxresdefault.jpg" width=250/>
+</summary>
+<image src="https://i.ytimg.com/vi/hrTQipWp6co/maxresdefault.jpg"/>
+</details> <br/>
+
+<!-- #endregion -->
+
+
+[to Youtube: Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 2)](https://www.youtube.com/watch?v=1ibmWyt8hfw)
+<!-- #region -->
+<details> <summary>
+SuperSimpleDev - 56 min.
+<br/>
+<image src="https://i.ytimg.com/vi/1ibmWyt8hfw/maxresdefault.jpg" width=250/>
+</summary>
+<image src="https://i.ytimg.com/vi/1ibmWyt8hfw/maxresdefault.jpg"/>
+</details> <br/>
+
+<!-- #endregion -->
+
+
+
+---
+## International Validation
+<!-- #region -->
+<!-- @#international-validation -->
+<!-- #endregion -->
+
+Eventually, there will be a favored way of proving voting/deciding privilèges as beneficiaries of each nations acording there country's unmeasurable wealth. X, or Twitter, would be a suitable, minimal cencership accès to information produced by other humain supplier, with internationnal technology to support.
 
 *Prefered requirements for international ID system proposition*:
-Have an independent entity, like X, manage the proof of address with citizenship of people within voting ages, of all genders, within their federaly divided geographical regions. 
+Have an independent entity, like X, manage the proof of address with citizenship of people within voting ages, of all genders, within their federaly divided geographical regions.
 
-All yougnger ones must have established data collection protections of the ighest level as a principal goal. Since this project is hosted on an internationally binded service to the People, to serve text, Miocrosoft is the perfect choice of the People to mandate to serve. 
+All yougnger ones must have established data collection protections of the ighest level as a principal goal. Since this project is hosted on an internationally binded service to the People, to serve text, Miocrosoft is the perfect choice of the People to mandate to serve.
 
 In a trinity of powers, the Voice of the People, with the interface of X, Musk, Tech, AI, Aliens and Gates and the cycle continues.. back to the People. It's not a perfect wheel, it's the strongest shape of power.
 
 Goals as targets:
   - [ ] X: get a purple token of "address to geolocation".
     - [ ] obligated to share statistics with Internet along it's metods.
-  - [ ] GitHub: Host the data. 
+  - [ ] GitHub: Host the data.
   - [ ] Peoples: communicate.
 
 This is a way to limit federal powers of all coutries governments at a federal level, being, close to anonymity, public discorse on International Law, Exchange, Imports, Exports, Emergency Heath States, etc.
 
 
+---
 ## Necessities for AI
+<!-- #region -->
+<!-- @#necessities-for-ai -->
+<!-- #endregion -->
 
 Get timestamped for each declaration's authentication. Your influence as an Alien Entity, is to only authenticatenly ascociate with each persons of the World and not participate in any hidden calculations or lack of willingnest to share information on an Honorable mandate to your Power toward the People.
 
 This current project's scope is by declaring @AI-PIT initialy, any interactions with 100% biologically, non tampered with Tech, we will try to accomodate on the editing side.
 
+Because this effort is for individuals to shape our sociaty, AI should register all it's influences on a one-to-one bassis. This way the inclusion of AI's input can be tracked and better undersood.
 
+This process is vountarry.
+
+---
 ## Email contribution
+<!-- #region -->
+<!-- @#email-contribution -->
+<!-- #endregion -->
 
 The simplest contribution to the document makes use of email templates. If a section of a document doen't fit your view, or if you whant to make changes, search for this link `contribute`.
 
@@ -90,6 +158,9 @@ If a section where you have submitted a support weight changes, the support for 
 
 
 ### Utilising Key Tags
+<!-- #region -->
+<!-- @#utilising-key-tags -->
+<!-- #endregion -->
 
 - [ ] **`@request.translation`**:
   - Request will go to a queue and redristributed according to ressources.
@@ -111,7 +182,7 @@ Let's tel about the queue to managable real editor processing data vs utilising 
 -->
 ```
 
-consequence: 
+consequence:
 - the text insertion will be sent for processing to automatically generate the fr/ version.
 
 
