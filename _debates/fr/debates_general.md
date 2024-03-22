@@ -3,7 +3,7 @@ page_id: debates
 layout: about
 title: Débats - Générale
 subtitle: 
-permalink: /debates/
+permalink: /fr/debates/
 # nav: true
 # nav_order: 3
 toc:

@@ -3,8 +3,8 @@ page_id: contributions
 layout: about
 title: Contributions
 permalink: /contributions/
-nav: true
-nav_order: 5
+# nav: true
+# nav_order: 5
 ---
 
 

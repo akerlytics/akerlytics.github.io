@@ -154,9 +154,6 @@ related_blog_posts:
 # -----------------------------------------------------------------------------
 
 collections:
-  text_content:
-    output: true
-    permalink: /:collection/:title/
   contributions:
     output: true
     permalink: /:collection/:title/
@@ -164,6 +161,9 @@ collections:
     output: true
     permalink: /:collection/:title/
   petitions: 
+    output: true
+    permalink: /:collection/:title/
+  presentation: 
     output: true
     permalink: /:collection/:title/
 
@@ -228,7 +228,7 @@ exclude:
   - readme_preview/
   - UPGRADING.md
   - vendor
-  - _text_content/_pages # has no effect
+  - text_content/
 keep_files:
   - CNAME
   - .nojekyll
