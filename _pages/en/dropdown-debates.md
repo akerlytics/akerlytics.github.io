@@ -6,10 +6,13 @@ nav: true
 nav_order: 2
 dropdown: true
 children:
-  - title: Debates
+  - title: General Information
     permalink: /debates/
   - title: divider
   - title: Petitions
     permalink: /petitions/
+  - title: divider
+  - title: Arguments
+    permalink: /debates/arguments/
   - title: divider
 ---

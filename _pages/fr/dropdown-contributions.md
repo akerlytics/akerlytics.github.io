@@ -11,6 +11,6 @@ children:
     permalink: /contributions/
   - title: divider
   - title: Lettres pour Députées
-    permalink: /todo/
+    permalink: /letters/
   - title: divider
 ---

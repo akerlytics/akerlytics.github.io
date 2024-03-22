@@ -10,6 +10,10 @@ toc:
   sidebar: left
 ---
 
-TODO: Internation stage debates
+# Debates on the issue of WHO's dual documents signature
 
-add reference to World Council for Health HERE
+Here are the subsections of this platform for debating the issue:
+
+- Petitions
+- Arguments
+- Canadian Law References

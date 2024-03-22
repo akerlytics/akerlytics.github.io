@@ -32,7 +32,7 @@ See below for a description of the current issue.
 - **[Letters to Deputies](#letters-to-deputies)**
 - **[Key Points](#key-points)**
 - **[Petitions](#petitions)**
-- **[Independent International Bodies, others](#independent-international-bodies,-others)**
+- **[Independent International Bodies](#independent-international-bodies)**
   - [World Council for Health Policy - introduction](#world-council-for-health-policy---introduction)
 <!-- #endregion -->
 
@@ -53,7 +53,7 @@ as well as the critical role of non-governmental organizations like the World Co
 <!-- #region -->
 <!-- #endregion -->
 
-Two documents from the World Health Organization (WHO) are currently being developed and will be signed into law by Canada on May 22, 2024. Updates are expected before this date:
+Two documents from the World Health Organization (WHO) are currently being developed and will be signed into law by Canada on May 22, 2024. Updates are expected at this date:
 
 - **Ninth meeting**: March 18–29, 2024
 
@@ -133,9 +133,11 @@ todo: move to Leslyne Lewis
 ---
 ## Letters to Deputies
 
-A letter with the general intention of emphasizing the importance of conducting thorough and respectful analyses for our health was sent to representatives of these circonscriptions:
+---
+## Letters to the Deputies
 
-<!-- @todo dates (dates should be off different level of officialisation, ex: proof of communications from an account to a politician -->
+A letter has been sent to the representatives of the territories below. This letter aims to highlight the importance of conducting thorough analyses with democratic support in the context of the legal changes proposed by the efforts of the WHO and its member countries.
+
 **NB**:
 
 fold Tobic-Mactaquac
@@ -180,7 +182,7 @@ see the [notes on Canadian petitions](/petitions/can/)
 
 
 ---
-## Independent International Bodies, others
+## Independent International Bodies
 <!-- #region -->
 <!-- #endregion -->
 

@@ -11,12 +11,33 @@ permalink: /
 <!-- #region -->
 <!-- #endregion -->
 
-Bienvenue dans l'effort de **Suivi des Problèmes Politiques** pour la question actuelle préoccupante pour certains Canadiens.
+Bienvenue dans l'effort de **Suivi des Problèmes Politiques** pour la question actuelle préoccupante pour tous les Canadiens.
 
 Problème actuel :
 > Les documents de l'Organisation Mondiale de la Santé qui seront signés en tant que loi le 22 mai 2024.
 
 Voir ci-dessous pour une description du problème actuel.
+
+---
+## Table des matières
+<!-- #region -->
+
+- **[Résumé et description du dossier](#résumé-et-description-du-dossier)**
+- **[Object de la recherche](#object-de-la-recherche)**
+  - [Les deux documents actifs de l'OMS](#les-deux-documents-actifs-de-loms)
+- **[Réunions et documents récents](#réunions-et-documents-récents)**
+- **[Documents importants de l'OMS](#documents-importants-de-loms)**
+- **[Comité interne à l'OMS d'analyse des changements](#comité-interne-à-loms-danalyse-des-changements)**
+- **[Chronologie des événements](#chronologie-des-événements)**
+- **[Lettres aux députés](#lettres-aux-députés)**
+  - [NB](#nb)
+  - [Incitation à participer](#incitation-à-participer)
+- **[Points importants](#points-importants)**
+- **[Pétitions](#pétitions)**
+- **[Entitées Internationales - independentes - autres que l'OMS](#entitées-internationales---independentes---autres-que-loms)**
+  - [World Council for Health Policy - introduction](#world-council-for-health-policy---introduction)
+    - [Citations importantes](#citations-importantes)
+<!-- #endregion -->
 
 ---
 ## Résumé et description du dossier
@@ -31,7 +52,7 @@ Ce document fournit un aperçu des efforts actuels de l'OMS pour développer et 
 <!-- #region -->
 <!-- #endregion -->
 
-Deux documents de l’Organisme mondial de la santé (OMS) sont en cours de développement et seront signés en loi par le Canada le 22 mai 2024. Des mises à jour sont prévues avant cette date :
+Deux documents de l’Organisme mondial de la santé (OMS) sont en cours de développement et seront signés en loi par le Canada le 22 mai 2024. Voici les rencontres de consultations restantent :
 
 - **Neuvième et dernière rencontre** : 18–29 mars 2024
 
@@ -127,8 +148,8 @@ todo: move to Leslyne Lewis
 ---
 ## Lettres aux députés
 
-<!-- @todo update lang en -->
-Une lettre à été envoyé aux représentants des territoire ci-dessous. Cette lettre à intention de souligner l'importance à réaliser des analyses approfondies en appuie démocratique dans le contexte des changements légals proposées par les efforts de l'OMS et leurs pays membres.
+<!-- @todo OK update lang en -->
+Une lettre à été envoyé aux représentants des territoire ci-dessous. Cette lettre a pour intention de souligner l'importance à réaliser des analyses approfondies en appuie démocratique dans le contexte des changements légals proposées par les efforts de l'OMS et leurs pays membres.
 
 ### NB
 
@@ -159,16 +180,16 @@ Une lettre à été envoyé aux représentants des territoire ci-dessous. Cette 
 <br>
 Voir section [communication/gouvernement](/communications/fr/gouvernement) pour plus de détails sur les communications effectué.
 
+<!-- @track correspondances -->
+<!-- endtrack -->
 
 ### Incitation à participer
 
-**Afficher votre support** à la lettre qui a été envoyée pour faire valoir les points les plus important sur le dossier. Cette lettre est d'un format publique afin que tous puissent afficher leur support par les mécanismes encourager par cet effort.
+**Afficher votre support** à la lettre qui a été envoyée pour faire valoir les points les plus important sur le dossier. Cette lettre est d'un format publique afin que tous puissent afficher leur support.
 
-Rendez-vous sur le [formulaire pour afficher support à la Lettre-V1.0.3](todo), ce à quelquonque niveau d'anonima.
+Rendez-vous sur le [formulaire pour afficher support à la Lettre-V1.0.3](todo) pour les options actuelles.
 
 
-<!-- @track correspondances -->
-<!-- endtrack -->
 
 <!-- @todo
 À faire: Voici les données pour le support public en date du : <date-today>. Afficher une version simplifiée des supports sur GitHub, ensuite générer automatiquement des emails et des hashtags...
@@ -208,6 +229,8 @@ voir les [notes sur les pétitions Canadiennes](/petitions/can/)
 ### World Council for Health Policy - introduction
 
 Ils travaillent sur le développement de briefs politiques pour présenter des recherches et recommandations sur diverses questions essentielles.
+
+Note: tous les liens qui suivent sont vers des ressources anglophone.
 
 - [Lien vers les politiques](https://worldcouncilforhealth.org/policy/)
 - [Compilation des amendements](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/WGIHR_Redlined-words-of-Proposed-Amendement-Compilation-en.pdf)

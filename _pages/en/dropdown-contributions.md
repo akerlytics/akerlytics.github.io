@@ -11,6 +11,6 @@ children:
     permalink: /contributions/
   - title: divider
   - title: Letters to MP
-    permalink: /todo/
+    permalink: /letters/
   - title: divider
 ---

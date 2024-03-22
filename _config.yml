@@ -160,6 +160,9 @@ collections:
   debates: 
     output: true
     permalink: /:collection/:title/
+  letters: 
+    output: true
+    permalink: /:collection/:title/
   petitions: 
     output: true
     permalink: /:collection/:title/

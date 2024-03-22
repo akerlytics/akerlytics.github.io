@@ -10,4 +10,4 @@ toc:
   sidebar: left
 ---
 
-voir v. Anglaise
+Page Francophone
