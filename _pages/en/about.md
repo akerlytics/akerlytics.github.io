@@ -21,7 +21,7 @@ See below for a description of the current issue.
 
 ### Intent and roadmap for tracking this issue
 
-The intent is for this effort to be an *open source* living document repository. Thi website is hosted and stored with the service of *GitHub*. Since the whole project is located there, any one can request to participate, see [contribute](todo).
+The intent is for this effort to be an *open source* living document repository. This website is hosted and stored with the service of *GitHub*. Since the whole project is located there, any one can request to participate, see [contribute](todo).
 
 
 ---
@@ -30,7 +30,11 @@ The intent is for this effort to be an *open source* living document repository.
 <!-- @#overview-of-the-issue---documents-and-instruments-of-the-who -->
 <!-- #endregion -->
 
-This document provides an overview of the current efforts of the WHO to develop and amend key international instruments related to global public health, including the International Health Regulations (IHR) and the International Treaty on Pandemic Prevention, Preparedness, and Response. It highlights key meetings, the entities in charge, and the important documents associated with these efforts. Furthermore, it emphasizes the importance of public engagement and parliamentary debate regarding these developments, as well as the critical role of non-governmental organizations like the World Council for Health in providing counter-arguments and evidence-based recommendations. Selected quotes present concerns about the influence of financial contributions on WHO decisions and the importance of maintaining national sovereignty in the face of international pressures to adopt these new legal instruments.
+This document provides an overview of the current efforts of the WHO to develop and amend key international instruments related to global public health, including the International Health Regulations (IHR) and the International Treaty on Pandemic Prevention, Preparedness, and Response. It highlights key meetings, the entities in charge, and the important documents associated with these efforts. Furthermore, it emphasizes the importance of public engagement and parliamentary debate regarding these developments, 
+
+<!-- @optional 
+as well as the critical role of non-governmental organizations like the World Council for Health in providing counter-arguments and evidence-based recommendations. Selected quotes present concerns about the influence of financial contributions on WHO decisions and the importance of maintaining national sovereignty in the face of international pressures to adopt these new legal instruments.
+-->
 
 
 ---
@@ -47,7 +51,7 @@ These meetings are organized by the Intergovernmental Negotiating Body (INB), se
 
 ### The two active WHO documents
 
-The two following documents are in the final stretch to being signed in May 2024. These documents represent critical components of the World Health Organization's (WHO) ongoing efforts to strengthen global health security and governance. The International Health Regulations (2005) (IHR) and the International Treaty on Pandemic Prevention, Preparedness, and Response (Pandemic Treaty) are intended to establishing a framework for international cooperation and response to public health emergencies. The development and amendment of these documents involve extensive negotiations and consultations with member states, reflecting the collective ambition to enhance global preparedness against future pandemics. These efforts underscore the importance of a coordinated international approach to public health threats, emphasizing the need for transparency, equity, and shared responsibility.
+The two following documents are in the final stretch to being signed in May 2024. These documents represent critical components of the World Health Organization's (WHO) ongoing efforts to strengthen global health security and governance. The International Health Regulations (2005) (IHR) and the International Treaty on Pandemic Prevention, Preparedness, and Response (Pandemic Treaty) are of the order of establishing a framework for international cooperation and response to public health emergencies. The development and amendment of these documents involve extensive negotiations and consultations with member states, reflecting the collective ambition to enhance global preparedness against future pandemics. These efforts underscore the importance of a coordinated international approach to public health threats, emphasizing the need for transparency, equity, and shared responsibility.
 
 1. **International Health Regulations (2005) (IHR)**
    - Entity in charge: Working Group on Amendments to the International Health Regulations (WGIHR).
@@ -110,14 +114,16 @@ Todo: number, voting link, deadline for inclusion to document
 For more information on the history of the two documents, see:
 
 - **Leslyne Lewis's site** (elected MP for the Haldimand - Norfolk counties of Ontario):
-  - [French](https://leslynlewismp-ca.translate.goog/2024/01/17/the-who-pandemic-treaty/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp)
-  - [English](https://leslynlewismp.ca/2024/01/17/the-who-pandemic-treaty/)
+  - [leslynlewismp.ca/](https://leslynlewismp.ca/2024/01/17/the-who-pandemic-treaty/)
 
 todo: move to Leslyne Lewis
 - **Counter-article**:
-  - [French](https://www-cbc-ca.translate.goog/news/politics/leslyn-lewis-who-world-health-organization-pandemic-1.6460159?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp)
-  - [English](https://www.cbc.ca/news/politics/leslyn-lewis-who-world-health-organization-pandemic-1.6460159)
+  - [www-cbc-ca](https://www.cbc.ca/news/politics/leslyn-lewis-who-world-health-organization-pandemic-1.6460159)
 
+
+## Letters Where sent to Officials
+
+The two canadian electoral regions of 
 
 ---
 ## Key Points

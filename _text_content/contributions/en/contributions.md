@@ -12,7 +12,7 @@ nav_order: 5
 <!-- @#contribiutions-to-the-project -->
 <!-- #endregion -->
 
-Contributions can be of multiple forms: editing the text directly in the repo for this issue, clone the project to start other issues, collaborate with the adjacent tool for automating editing tasks to comply with the needs...
+Contributions can be of multiple forms: editing the text directly in the repo for this issue, clone the project to start other issues, collaborate with the adjacent tool for automating editing tasks to comply with the format and needs...
 
 Contribution methods for the current issue:
   - Via github account after being selected - (to come)
@@ -68,6 +68,9 @@ Contributor's section is a brief explanation on how to use the email template. A
 Note on adding editing comments for a section: since a section can get support via the `show_support` functionality. Minor changes will most likely appear in a foldable region of the section at the end, next to the *giscus* comments.
 
 
+Contribute:
+  - Suggest alternate timeline ressources.
+
 ---
 ## Personal Data
 <!-- #region -->
@@ -84,6 +87,32 @@ If you make contributions to some text, the previous personal information will p
 Emails will be collected and attributed a unique identifier. Spam emails will be ignored. Any Email can be flagged for Spam, all senders will be notified if this appens. Emails can be verified per voter region of their democratic system.
 
 If a section where you have submitted a support weight changes, the support for past version will be kept and an automatic email will be sent to update support status.
+
+
+### Utilising Key Tags
+
+- [ ] **`@request.translation`**:
+  - Request will go to a queue and redristributed according to ressources.
+- [ ] **`@request.manual.translation`**:
+  - specify manual review, gets a longer lifetime for request.
+- [ ] **`@request.ai.translation.chatgpt`**:
+  - shortcut to the goodies.
+- [ ] **`@request.google.translation`**:
+  - might be something
+
+
+How to use in text:
+
+```markdown
+Some text.
+
+<!-- @request.translation
+Let's tel about the queue to managable real editor processing data vs utilising the automations available.
+-->
+```
+
+consequence: 
+- the text insertion will be sent for processing to automatically generate the fr/ version.
 
 
 ### Subscriptions
