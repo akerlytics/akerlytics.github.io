@@ -8,7 +8,7 @@ permalink: /letters/
 
 # Letter directed to MP
 
-In Canada the People of each province and territories are repesented by an elected persone for their circonscription as per their main address.
+In Canada the people of each province and territories are repesented by an elected persone for their circonscription.
 
 This section is dedicated to the official correspondance with the elected officials.
 
@@ -21,7 +21,7 @@ Please refer to these links to make a copy of the original communication devices
 [Lettre V1.0.3](/letters/v1.0.3)
 
 
-### Circonccriptions
+### Circonscriptions
 
 #### NB
 
@@ -52,5 +52,5 @@ Please refer to these links to make a copy of the original communication devices
 <!-- #endregion -->
 
 <br>
-Voir section [communication/gouvernement](/communications/fr/gouvernement) pour plus de détails sur les communications effectué.
+todo: Voir section [communication/gouvernement](/communications/fr/gouvernement) pour plus de détails sur les communications effectué.
 

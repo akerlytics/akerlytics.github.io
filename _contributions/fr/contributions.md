@@ -3,15 +3,10 @@ page_id: contributions
 layout: about
 title: Contributions
 permalink: /contributions/
-# nav: true
-# nav_order: 5
 ---
 
 
 # Contributions au projet
-<!-- #region -->
-<!-- @#contributions-au-projet -->
-<!-- #endregion -->
 
 Les contributions peuvent avoir plusieurs formes et médiums : éditer le texte directement dans le dépôt pour cette question, cloner le projet pour commencer d'autres problèmes, collaborer avec l'outil adjacent pour automatiser les tâches d'édition afin de répondre aux besoins...
 
@@ -32,6 +27,7 @@ En raison du développement des utilitaires pour éditer le dépôt public pour 
 - **[Contribuer via GitHub](#contribuer-via-github)**
 - **[Email contribution](#email-contribution)**
 - **[Personal Data](#personal-data)**
+- **[Journalists, Politicians and Professionals](#journalists,-politicians-and-professionals)**
   - [Subscriptions](#subscriptions)
   - [Email Attachments](#email-attachments)
 - **[Editors](#editors)**
@@ -39,10 +35,6 @@ En raison du développement des utilitaires pour éditer le dépôt public pour 
 
 ---
 ## Contribuer via GitHub
-<!-- #region -->
-<!-- @#contribuer-via-github -->
-<sup>>> [#contributions-au-projet](#contributions-au-projet)</sup>
-<!-- #endregion -->
 
 Note: Git et GitHub sont deux entitées différentes.
 
@@ -82,11 +74,9 @@ SuperSimpleDev - 56 min.
 
 <!-- #endregion -->
 
+
 ---
 ## Email contribution
-<!-- #region -->
-<!-- @#email-contribution -->
-<!-- #endregion -->
 
 The function of the Email is to serve as a communication tool with delegated politicians and authenticate your voting status doing so.
 
@@ -100,7 +90,6 @@ feature: The simplest contribution to the document makes use of email templates.
 ---
 ## Personal Data
 <!-- #region -->
-<!-- @#personal-data -->
 <sup>[ | ](#contribiutions-to-the-project)[ << ](#personal-data)[ up ](#contribiutions-to-the-project)[ down ](#editors)</sup>
 <!-- #endregion -->
 
@@ -114,6 +103,7 @@ Emails will be collected and attributed a unique identifier. Spam emails will be
 
 If a section where you have submitted a support weight changes, the support for past version will be kept and an automatic email will be sent to update support status.
 
+---
 ## Journalists, Politicians and Professionals
 
 A numeric weight can be assigned to your participation tokens via an official recognition of scocial sermans.
@@ -122,9 +112,6 @@ Entities within the sphere of public influence can register their related affili
 
 
 ### Subscriptions
-<!-- #region -->
-<!-- @#subscriptions -->
-<!-- #endregion -->
 
 A section for each email template is designated for unsubscription of email.
 
@@ -143,9 +130,6 @@ past-contributions:
 ```
 
 ### Email Attachments
-<!-- #region -->
-<!-- @#email-attachments -->
-<!-- #endregion -->
 
 ```markdown
 attachments:
@@ -156,7 +140,6 @@ attachments:
 ---
 ## Editors
 <!-- #region -->
-<!-- @#editors -->
 <sup>[ | ](#contribiutions-to-the-project)[ << ](#personal-data)[ up ](#personal-data) ~~down~~</sup>
 <!-- #endregion -->
 

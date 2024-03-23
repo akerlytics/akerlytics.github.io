@@ -8,9 +8,12 @@ permalink: /petitions/
 
 # Petitions General
 
+See United-Kingdom's parlementary [debates](/petitions/uk) resulting from the petitions.
+
 ## Countries
 
 CAN/
+
 - See [Petitions in Canada](/petitions/can)
 
 UK/

@@ -8,8 +8,6 @@ permalink: /
 ---
 
 # Suivi des Problèmes Politiques - CAN
-<!-- #region -->
-<!-- #endregion -->
 
 Bienvenue dans l'effort de **Suivi des Problèmes Politiques** pour la question actuelle préoccupante pour tous les Canadiens.
 
@@ -36,21 +34,17 @@ Voir ci-dessous pour une description du problème actuel.
 - **[Pétitions](#pétitions)**
 - **[Entitées Internationales - independentes - autres que l'OMS](#entitées-internationales---independentes---autres-que-loms)**
   - [World Council for Health Policy - introduction](#world-council-for-health-policy---introduction)
-    - [Citations importantes](#citations-importantes)
+    - [Citations](#citations)
 <!-- #endregion -->
 
 ---
 ## Résumé et description du dossier
-<!-- #region -->
-<!-- #endregion -->
 
 Ce document fournit un aperçu des efforts actuels de l'OMS pour développer et amender des instruments internationaux clés liés à la santé publique mondiale, notamment le Règlement Sanitaire International (RSI) et le Traité international sur la prévention, la préparation et la riposte aux pandémies. Il met en lumière les rencontres clés, les entités en charge, et les documents importants associés à ces efforts. De plus, il souligne l'importance de l'engagement public et du débat parlementaire concernant ces développements, ainsi que le rôle critique des organisations non gouvernementales comme le World Council for Health dans la fourniture de contre-arguments et de recommandations basées sur des preuves. Les citations sélectionnées présentent les préoccupations concernant l'influence des contributions financières sur les décisions de l'OMS et l'importance de maintenir la souveraineté nationale face aux pressions internationales pour l'adoption de ces nouveaux instruments juridiques.
 
 
 ---
 ## Object de la recherche
-<!-- #region -->
-<!-- #endregion -->
 
 Deux documents de l’Organisme mondial de la santé (OMS) sont en cours de développement et seront signés en loi par le Canada le 22 mai 2024. Voici les rencontres de consultations restantent :
 
@@ -103,8 +97,6 @@ Todo: number, voting link, deadline for inclusion to document
 
 ---
 ## Réunions et documents récents
-<!-- #region -->
-<!-- #endregion -->
 
 - [Septième réunion de l'INB](https://apps.who.int/gb/inb/f/f_inb-7.html)
 - [Huitième réunion de l'INB](https://apps.who.int/gb/inb/f/f_inb-8.html)
@@ -115,8 +107,6 @@ Todo: number, voting link, deadline for inclusion to document
 
 ---
 ## Documents importants de l'OMS
-<!-- #region -->
-<!-- #endregion -->
 
 - **Dernière version du document sur la prévention, la préparation et la riposte aux pandémies** :
   - [A_INB7_3-fr.pdf](https://apps.who.int/gb/inb/pdf_files/inb7/A_INB7_3-fr.pdf)
@@ -124,23 +114,18 @@ Todo: number, voting link, deadline for inclusion to document
 
 ---
 ## Comité interne à l'OMS d'analyse des changements
-<!-- #region -->
-<!-- #endregion -->
 
 - voir [Document pdf de référence](https://apps.who.int/gb/wgihr/pdf_files/wgihr2/A_WGIHR2_Reference_document-fr.pdf)
 
 
 ---
 ## Chronologie des événements
-<!-- #region -->
-<!-- #endregion -->
 
 Pour plus d'informations sur l'historique des deux documents, consultez :
 
 - **Site de Leslyne Lewis** (députée élue par les comtés Haldimand - Norfolk de l’Ontario) :
   - [leslynlewismp.ca/](https://leslynlewismp-ca.translate.goog/2024/01/17/the-who-pandemic-treaty/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp)
 
-todo: move to Leslyne Lewis
 - **Contre-article** :
   - [www-cbc-ca](https://www-cbc-ca.translate.goog/news/politics/leslyn-lewis-who-world-health-organization-pandemic-1.6460159?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp)
 
@@ -151,41 +136,43 @@ todo: move to Leslyne Lewis
 <!-- @todo OK update lang en -->
 Une lettre à été envoyé aux représentants des territoire ci-dessous. Cette lettre a pour intention de souligner l'importance à réaliser des analyses approfondies en appuie démocratique dans le contexte des changements légals proposées par les efforts de l'OMS et leurs pays membres.
 
-### NB
+### Circonscriptions
 
-<details><summary>Tobic-Mactaquac</summary>
-
-<!-- #region -->
-
-  - [x] Retour de courriel.
-  - [x] Affirmation de position claire:
-    - [x] Favorable à la cause.
-
-</details>
-
-<!-- #endregion -->
+#### NB
 
 <details><summary>Madawaska-Restigouche</summary>
 
 <!-- #region -->
-
   - [ ] Retour de courriel.
   - [ ] Affirmation de position claire.
     - [ ] Favorable à la cause.
+</details>
 
+<!-- #endregion -->
+
+<details><summary>Tobic-Mactaquac</summary>
+
+<!-- #region -->
+  - [x] Retour de courriel.
+  - [x] Affirmation de position claire:
+    - [x] Favorable à la cause.
 </details>
 
 <!-- #endregion -->
 
 <br>
+<!-- @todo
 Voir section [communication/gouvernement](/communications/fr/gouvernement) pour plus de détails sur les communications effectué.
+-->
 
 <!-- @track correspondances -->
 <!-- endtrack -->
 
 ### Incitation à participer
 
-**Afficher votre support** à la lettre qui a été envoyée pour faire valoir les points les plus important sur le dossier. Cette lettre est d'un format publique afin que tous puissent afficher leur support.
+**Afficher votre support** à la lettre mise de l'avant faire valoir les points les plus important sur le dossier et qui a été envoyée à certains député.
+
+Cette lettre est d'un format publique afin que tous puissent afficher leur support sur l'étendu du territoire Canadien.
 
 Rendez-vous sur le formulaire pour afficher [support à la Lettre-V1.0.3](todo) pour des suggestions.
 
@@ -201,8 +188,6 @@ TODO: afficher version small des supports github, ensuite auto-généré des ema
 
 ---
 ## Points importants
-<!-- #region -->
-<!-- #endregion -->
 
 - **Concernant le point 2 de la lettre envoyée aux députés** :
   > Deux autres amendements proposent de supprimer le mot « non contraignant » des définitions des termes « recommandation permanente » et « recommandation temporaire ».
@@ -213,8 +198,6 @@ TODO: afficher version small des supports github, ensuite auto-généré des ema
 
 ---
 ## Pétitions
-<!-- #region -->
-<!-- #endregion -->
 
 - **Pétition à la Chambre des communes** et **Pétition au gouvernement du Canada** :
   Les citoyens demandent que toute signature d'un traité international sur la pandémie par l'OMS soit approuvée par référendum public.
@@ -237,9 +220,7 @@ Note: tous les liens qui suivent sont vers des ressources anglophone.
 - [Résumé des arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/Policy-Brief-Summary-1.pdf)
 
 
-#### Citations importantes
-<!-- #region -->
-<!-- #endregion -->
+#### Citations
 
 > Un groupe d'experts en sciences politiques et en droit a préparé un brief politique approfondi de 45 pages sur les amendements proposés aux Règlements Sanitaires Internationaux (2005) et le traité/accord pandémique de l'OMS (WHO CA+). Ce brief offre un aperçu professionnel sur les instruments juridiques proposés. Il présente également un compte rendu historique des erreurs commises pendant la pandémie de COVID, décrit les tentatives faites pour établir ces erreurs comme normes acceptées, et fournit des insights précieux sur comment corriger le cap avant qu'il ne soit trop tard. Les points centraux du brief sont résumés ci-dessous pour votre commodité.
 

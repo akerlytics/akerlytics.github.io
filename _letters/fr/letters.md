@@ -8,7 +8,7 @@ permalink: /letters/
 
 # Lettre adressée au député
 
-Au Canada, les habitants de chaque province et territoire sont représentés par une personne élue pour leur circonscription, selon leur adresse principale.
+Au Canada, les habitants de chaque province et territoire sont représentés par une personne élue pour leur circonscription.
 
 ## Lettre V1.0.3
 
@@ -18,7 +18,7 @@ Veuillez vous référer à ces liens pour faire une copie des dispositifs de com
 
 [Lettre V1.0.3](/letters/v1.0.3)
 
-### Circonccriptions
+### Circonscriptions
 
 #### NB
 

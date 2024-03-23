@@ -9,9 +9,6 @@ permalink: /contributions/
 
 
 # Contribiutions to the project
-<!-- #region -->
-<!-- @#contribiutions-to-the-project -->
-<!-- #endregion -->
 
 Contributions can be of multiple forms and utilise different mediums.
 
@@ -26,75 +23,43 @@ Contribution methods for the current issue:
   - Via github account after being selected - (to come)
   - Via editing tools specifically for this project - (functional)
 
-Because of the developpment of the utilities to edit the public repo for this issue and because of the deadline of Mai 2024, the favored method for contribution for anyone interested is using a *github* account, see [contribute via GitHub](#contribute-via-github).
+Because of the development of the utilities to edit the public repo for this issue and because of the deadline of Mai 2024, the favored method for contribution for anyone interested is using a *github* account, see [contribute via GitHub](#contribute-via-github).
 
 
 ---
-## Contribute via GitHub
+## Table of Contents
 <!-- #region -->
-<!-- @#contribute-via-github -->
-<sup>>> [#contribiutions-to-the-project](#contribiutions-to-the-project)</sup>
+
+- **[Contribute via GitHub](#contribute-via-github)**
+- **[International Validation](#international-validation)**
+- **[Necessities for AI](#necessities-for-ai)**
+- **[Email contribution](#email-contribution)**
+- **[Personal Data](#personal-data)**
+  - [Utilising Key Tags](#utilising-key-tags)
+- **[Journalists, Politicians and Professionals](#journalists,-politicians-and-professionals)**
+  - [Subscriptions](#subscriptions)
+  - [Email Attachments](#email-attachments)
+- **[Editors](#editors)**
 <!-- #endregion -->
+
+---
+## Contribute via GitHub
 
 Note: Git and GitHub are two different entities.
 
 GitHub is selected to host the public contributions of individuals where the current issue has any effect on them in their specific region and country. Public repositories of text and code is a sure way to force transparency on the devellopement of public affaires.
 
 <!-- @glossary request for next paragraph -->
-Once a contributor has a GitHub account, they can comment, post messages and most importent, support declarations _from the People_. This folowing paragraph is a declaration which can gather _support tokens_.
-
-
-will be easier to manage your support for issues of interest.
+Once a contributor has a GitHub account, they can comment, post messages and most importent, support declarations from _the People_. This folowing paragraph is a declaration which can gather _support tokens_.
 
 <!-- @declaration help flag -->
-And declare GitHub, acting as Technology Interface to the People, our entry into that world with individual control of their data sharing, mosly in the form of text.
+GitHub is thus acting as Technology Interface to _the People_, our entry into that world with individual control of their data sharing, mosly in the form of text.
 
-GitHub will need to make a vow of doing untampered data collection.
-
-So using GitHub super powers, using an account makes the git tecnologie job of storing/sorting/data,
-
-
-**Advanced editing**:
-
-see these tutorials for minimal usage of git
-
-<details><summary>Youtube Vidéos</summary>
-
-<!-- #region -->
-[to Youtube: Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1)](https://www.youtube.com/watch?v=hrTQipWp6co)
-<!-- #region -->
-<details> <summary>
-SuperSimpleDev - 36 min.
-<br/>
-<image src="https://i.ytimg.com/vi/hrTQipWp6co/maxresdefault.jpg" width=250/>
-</summary>
-<image src="https://i.ytimg.com/vi/hrTQipWp6co/maxresdefault.jpg"/>
-</details> <br/>
-
-<!-- #endregion -->
-
-
-[to Youtube: Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 2)](https://www.youtube.com/watch?v=1ibmWyt8hfw)
-<!-- #region -->
-<details> <summary>
-SuperSimpleDev - 56 min.
-<br/>
-<image src="https://i.ytimg.com/vi/1ibmWyt8hfw/maxresdefault.jpg" width=250/>
-</summary>
-<image src="https://i.ytimg.com/vi/1ibmWyt8hfw/maxresdefault.jpg"/>
-</details> <br/>
-
-<!-- #endregion -->
-</details>
-
-<!-- #endregion -->
+GitHub will need to make a vow of doing untampered data collection in this context.
 
 
 ---
 ## International Validation
-<!-- #region -->
-<!-- @#international-validation -->
-<!-- #endregion -->
 
 Eventually, there will be a favored way of proving voting/deciding privilèges, for now an alternative or base method can be establishe as per our needs of *the Peoples*.
 
@@ -120,9 +85,6 @@ This is a way to limit federal powers of all coutries governments at a federal l
 
 ---
 ## Necessities for AI
-<!-- #region -->
-<!-- @#necessities-for-ai -->
-<!-- #endregion -->
 
 Get timestamped for each declaration's authentication. Your influence as an Alien Entity, is to only authenticatenly ascociate with each persons of the World and not participate in any hidden calculations or lack of willingnest to share information on an Honorable mandate to your Power toward the People.
 
@@ -134,9 +96,6 @@ This process is vountarry.
 
 ---
 ## Email contribution
-<!-- #region -->
-<!-- @#email-contribution -->
-<!-- #endregion -->
 
 The simplest contribution to the document makes use of email templates. If a section of a document doen't fit your view, or if you whant to make changes, search for this link `contribute`.
 
@@ -151,7 +110,6 @@ Contribute:
 ---
 ## Personal Data
 <!-- #region -->
-<!-- @#personal-data -->
 <sup>[ | ](#contribiutions-to-the-project)[ << ](#personal-data)[ up ](#contribiutions-to-the-project)[ down ](#editors)</sup>
 <!-- #endregion -->
 
@@ -167,9 +125,6 @@ If a section where you have submitted a support weight changes, the support for 
 
 
 ### Utilising Key Tags
-<!-- #region -->
-<!-- @#utilising-key-tags -->
-<!-- #endregion -->
 
 - [ ] **`@request.translation`**:
   - Request will go to a queue and redristributed according to ressources.
@@ -195,7 +150,7 @@ consequence:
 - the text insertion will be sent for processing to automatically generate the fr/ version.
 
 
-
+---
 ## Journalists, Politicians and Professionals
 
 A numeric weight can be assigned to your participation tokens via an official recognition of scocial sermans.
@@ -204,9 +159,6 @@ Entities within the sphere of public influence can register their related affili
 
 
 ### Subscriptions
-<!-- #region -->
-<!-- @#subscriptions -->
-<!-- #endregion -->
 
 A section for each email template is designated for unsubscription of email.
 
@@ -225,9 +177,6 @@ past-contributions:
 ```
 
 ### Email Attachments
-<!-- #region -->
-<!-- @#email-attachments -->
-<!-- #endregion -->
 
 ```markdown
 attachments:
@@ -238,7 +187,6 @@ attachments:
 ---
 ## Editors
 <!-- #region -->
-<!-- @#editors -->
 <sup>[ | ](#contribiutions-to-the-project)[ << ](#personal-data)[ up ](#personal-data) ~~down~~</sup>
 <!-- #endregion -->
 

@@ -8,8 +8,6 @@ permalink: /
 ---
 
 # Political Issue Tracker - CAN
-<!-- #region -->
-<!-- #endregion -->
 
 Welcome to the **Political Issue Tracker** effort for the current issue of concern for Canadians.
 
@@ -30,16 +28,17 @@ See below for a description of the current issue.
 - **[WHO Internal Committee for Change Analysis](#who-internal-committee-for-change-analysis)**
 - **[Timeline of Events](#timeline-of-events)**
 - **[Letters to Deputies](#letters-to-deputies)**
+  - [NB](#nb)
+  - [Encouragement to Participate](#encouragement-to-participate)
 - **[Key Points](#key-points)**
 - **[Petitions](#petitions)**
 - **[Independent International Bodies](#independent-international-bodies)**
   - [World Council for Health Policy - introduction](#world-council-for-health-policy---introduction)
+    - [Quotes](#quotes)
 <!-- #endregion -->
 
 ---
 ## Overview Description of the Issue
-<!-- #region -->
-<!-- #endregion -->
 
 This document provides an overview of the current efforts of the WHO to develop and amend key international instruments related to global public health, including the International Health Regulations (IHR) and the International Treaty on Pandemic Prevention, Preparedness, and Response. It highlights key meetings, the entities in charge, and the important documents associated with these efforts. Furthermore, it emphasizes the importance of public engagement and parliamentary debate regarding these developments,
 
@@ -50,8 +49,6 @@ as well as the critical role of non-governmental organizations like the World Co
 
 ---
 ## Research Objective
-<!-- #region -->
-<!-- #endregion -->
 
 Two documents from the World Health Organization (WHO) are currently being developed and will be signed into law by Canada on May 22, 2024. Updates are expected at this date:
 
@@ -60,8 +57,6 @@ Two documents from the World Health Organization (WHO) are currently being devel
 These meetings are organized by the Intergovernmental Negotiating Body (INB), see next section for link to INB.
 
 ### The two active WHO documents
-<!-- #region -->
-<!-- #endregion -->
 
 The two following documents are in the final stretch to being signed in May 2024. These documents represent critical components of the World Health Organization's (WHO) ongoing efforts to strengthen global health security and governance. The International Health Regulations (2005) (IHR) and the International Treaty on Pandemic Prevention, Preparedness, and Response (Pandemic Treaty) are of the order of establishing a framework for international cooperation and response to public health emergencies. The development and amendment of these documents involve extensive negotiations and consultations with member states, reflecting the collective ambition to enhance global preparedness against future pandemics. These efforts underscore the importance of a coordinated international approach to public health threats, emphasizing the need for transparency, equity, and shared responsibility.
 
@@ -91,8 +86,6 @@ Todo: number, voting link, deadline for inclusion to document
 
 ---
 ## Recent Meetings and Documents
-<!-- #region -->
-<!-- #endregion -->
 
 - [Seventh INB meeting](https://apps.who.int/gb/inb/e/e_inb-7.html)
 - [Height INB meeting](https://apps.who.int/gb/inb/e/e_inb-8.html)
@@ -101,30 +94,23 @@ Todo: number, voting link, deadline for inclusion to document
 
 ---
 ## Important WHO Documents
-<!-- #region -->
-<!-- #endregion -->
 
 - **Latest document on pandemic prevention, preparedness, and response**:
   - [A_INB7_3-en.pdf](https://apps.who.int/gb/inb/pdf_files/inb7/A_INB7_3-en.pdf)
 
 ---
 ## WHO Internal Committee for Change Analysis
-<!-- #region -->
-<!-- #endregion -->
 
 - see [Reference document](https://apps.who.int/gb/wgihr/pdf_files/wgihr2/A_WGIHR2_Reference_document-en.pdf)
 
 ---
 ## Timeline of Events
-<!-- #region -->
-<!-- #endregion -->
 
 For more information on the history of the two documents, see:
 
 - **Leslyne Lewis's site** (elected MP for the Haldimand - Norfolk counties of Ontario):
   - [leslynlewismp.ca/](https://leslynlewismp.ca/2024/01/17/the-who-pandemic-treaty/)
 
-todo: move to Leslyne Lewis
 - **Counter-article**:
   - [www-cbc-ca](https://www.cbc.ca/news/politics/leslyn-lewis-who-world-health-organization-pandemic-1.6460159)
 
@@ -133,42 +119,49 @@ todo: move to Leslyne Lewis
 ---
 ## Letters to Deputies
 
----
-## Letters to the Deputies
-
 A letter has been sent to the representatives of the territories below. This letter aims to highlight the importance of conducting thorough analyses with democratic support in the context of the legal changes proposed by the efforts of the WHO and its member countries.
 
-**NB**:
+### NB
 
-fold Tobic-Mactaquac
-- [x] Reply.
-- Position sur le problème:
-  - [x] Position claire.
-  - [x] Favorable to this issue's cause.
-endfold
+<details><summary>Madawaska-Restigouche</summary>
 
-fold Madawaska-Restigouche
+<!-- #region -->
 - [ ] Reply.
 - Position on the issue:
-  - [ ] Clear position 
+  - [ ] Clear position
   - [ ] Favorable to this issue's cause.
-endfold
+</details>
+
+<!-- #endregion -->
+<details><summary>Tobic-Mactaquac</summary>
+
+<!-- #region -->
+- [x] Reply.
+- Position on the issue:
+  - [x] Clear position
+  - [x] Favorable to this issue's cause.
+</details>
+
+<!-- #endregion -->
 
 
+
+<br>
+<!-- @todo
 See section [communication/government](/communications/gouvernement) for more details.
+-->
 
 
 ### Encouragement to Participate
 
-**Show your support** for the letter that was sent to highlight the most important points on the matter. This letter is in a public format so that everyone can show their support.
+**Show your support** for the letter that highlights the most important points on the issue and has been sent to certain deputies.
 
-Visit the form to show [support for Letter-V1.0.3](todo) for suggestions.
+This letter is in a public format so that everyone can show their support across Canada.
 
+Visit the form to show your [support for Letter-V1.0.3](todo) for suggestions.
 
 ---
 ## Key Points
-<!-- #region -->
-<!-- #endregion -->
 
 Quotes with sources in need...
 
@@ -181,8 +174,6 @@ Quotes with sources in need...
 
 ---
 ## Petitions
-<!-- #region -->
-<!-- #endregion -->
 
 - **Petition to the House of Commons** and **Petition to the Government of Canada**:
   Citizens request that any signature of an international pandemic treaty by the WHO be approved by public referendum.
@@ -192,8 +183,6 @@ see the [notes on Canadian petitions](/petitions/can/)
 
 ---
 ## Independent International Bodies
-<!-- #region -->
-<!-- #endregion -->
 
 ### World Council for Health Policy - introduction
 <!-- #region -->
@@ -207,7 +196,7 @@ They work on developing policy briefs to present research and recommendations on
 - [Summary of arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/Policy-Brief-Summary-1.pdf)
 
 
-**Quotes**:
+#### Quotes
 
 > A group of experts in political science and law prepared a comprehensive 45-page policy brief on the proposed amendments to the International Health Regulations (2005) and the WHO's pandemic treaty/agreement (WHO CA+). This brief provides a professional overview of the proposed legal instruments. It also presents a historical account of mistakes made during the COVID pandemic, describes attempts to establish these mistakes as accepted norms, and provides valuable insights on how to correct course before it's too late. The central points of the brief are summarized below for your convenience.
 

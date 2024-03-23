@@ -13,4 +13,6 @@ children:
   - title: Lettres pour Députées
     permalink: /letters/
   - title: divider
+  - title: Policy-Brief
+    permalink: /law/can/learn/
 ---

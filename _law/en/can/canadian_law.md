@@ -13,4 +13,10 @@ TODO:
   - [ ] Historical of relations with international entities
   - [ ] L-R project
 
+## Resources
+
 See [resources](/law/can/resources).
+
+## Learn
+
+See [learn: Policy-Briefs](/law/can/learn).

@@ -13,4 +13,6 @@ children:
   - title: Letters to MP
     permalink: /letters/
   - title: divider
+  - title: Policy-Brief
+    permalink: /law/can/learn/
 ---
