@@ -4,10 +4,14 @@ layout: about
 title: Pétitions - information générales
 subtitle: 
 permalink: /petitions/
-# nav: true
-# nav_order: 4
-toc:
-  sidebar: left
 ---
 
-Page Francophone
+# Petitions Générales
+
+## Pays
+
+CAN/
+- Voir [Petitions du Canada](/petitions/can)
+
+UK/
+- Voir [Petitions du Royaume-Unis](/petitions/uk)

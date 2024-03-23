@@ -11,9 +11,10 @@ children:
   - title: divider
   - title: Pétitions
     permalink: /petitions/
-  - title: divider
   - title: Arguments
     permalink: /debates/arguments/
+  - title: Lois Canadiennes
+    permalink: /law/can
   - title: divider
 ---
 

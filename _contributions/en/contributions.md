@@ -13,20 +13,20 @@ permalink: /contributions/
 <!-- @#contribiutions-to-the-project -->
 <!-- #endregion -->
 
-Contributions can be of multiple forms and utilise different mediums. 
+Contributions can be of multiple forms and utilise different mediums.
 
-The encouraged approche is by editing the text directly in the repo for this issue. The host for the documents is GitHub, see [contribute via GitHub](#contribute-via-github). 
+The encouraged approche is by editing the text directly in the repo for this issue. The host for the documents is GitHub, see [contribute via GitHub](#contribute-via-github).
 
 The anonymous way of contributing is via emails directed to dedicated funnels.
 
 Contribution methods for the current issue:
-  - Via github account after being selected - (to come)
   - Via email:
     - for showing support - (to come)
-    - for editing content - (to come)
+    - for editing content - (might come)
+  - Via github account after being selected - (to come)
   - Via editing tools specifically for this project - (functional)
 
-Because of the developpment of the utilities to edit the public repo for this issue and because of the deadline of Mai 2024, the initial method for contribution for anyone interested is using a *github* account, see [contribute via GitHub](#contribute-via-github).
+Because of the developpment of the utilities to edit the public repo for this issue and because of the deadline of Mai 2024, the favored method for contribution for anyone interested is using a *github* account, see [contribute via GitHub](#contribute-via-github).
 
 
 ---
@@ -47,7 +47,7 @@ Once a contributor has a GitHub account, they can comment, post messages and mos
 will be easier to manage your support for issues of interest.
 
 <!-- @declaration help flag -->
-And declare GitHub, acting as Technology Interface to the People, our entry into that world with individual control of their data sharing, mosly in the form of text. 
+And declare GitHub, acting as Technology Interface to the People, our entry into that world with individual control of their data sharing, mosly in the form of text.
 
 GitHub will need to make a vow of doing untampered data collection.
 
@@ -58,6 +58,9 @@ So using GitHub super powers, using an account makes the git tecnologie job of s
 
 see these tutorials for minimal usage of git
 
+<details><summary>Youtube Vidéos</summary>
+
+<!-- #region -->
 [to Youtube: Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1)](https://www.youtube.com/watch?v=hrTQipWp6co)
 <!-- #region -->
 <details> <summary>
@@ -82,7 +85,9 @@ SuperSimpleDev - 56 min.
 </details> <br/>
 
 <!-- #endregion -->
+</details>
 
+<!-- #endregion -->
 
 
 ---
@@ -91,12 +96,16 @@ SuperSimpleDev - 56 min.
 <!-- @#international-validation -->
 <!-- #endregion -->
 
-Eventually, there will be a favored way of proving voting/deciding privilèges as beneficiaries of each nations acording there country's unmeasurable wealth. X, or Twitter, would be a suitable, minimal cencership accès to information produced by other humain supplier, with internationnal technology to support.
+Eventually, there will be a favored way of proving voting/deciding privilèges, for now an alternative or base method can be establishe as per our needs of *the Peoples*.
+
+as beneficiaries of each nations acording there country's unmeasurable wealth.
+
+X, or Twitter, would be a suitable, minimal cencership accès to information produced by other humain supplier, with internationnal technology to support.
 
 *Prefered requirements for international ID system proposition*:
 Have an independent entity, like X, manage the proof of address with citizenship of people within voting ages, of all genders, within their federaly divided geographical regions.
 
-All yougnger ones must have established data collection protections of the ighest level as a principal goal. Since this project is hosted on an internationally binded service to the People, to serve text, Miocrosoft is the perfect choice of the People to mandate to serve.
+All minors up to adulthood must have established data collection protections of the ighest level as a principal goal. Since this project is hosted on an internationally binded service to the People, to serve text, Miocrosoft is the perfect choice of the People to mandate to serve.
 
 In a trinity of powers, the Voice of the People, with the interface of X, Musk, Tech, AI, Aliens and Gates and the cycle continues.. back to the People. It's not a perfect wheel, it's the strongest shape of power.
 
@@ -184,6 +193,14 @@ Let's tel about the queue to managable real editor processing data vs utilising 
 
 consequence:
 - the text insertion will be sent for processing to automatically generate the fr/ version.
+
+
+
+## Journalists, Politicians and Professionals
+
+A numeric weight can be assigned to your participation tokens via an official recognition of scocial sermans.
+
+Entities within the sphere of public influence can register their related affiliation emails to their data.
 
 
 ### Subscriptions

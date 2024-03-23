@@ -16,4 +16,38 @@ Ceci est la version de la lettre qui a été envoyée à plusieurs représentant
 
 Veuillez vous référer à ces liens pour faire une copie des dispositifs de communication originaux.
 
-[Lettre V1.0.3](/letters/v0.1.3)
+[Lettre V1.0.3](/letters/v1.0.3)
+
+### Circonccriptions
+
+#### NB
+
+<details><summary>Tobic-Mactaquac</summary>
+
+<!-- #region -->
+
+- [x] Retour de courriel.
+- Position sur le problème:
+  - [x] Position claire.
+  - [x] Favorable à la cause.
+
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Madawaska-Restigouche</summary>
+
+<!-- #region -->
+
+- [ ] Retour de courriel.
+- Position sur le problème:
+  - [x] Position claire.
+  - [ ] Favorable à la cause.
+
+</details>
+
+<!-- #endregion -->
+
+<br>
+Voir section [communication/gouvernement](/communications/fr/gouvernement) pour plus de détails sur les communications effectué.
+

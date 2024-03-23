@@ -5,24 +5,7 @@ title: Petitions UK
 ---
 
 # Analyse de la pétition du Royaume-Uni
-<!-- #region -->
-<!-- @#analyse-de-la-pétition-du-royaume-uni -->
-<!-- #endregion -->
 
-@Note: à refaire, rediriger vers UK-detailed
-
----
-## Table of Contents
-<!-- #region -->
-<sup>[ | ](#analyse-de-la-pétition-du-royaume-uni)[ << ](#table-of-contents)[ up ](#analyse-de-la-pétition-du-royaume-uni)[ down ](#titre-de-la-pétition)</sup>
-<!-- #endregion -->
-<!-- #region -->
-
-- **[Titre de la pétition](#titre-de-la-pétition)**
-- **[Détails](#détails)**
-- **[Réponse du gouvernement](#réponse-du-gouvernement)**
-- **[Informations supplémentaires](#informations-supplémentaires)**
-<!-- #endregion -->
 
 ---
 ## Titre de la pétition

@@ -187,8 +187,7 @@ Voir section [communication/gouvernement](/communications/fr/gouvernement) pour 
 
 **Afficher votre support** à la lettre qui a été envoyée pour faire valoir les points les plus important sur le dossier. Cette lettre est d'un format publique afin que tous puissent afficher leur support.
 
-Rendez-vous sur le [formulaire pour afficher support à la Lettre-V1.0.3](todo) pour les options actuelles.
-
+Rendez-vous sur le formulaire pour afficher [support à la Lettre-V1.0.3](todo) pour des suggestions.
 
 
 <!-- @todo
@@ -244,6 +243,7 @@ Note: tous les liens qui suivent sont vers des ressources anglophone.
 
 > Un groupe d'experts en sciences politiques et en droit a préparé un brief politique approfondi de 45 pages sur les amendements proposés aux Règlements Sanitaires Internationaux (2005) et le traité/accord pandémique de l'OMS (WHO CA+). Ce brief offre un aperçu professionnel sur les instruments juridiques proposés. Il présente également un compte rendu historique des erreurs commises pendant la pandémie de COVID, décrit les tentatives faites pour établir ces erreurs comme normes acceptées, et fournit des insights précieux sur comment corriger le cap avant qu'il ne soit trop tard. Les points centraux du brief sont résumés ci-dessous pour votre commodité.
 
+<!-- @todo: verify quote & en -->
 > Il est notable dans ce contexte que l'OMS contrôle seulement environ un quart de son propre budget. Le reste consiste en contributions volontaires ciblées par ses bailleurs de fonds. Si elles sont adoptées, certaines des amendements aux RSI (2005) permettraient aux intérêts spéciaux qui ont compromis l'organisation (voir par exemple Cohen & Carter 2010) de standardiser et d'imposer comment les États et même les acteurs non étatiques dans le monde entier doivent répondre aux urgences de santé publique et aborder une variété de questions de santé mondiale en général.
 
 

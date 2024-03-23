@@ -16,13 +16,13 @@ permalink: /contributions/
 Les contributions peuvent avoir plusieurs formes et médiums : éditer le texte directement dans le dépôt pour cette question, cloner le projet pour commencer d'autres problèmes, collaborer avec l'outil adjacent pour automatiser les tâches d'édition afin de répondre aux besoins...
 
 Méthodes de contribution sur le problème actuel :
-  - Via un compte GitHub après avoir été sélectionné - (à venir)
   - Par email :
     - pour montrer son soutien - (à venir)
-    - pour éditer le contenu - (à venir)
+    - pour éditer le contenu - (pourait venir)
+  - Via un compte GitHub après avoir été sélectionné - (à venir)
   - Via des outils d'édition spécifiquement pour ce projet - (fonctionnel)
 
-En raison du développement des utilitaires pour éditer le dépôt public pour cette question et en raison de la date limite de mai 2024, la méthode initiale de contribution pour toute personne intéressée est d'utiliser un compte *GitHub*, voir [contribuer via GitHub](#contribuer-via-github).
+En raison du développement des utilitaires pour éditer le dépôt public pour cette question et en raison de la date limite de mai 2024, la méthode favorite de contribution pour toute personne intéressée est d'utiliser un compte *GitHub*, voir [contribuer via GitHub](#contribuer-via-github).
 
 
 ---
@@ -44,13 +44,16 @@ En raison du développement des utilitaires pour éditer le dépôt public pour 
 <sup>>> [#contributions-au-projet](#contributions-au-projet)</sup>
 <!-- #endregion -->
 
-Note: Git and GitHub are two different entities.
+Note: Git et GitHub sont deux entitées différentes.
 
 
 **Advanced editing using Git**:
 
-see these tutorials for minimal usage of git
+voir les liens suivant pour des tutoriel.
 
+<details><summary>Vidéos Youtube</summary>
+
+<!-- #region -->
 [vers Youtube: Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1)](https://www.youtube.com/watch?v=hrTQipWp6co)
 <!-- #region -->
 <details> <summary>
@@ -75,7 +78,9 @@ SuperSimpleDev - 56 min.
 </details> <br/>
 
 <!-- #endregion -->
+</details>
 
+<!-- #endregion -->
 
 ---
 ## Email contribution
@@ -83,11 +88,13 @@ SuperSimpleDev - 56 min.
 <!-- @#email-contribution -->
 <!-- #endregion -->
 
-The simplest contribution to the document makes use of email templates. If a section of a document doen't fit your view, or if you whant to make changes, search for this link `contribute`.
+The function of the Email is to serve as a communication tool with delegated politicians and authenticate your voting status doing so.
 
-Contributor's section is a brief explanation on how to use the email template. A section for email `title` and `body` needs to be copied to your email providor interface.
+This [section](todo) has a brief explanation on how to use the email template. A section for email `title` and `body` needs to be copied to your email providor interface.
 
 Note on adding editing comments for a section: since a section can get support via the `show_support` functionality. Minor changes will most likely appear in a foldable region of the section at the end, next to the *giscus* comments.
+
+feature: The simplest contribution to the document makes use of email templates. If a section of a document doen't fit your view, or if you want to make changes, search for this link `contribute`.
 
 
 ---

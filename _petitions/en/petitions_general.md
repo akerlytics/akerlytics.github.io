@@ -4,10 +4,14 @@ layout: about
 title: Petitions - General Scope
 subtitle: 
 permalink: /petitions/
-# nav: true
-# nav_order: 4
-toc:
-  sidebar: left
 ---
 
-In English page
+# Petitions General
+
+## Countries
+
+CAN/
+- See [Petitions in Canada](/petitions/can)
+
+UK/
+- See [Petitions in United-Kingdom](/petitions/uk)

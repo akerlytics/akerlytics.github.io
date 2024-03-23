@@ -142,18 +142,27 @@ A letter has been sent to the representatives of the territories below. This let
 
 fold Tobic-Mactaquac
 - [x] Reply.
-- [x] Clear position:
+- Position sur le problème:
+  - [x] Position claire.
   - [x] Favorable to this issue's cause.
 endfold
 
 fold Madawaska-Restigouche
 - [ ] Reply.
-- [ ] Clear position on the representant.
+- Position on the issue:
+  - [ ] Clear position 
   - [ ] Favorable to this issue's cause.
 endfold
 
 
 See section [communication/government](/communications/gouvernement) for more details.
+
+
+### Encouragement to Participate
+
+**Show your support** for the letter that was sent to highlight the most important points on the matter. This letter is in a public format so that everyone can show their support.
+
+Visit the form to show [support for Letter-V1.0.3](todo) for suggestions.
 
 
 ---
