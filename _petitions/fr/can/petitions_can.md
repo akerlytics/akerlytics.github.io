@@ -6,7 +6,7 @@ subtitle:
 permalink: /petitions/can/
 ---
 
-# Notes on Canadian Petitions e-4040 and e-4401
+## Notes on Canadian Petitions e-4040 and e-4401
 
 - Both petitions reflect concerns about the potential impact of WHO's pandemic-related treaties and amendments on Canadian sovereignty and the need for public and parliamentary involvement in the decision-making process.
 - Government responses to both petitions emphasize Canada's commitment to international cooperation for pandemic preparedness while maintaining sovereignty and making evidence-informed decisions that respect national contexts.

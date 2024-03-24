@@ -6,10 +6,23 @@ subtitle:
 permalink: /petitions/can/
 ---
 
-# Notes on Canadian Petitions e-4040 and e-4401
+## Notes on Canadian Petitions
 
+See detailed pages for each:
+- [e-4040](/petitions/can/e-4040) with 540 signatures
+- [e-4401](/petitions/can/e-4401) with 18,973 signatures
+- [e-4623](/petitions/can/e-4623) with 90,089 signatures
+
+**Summary**: 
 - Both petitions reflect concerns about the potential impact of WHO's pandemic-related treaties and amendments on Canadian sovereignty and the need for public and parliamentary involvement in the decision-making process.
 - Government responses to both petitions emphasize Canada's commitment to international cooperation for pandemic preparedness while maintaining sovereignty and making evidence-informed decisions that respect national contexts.
+
+
+---
+## Petition e-4623
+
+- Signatures: 90,089 
+- [e-4623 details](/petitions/can/e-4623)
 
 
 ---

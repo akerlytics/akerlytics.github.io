@@ -95,7 +95,7 @@ Todo: number, voting link, deadline for inclusion to document
 ---
 ## Important WHO Documents
 
-- **Latest document on pandemic prevention, preparedness, and response**:
+- **Latest draft document on pandemic prevention, preparedness, and response**:
   - [A_INB7_3-en.pdf](https://apps.who.int/gb/inb/pdf_files/inb7/A_INB7_3-en.pdf)
 
 ---
@@ -178,8 +178,9 @@ Quotes with sources in need...
 - **Petition to the House of Commons** and **Petition to the Government of Canada**:
   Citizens request that any signature of an international pandemic treaty by the WHO be approved by public referendum.
 
-see the [notes on Canadian petitions](/petitions/can/)
+See the [notes](/petitions/can/) on Canadian petitions.
 
+See the [debates](/petitions/uk) from United-Kingdom's petitions.
 
 ---
 ## Independent International Bodies

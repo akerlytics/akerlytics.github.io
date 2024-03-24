@@ -108,7 +108,7 @@ Todo: number, voting link, deadline for inclusion to document
 ---
 ## Documents importants de l'OMS
 
-- **Dernière version du document sur la prévention, la préparation et la riposte aux pandémies** :
+- **Dernière version du document brouillon sur la prévention, la préparation et la riposte aux pandémies** :
   - [A_INB7_3-fr.pdf](https://apps.who.int/gb/inb/pdf_files/inb7/A_INB7_3-fr.pdf)
 
 
@@ -202,8 +202,9 @@ TODO: afficher version small des supports github, ensuite auto-généré des ema
 - **Pétition à la Chambre des communes** et **Pétition au gouvernement du Canada** :
   Les citoyens demandent que toute signature d'un traité international sur la pandémie par l'OMS soit approuvée par référendum public.
 
-voir les [notes sur les pétitions Canadiennes](/petitions/can/)
+Voir les [notes](/petitions/can/) sur les pétitions Canadiennes.
 
+Voir les [debates]((/petitions/uk) du Royaume-Uni suite au pétitions.
 
 ---
 ## Entitées Internationales - independentes - autres que l'OMS

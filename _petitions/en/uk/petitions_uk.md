@@ -2,7 +2,7 @@
 page_id: petition-uk
 layout: about
 title: Petitions on an international scope
-subtitle: 
+subtitle:
 permalink: /petitions/uk
 ---
 
@@ -14,9 +14,6 @@ permalink: /petitions/uk
 
 ---
 ## Table of Contents
-<!-- #region -->
-<sup>[ | ](#summary-of-uk-petitions-debates)[ << ](#table-of-contents)[ up ](#summary-of-uk-petitions-debates)[ down ](#concerns-against-ratification-of-who-pandemic-treaty-and-ihr-amendments)</sup>
-<!-- #endregion -->
 <!-- #region -->
 
 - **[Concerns Against Ratification of WHO Pandemic Treaty and IHR Amendments](#concerns-against-ratification-of-who-pandemic-treaty-and-ihr-amendments)**
@@ -35,14 +32,13 @@ permalink: /petitions/uk
   - [Overview](#overview)
   - [Key Points from the Debate](#key-points-from-the-debate)
   - [Conclusion](#conclusion)
-  - [Transcripts of interest](#transcripts-of-interest)
+  - [Selected Transcripts](#selected-transcripts)
 <!-- #endregion -->
 
 ---
 ## Concerns Against Ratification of WHO Pandemic Treaty and IHR Amendments
 <!-- #region -->
 <!-- @#concerns-against-ratification-of-who-pandemic-treaty-and-ihr-amendments -->
-<sup>[ | ](#summary-of-uk-petitions-debates)[ << ](#table-of-contents)[ up ](#table-of-contents)[ down ](#counterarguments-to-concerns-about-ratifying-who-pandemic-treaty-and-ihr-amendments)</sup>
 <!-- #endregion -->
 
 ### Introduction
@@ -88,7 +84,6 @@ The strongest points against ratification center on concerns over national sover
 ## Counterarguments to Concerns About Ratifying WHO Pandemic Treaty and IHR Amendments
 <!-- #region -->
 <!-- @#counterarguments-to-concerns-about-ratifying-who-pandemic-treaty-and-ihr-amendments -->
-<sup>[ | ](#summary-of-uk-petitions-debates)[ << ](#table-of-contents)[ up ](#concerns-against-ratification-of-who-pandemic-treaty-and-ihr-amendments)[ down ](#parliamentary-debate-on-who-pandemic-treaty-petition-614335)</sup>
 <!-- #endregion -->
 
 ### Overview
@@ -134,7 +129,6 @@ The counterarguments highlight the benefits of global cooperation for effective 
 ## Parliamentary Debate on WHO Pandemic Treaty Petition 614335
 <!-- #region -->
 <!-- @#parliamentary-debate-on-who-pandemic-treaty-petition-614335 -->
-<sup>[ | ](#summary-of-uk-petitions-debates)[ << ](#table-of-contents)[ up ](#counterarguments-to-concerns-about-ratifying-who-pandemic-treaty-and-ihr-amendments)[ down ](#parliamentary-debate-on-who-pandemic-treaty-petition-635904)</sup>
 <!-- #endregion -->
 
 This parliamentary debate discusses the international agreement on pandemic prevention, preparedness, and response. The petition, which garnered over 156,000 signatures, calls for the UK government not to sign any international treaty on pandemic prevention and preparedness established by the World Health Organization (WHO) without approval through a public referendum.
@@ -173,7 +167,6 @@ The debate reflects a range of opinions on the balance between national sovereig
 ## Parliamentary Debate on WHO Pandemic Treaty Petition 635904
 <!-- #region -->
 <!-- @#parliamentary-debate-on-who-pandemic-treaty-petition-635904 -->
-<sup>[ | ](#summary-of-uk-petitions-debates)[ << ](#table-of-contents)[ up ](#parliamentary-debate-on-who-pandemic-treaty-petition-614335) ~~down~~</sup>
 <!-- #endregion -->
 
 ### Overview
@@ -206,7 +199,7 @@ The parliamentary debate is on a petition concerning the International Health Re
 The discussion showcases a range of opinions on the balance between national sovereignty and international cooperation in public health, the role of the WHO, and the mechanisms for adopting international agreements.
 
 
-### Transcripts of interest
+### Selected Transcripts
 <!-- #region -->
 <!-- @#transcripts-of-interest -->
 <!-- #endregion -->
