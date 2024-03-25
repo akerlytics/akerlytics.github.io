@@ -9,15 +9,11 @@ permalink: /resources/wikipedia/
 
 Wikipedia is a resource of information for many Canadians. While Wikipedia's content can and is modifiable by any one, or any organisation, it differse with how Political-Issue-Tracker-CAN is restricted to Canadian voters.
 
-These efforts are intended to serve Canadians, so the weight attributed to Wikipedia's claims on any subject is to be adjusted while refering to the arguments bellow.
+The content on Wikipedia can be usefull for Canadians. While the information required for dealing with our internal political affaires needs to be objective, this page will serve as a collection of pros and cons of using Wikipedia.
 
----
-## Table of Contents
-<!-- #region -->
+Ideas:
+- The use of a weight meter could be implemented, thought not a perfect solution.
 
-- **[Arguments againts Wikipedia](#arguments-againts-wikipedia)**
-  - [Co-founder's claim of 'propaganda'](#co-founders-claim-of-propaganda)
-<!-- #endregion -->
 
 ---
 ## Arguments againts Wikipedia

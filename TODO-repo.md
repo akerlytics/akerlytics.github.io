@@ -1,5 +1,13 @@
 # TODO for Political-Issue-Tracker Repo
 
+## Information Display
+
+see https://issuevoter.org/ for an example of a similar goal site, their display and flow of information.
+
+## Jekyll formating
+
+https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html
+
 ## _includes Tooltips
 
 see: https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html

@@ -16,17 +16,18 @@ Saviez vous que le 22 mai 2024, le Canada s'apprête à signer des documents qui
 Enjeu actuel :
 > Amendements proposés au Règlement Sanitaire International (RSI) et la délégation de pouvoirs à l'Organisation Mondiale de la Santé (OMS) en cas de pandémie mondiale ou nationale.
 
+
 ---
 ## Table des matières
 <!-- #region -->
 
 - **[Résumé et description du dossier](#résumé-et-description-du-dossier)**
-- **[Object de la recherche](#object-de-la-recherche)**
+- **[Objet de la recherche](#objet-de-la-recherche)**
   - [Les deux documents actifs de l'OMS](#les-deux-documents-actifs-de-loms)
     - [RSI](#rsi)
     - [Traité Pandémique](#traité-pandémique)
-- **[Les organes en charge du processus](#les-organes-en-charge-du-processus)**
-- **[Réunions](#réunions)**
+  - [Les organes en charge du processus](#les-organes-en-charge-du-processus)
+  - [Réunions](#réunions)
 - **[Débats au Canada](#débats-au-canada)**
   - [Questions soulevé par Leslyne Lewis](#questions-soulevé-par-leslyne-lewis)
   - [Lettres aux députés](#lettres-aux-députés)
@@ -36,9 +37,9 @@ Enjeu actuel :
   - [Pétitions](#pétitions)
 - **[Entité Internationaux](#entité-internationaux)**
   - [Débats chez les autres nations](#débats-chez-les-autres-nations)
-- **[Entitées Internationales - independentes - autres que l'OMS](#entitées-internationales---independentes---autres-que-loms)**
-  - [World Council for Health Policy - introduction](#world-council-for-health-policy---introduction)
-    - [Citations](#citations)
+  - [Entitées indépendentes - autres que l'OMS](#entitées-indépendentes---autres-que-loms)
+    - [World Council for Health Policy - introduction](#world-council-for-health-policy---introduction)
+      - [Citations](#citations)
 <!-- #endregion -->
 
 ---
@@ -48,7 +49,7 @@ Ce document fournit un aperçu des efforts actuels de l'OMS pour développer et 
 
 
 ---
-## Object de la recherche
+## Objet de la recherche
 
 Deux documents de l’Organisme mondial de la santé (OMS) sont en cours de développement et seront signés en loi par le Canada le 22 mai 2024. Voici les rencontres de consultations restantent :
 
@@ -73,8 +74,7 @@ Version récente du document brouillon sur la prévention, la préparation et la
   - [Proposition de texte de l’Accord de l’OMS sur les pandémies soumis à négociation](https://apps.who.int/gb/inb/pdf_files/inb7/A_INB7_3-fr.pdf)
 
 
----
-## Les organes en charge du processus
+### Les organes en charge du processus
 
 1. **Règlement Sanitaire International (2005) (RSI)**
    - Entité en charge : Groupe de travail sur les amendements au Règlement Sanitaire International (WGIHR).
@@ -85,10 +85,9 @@ Version récente du document brouillon sur la prévention, la préparation et la
    - [Site d'informations de l'ONI](https://inb-who-int.translate.goog/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp). <br>note : ce lien est traduit par *google.translate* puisque la version française [inb.who.int](https://inb.who.int/) reste à trouver.
 
 
----
-## Réunions
+### Réunions
 
-Ce rendre sur la page du suivi de l'[Organe intergouvernemental de négociation](https://apps.who.int/gb/inb/f/index.html) chargé de rédiger et de négocier une convention, un accord ou un autre instrument international de l’OMS sur la prévention, la préparation et la riposte face aux pandémies.
+Se rendre sur la page du suivi de l'[Organe intergouvernemental de négociation](https://apps.who.int/gb/inb/f/index.html) chargé de rédiger et de négocier une convention, un accord ou un autre instrument international de l’OMS sur la prévention, la préparation et la riposte face aux pandémies.
 
 
 ---
@@ -175,11 +174,15 @@ Voir les [notes](/petitions/can/) sur les pétitions Canadiennes.
 
 Voir les [debates](/petitions/uk) du Royaume-Uni suite à des pétitions semblable aux notres.
 
-### Entitées independentes - autres que l'OMS
+### Entitées indépendentes - autres que l'OMS
 
 #### World Council for Health Policy - introduction
 
-Ils travaillent sur le développement de briefs politiques pour présenter des recherches et recommandations sur diverses questions essentielles.
+Cet organisme travaillent sur le développement de briefs politiques pour présenter des recherches et recommandations sur diverses questions essentielles.
+
+Voir la [page](/resources/world-council-for-health/) de détails sur cet organisme ressource.
+
+Voici les liens vers les efforts fournis par cet organisme en liens avec nos efforts.
 
 Note: tous les liens qui suivent sont vers des ressources anglophone, certaines pages sont disponnible dans d'autre langues.
 

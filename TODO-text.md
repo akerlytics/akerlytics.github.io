@@ -5,6 +5,10 @@
 Les deux 'policy-brief' du WCHP devraient avoir des traductions en français, du moin le résumer.
 - [World Council for Health Policy - introduction](_pages/en/about.md#world-council-for-health-policy---introduction)
 
+## Pour les journalistes
+
+1. Article sur l'étiquette "tabou" des échanges d'opinions politiques en familles et entre amis.
+
 
 ## Propositions
 
