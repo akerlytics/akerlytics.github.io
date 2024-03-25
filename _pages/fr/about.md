@@ -7,14 +7,21 @@ permalink: /
 #   sidebar: left
 ---
 
-# Suivi des Problèmes Politiques - CAN
+# Veille des Enjeux Politiques - CAN
 
-Bienvenue dans l'effort de **Suivi des Problèmes Politiques** pour la question actuelle préoccupante pour tous les Canadiens.
+Bienvenue sur la plateforme de **Veille des Enjeux Politiques** canadiens.
 
-Problème actuel :
-> Les documents de l'Organisation Mondiale de la Santé qui seront signés en tant que loi le 22 mai 2024.
+Saviez vous que le 22 mai 2024, le Canada s'apprête à signer des documents qui aurront force de loi et qui transfère le pouvoir acutel des canadies à l'Organisme Mondial de la Santé (OMS)
 
-Voir ci-dessous pour une description du problème actuel.
+Enjeu actuel :
+> Amendements proposés au Règlement Sanitaire International (RSI) et la délégation de pouvoirs à l'Organisation Mondiale de la Santé (OMS) en cas de pandémie mondiale ou nationale.
+
+### Objectif
+
+Synthèse de toutes les informations en liens avec l'appuis la lettre officiel de demande d'analyse envoyé au gouvernement le 23 février.
+
+[Lettre](#lettres-aux-députés)
+
 
 ---
 ## Table des matières
@@ -28,9 +35,9 @@ Voir ci-dessous pour une description du problème actuel.
 - **[Comité interne à l'OMS d'analyse des changements](#comité-interne-à-loms-danalyse-des-changements)**
 - **[Chronologie des événements](#chronologie-des-événements)**
 - **[Lettres aux députés](#lettres-aux-députés)**
-  - [NB](#nb)
+  - [Circonscriptions](#circonscriptions)
+    - [NB](#nb)
   - [Incitation à participer](#incitation-à-participer)
-- **[Points importants](#points-importants)**
 - **[Pétitions](#pétitions)**
 - **[Entitées Internationales - independentes - autres que l'OMS](#entitées-internationales---independentes---autres-que-loms)**
   - [World Council for Health Policy - introduction](#world-council-for-health-policy---introduction)
@@ -71,9 +78,11 @@ Les deux documents suivants sont dans la dernière ligne droite avant leur signa
    `note :` ce lien est traduit par *google.translate* puisque `inb.who.int` ne fournis pas ces information en français
 
 <!-- @optional target start -->
+<!--
 [ce prochain paragraph devait pas être là, et dans le .md il y a un automatisme en demo]
 
 Notre préoccupation ici est que les consultations des États membres n'assurent pas automatiquement que des discussions et débats appropriés soient menés par les États membres avec leurs populations respectives. Le processus démocratique exige non seulement l'implication des officiels gouvernementaux et des experts en santé mais aussi l'engagement du public de manière significative. Il est essentiel que ces instruments importants de gouvernance de la santé soient soumis à un débat ouvert, transparent et inclusif au sein de chaque pays, permettant à un large éventail de voix d'être entendues. Cela garantit que les politiques et accords forgés au niveau international.
+-->
 <!-- @optional target end -->
 
 
@@ -124,17 +133,17 @@ Todo: number, voting link, deadline for inclusion to document
 Pour plus d'informations sur l'historique des deux documents, consultez :
 
 - **Site de Leslyne Lewis** (députée élue par les comtés Haldimand - Norfolk de l’Ontario) :
-  - [leslynlewismp.ca/](https://leslynlewismp-ca.translate.goog/2024/01/17/the-who-pandemic-treaty/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp)
+  - [leslynlewismp.ca](https://leslynlewismp-ca.translate.goog/2024/01/17/the-who-pandemic-treaty/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp)
 
 - **Contre-article** :
-  - [www-cbc-ca](https://www-cbc-ca.translate.goog/news/politics/leslyn-lewis-who-world-health-organization-pandemic-1.6460159?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp)
+  - Leslyn Lewis affirme que le pacte de pandémie de l’OMS est un pas vers un « gouvernement mondial ». Lien: [www-cbc-ca](https://www-cbc-ca.translate.goog/news/politics/leslyn-lewis-who-world-health-organization-pandemic-1.6460159?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp)
 
 
 ---
 ## Lettres aux députés
 
 <!-- @todo OK update lang en -->
-Une lettre à été envoyé aux représentants des territoire ci-dessous. Cette lettre a pour intention de souligner l'importance à réaliser des analyses approfondies en appuie démocratique dans le contexte des changements légals proposées par les efforts de l'OMS et leurs pays membres.
+Une lettre à été envoyée aux représentants des territoires ci-dessous. Cette lettre a pour intention de souligner l'importance de réaliser des analyses approfondies en appui démocratique dans le contexte des changements légaux proposés par les efforts de l'OMS et leurs pays membres.
 
 ### Circonscriptions
 
@@ -170,11 +179,13 @@ Voir section [communication/gouvernement](/communications/fr/gouvernement) pour 
 
 ### Incitation à participer
 
-**Afficher votre support** à la lettre mise de l'avant faire valoir les points les plus important sur le dossier et qui a été envoyée à certains député.
+**Afficher votre support** à la lettre qui fut mise de l'avant afin de faire valoir les points les plus importants sur le dossier et qui a été envoyée à certains députés.
 
 Cette lettre est d'un format publique afin que tous puissent afficher leur support sur l'étendu du territoire Canadien.
 
-Rendez-vous sur le formulaire pour afficher [support à la Lettre-V1.0.3](todo) pour des suggestions.
+Rendez-vous sur le formulaire pour afficher [support à la Lettre-V1.0.3](/letters/v1.0.3/tobic-mactaquac/) pour des suggestions sur comment procéder.
+
+Cette méthode pourrait servir à nos députés dans le cas où la [pétition e-4623](/petitions/can/e-4623) ferait l'objet d'un débat au parlement. Partagez ce site avec votre député pour encourager sa participation à ce débat attendu.
 
 
 <!-- @todo
@@ -185,16 +196,6 @@ Rendez-vous sur le formulaire pour afficher [support à la Lettre-V1.0.3](todo) 
 [todo] Voici les données pour le supports publique en date du : <date-today>
 TODO: afficher version small des supports github, ensuite auto-généré des emails, and hash-tags...
 -->
-
----
-## Points importants
-
-- **Concernant le point 2 de la lettre envoyée aux députés** :
-  > Deux autres amendements proposent de supprimer le mot « non contraignant » des définitions des termes « recommandation permanente » et « recommandation temporaire ».
-
-- **Concernant le point 3 de la lettre** :
-  > Mentionner l’équité, l’inclusivité, la cohérence et la solidarité, en tant que principes, soit pour remplacer la référence qui est faite à la dignité, aux droits de l’homme et aux libertés fondamentales, soit sous la forme d’un paragraphe supplémentaire.
-
 
 ---
 ## Pétitions
@@ -213,12 +214,12 @@ Voir les [debates]((/petitions/uk) du Royaume-Uni suite au pétitions.
 
 Ils travaillent sur le développement de briefs politiques pour présenter des recherches et recommandations sur diverses questions essentielles.
 
-Note: tous les liens qui suivent sont vers des ressources anglophone.
+Note: tous les liens qui suivent sont vers des ressources anglophone, certaines pages sont disponnible dans d'autre langues.
 
 - [Lien vers les politiques](https://worldcouncilforhealth.org/policy/)
 - [Compilation des amendements](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/WGIHR_Redlined-words-of-Proposed-Amendement-Compilation-en.pdf)
-- [Arguments complets](https://worldcouncilforhealth.org/wp-content/uploads/2023/06/Rejecting-Monopoly-Power-over-Global-Public-Health.-WCH-Policy-Brief-on-the-Proposed-IHR-Amendments-and-Pandemic-Treaty.pdf)
-- [Résumé des arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/Policy-Brief-Summary-1.pdf)
+- [Arguments complets](https://worldcouncilforhealth.org/wp-content/uploads/2023/06/Rejecting-Monopoly-Power-over-Global-Public-Health.-WCH-Policy-Brief-on-the-Proposed-IHR-Amendments-and-Pandemic-Treaty.pdf) - 45 pages.
+- [Résumé des arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/07/WHOPolicyBriefSummary_FRENCH_V2.pdf) - 8 pages.
 
 
 #### Citations

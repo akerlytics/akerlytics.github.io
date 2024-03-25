@@ -15,4 +15,6 @@ children:
   - title: divider
   - title: Policy-Brief
     permalink: /law/can/learn/
+  - title: WCfH
+    permalink: /resources/world-council-for-health/
 ---

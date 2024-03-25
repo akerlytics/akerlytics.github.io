@@ -9,12 +9,16 @@ permalink: /
 
 # Political Issue Tracker - CAN
 
-Welcome to the **Political Issue Tracker** effort for the current issue of concern for Canadians.
+Welcome to the **Political Issue Tracker** effort for the current issue of concern with sifnificant impact for all Canadians.
 
 Current issue:
-> World Health Organisation's documents to be signed into law Mai 22 2024.
+> Proposed amendments to the International Health Regulations (IHR) and the delegation of powers to the World Health Organization (WHO) in the event of a global or national pandemic.
 
-See below for a description of the current issue.
+### Intent of this document
+
+This Issue, as presented here, is intended to serve as policy-brief for the public and politicians.
+
+
 
 ---
 ## Table of Contents
@@ -30,7 +34,6 @@ See below for a description of the current issue.
 - **[Letters to Deputies](#letters-to-deputies)**
   - [NB](#nb)
   - [Encouragement to Participate](#encouragement-to-participate)
-- **[Key Points](#key-points)**
 - **[Petitions](#petitions)**
 - **[Independent International Bodies](#independent-international-bodies)**
   - [World Council for Health Policy - introduction](#world-council-for-health-policy---introduction)
@@ -69,7 +72,9 @@ The two following documents are in the final stretch to being signed in May 2024
    - [More information on INB](https://inb.who.int/)
 
 <!-- @optional target start -->
+<!--
 Our concern here is that the consultations of member states doesn't automatically ensure proper discussions and debates are done by the member states with their respective populations. The democratic process requires not just the involvement of government officials and health experts but also the engagement of the public in meaningful ways. It is essential that these significant health governance instruments are subject to open, transparent, and inclusive debate within each country, allowing for a broad range of voices to be heard. This ensures that the policies and agreements forged at the international level truly reflect the will and the needs of the people they affect, safeguarding democratic principles in global health decision-making.
+-->
 <!-- @optional target end -->
 
 <!-- @optional email akerlytics@gmail.com
@@ -154,22 +159,13 @@ See section [communication/government](/communications/gouvernement) for more de
 
 ### Encouragement to Participate
 
-**Show your support** for the letter that highlights the most important points on the issue and has been sent to certain deputies.
+**Show your support** for the letter that highlights the most important points on the issue and that has been sent to certain deputies.
 
 This letter is in a public format so that everyone can show their support across Canada.
 
 Visit the form to show your [support for Letter-V1.0.3](todo) for suggestions.
 
----
-## Key Points
-
-Quotes with sources in need...
-
-- **Regarding point 2 of the letter sent to MPs**:
-  > Two other amendments propose removing the word "non-binding" from the definitions of the terms "standing recommendation" and "temporary recommendation".
-
-- **Regarding point 3 of the letter**:
-  > Mention equity, inclusivity, coherence, and solidarity as principles, either to replace the reference made to dignity, human rights, and fundamental freedoms, or in the form of an additional paragraph.
+This method could serve our MPs in case the [petition e-4623][/petitions/can/e-4623) get's debated at parlement. Share this site to your MP to encourage participation to this expected debate.
 
 
 ---
@@ -189,16 +185,18 @@ See the [debates](/petitions/uk) from United-Kingdom's petitions.
 <!-- #region -->
 <!-- @#world-council-for-health-policy---introduction -->
 <!-- #endregion -->
-They work on developing policy briefs to present research and recommendations on various key issues.
 
+See the organism's [page](/resources/world-council-for-health).
+
+**Theses are their links relating to this current issue**:
 - [Link to policies](https://worldcouncilforhealth.org/policy/)
 - [Compilation of amendments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/WGIHR_Redlined-words-of-Proposed-Amendement-Compilation-en.pdf)
-- [Full arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/06/Rejecting-Monopoly-Power-over-Global-Public-Health.-WCH-Policy-Brief-on-the-Proposed-IHR-Amendments-and-Pandemic-Treaty.pdf)
-- [Summary of arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/Policy-Brief-Summary-1.pdf)
+- [Full arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/06/Rejecting-Monopoly-Power-over-Global-Public-Health.-WCH-Policy-Brief-on-the-Proposed-IHR-Amendments-and-Pandemic-Treaty.pdf) - 45 pages.
+- [Summary of arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/Policy-Brief-Summary-1.pdf) - 7 pages.
 
 
 #### Quotes
 
 > A group of experts in political science and law prepared a comprehensive 45-page policy brief on the proposed amendments to the International Health Regulations (2005) and the WHO's pandemic treaty/agreement (WHO CA+). This brief provides a professional overview of the proposed legal instruments. It also presents a historical account of mistakes made during the COVID pandemic, describes attempts to establish these mistakes as accepted norms, and provides valuable insights on how to correct course before it's too late. The central points of the brief are summarized below for your convenience.
 
-> It is notable in this context that the WHO controls only about a quarter of its own budget. The rest consists of targeted voluntary
+> It is noteworthy in this context that the WHO only has full control over roughly a quarter of its own budget. The rest consists of earmarked voluntary contributions by its funders. If agreed upon, some of the IHR (2005) amendments would enable the special interests that have compromised the organisation (see e.g. Cohen & Carter 2010) to standardise and impose how states and even non-state actors worldwide shall respond to public health emergencies and approach a variety of global health matters in general.

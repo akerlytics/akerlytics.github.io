@@ -172,6 +172,9 @@ collections:
   presentation: 
     output: true
     permalink: /:collection/:title/
+  resources: 
+    output: true
+    permalink: /:collection/:title/
 
   # demo
   news:
