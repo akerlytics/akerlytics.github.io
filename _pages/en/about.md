@@ -71,37 +71,11 @@ The two following documents are in the final stretch to being signed in May 2024
    - Entity in charge: Intergovernmental Negotiating Body (INB).
    - [More information on INB](https://inb.who.int/)
 
-<!-- @optional target start -->
-<!--
-Our concern here is that the consultations of member states doesn't automatically ensure proper discussions and debates are done by the member states with their respective populations. The democratic process requires not just the involvement of government officials and health experts but also the engagement of the public in meaningful ways. It is essential that these significant health governance instruments are subject to open, transparent, and inclusive debate within each country, allowing for a broad range of voices to be heard. This ensures that the policies and agreements forged at the international level truly reflect the will and the needs of the people they affect, safeguarding democratic principles in global health decision-making.
--->
-<!-- @optional target end -->
-
-<!-- @optional email akerlytics@gmail.com
-Our concern here is that the consultations of member states don't automatically ensure proper discussions and debates are conducted by the member states with their respective populations. The democratic process demands that such significant international agreements undergo thorough public scrutiny and debate within each country. This is crucial to ensure that the voices of the citizens are heard and that their concerns and perspectives are taken into account before such treaties are ratified. The essence of democracy is not just in the act of voting but in continuous and informed participation of the public in decisions that affect their lives and futures. Therefore, it is imperative that member states commit to engaging their populations in meaningful dialogue about these documents, to uphold the principles of democracy and ensure that international health policies are aligned with the will and welfare of the people.
--->
-<!-- @optional voting
-Note to contributors: do not write directly into this section, this is filled automatically
-Todo: number, voting link, deadline for inclusion to document
--->
-
-<!-- @optional display start -->
-<!-- Note to contributors: do not write directly into this section, this is filled automatically -->
-<!-- @optional display end -->
 
 ---
 ## Recent Meetings and Documents
 
-- [Seventh INB meeting](https://apps.who.int/gb/inb/e/e_inb-7.html)
-- [Height INB meeting](https://apps.who.int/gb/inb/e/e_inb-8.html)
-- **Upcoming meetings**:
-  - Ninth INB meeting: March 18–29, 2024
-
----
-## Important WHO Documents
-
-- **Latest draft document on pandemic prevention, preparedness, and response**:
-  - [A_INB7_3-en.pdf](https://apps.who.int/gb/inb/pdf_files/inb7/A_INB7_3-en.pdf)
+[Intergovernmental Negotiating Body](https://apps.who.int/gb/inb/) to draft and negotiate a WHO convention, agreement or other international instrument on pandemic prevention, preparedness and response
 
 ---
 ## WHO Internal Committee for Change Analysis
@@ -131,20 +105,25 @@ A letter has been sent to the representatives of the territories below. This let
 <details><summary>Madawaska-Restigouche</summary>
 
 <!-- #region -->
+<pre><code>
 - [ ] Reply.
 - Position on the issue:
   - [ ] Clear position
   - [ ] Favorable to this issue's cause.
+<pre><code>
+</code></pre>
 </details>
 
 <!-- #endregion -->
 <details><summary>Tobic-Mactaquac</summary>
 
 <!-- #region -->
+<pre><code>
 - [x] Reply.
 - Position on the issue:
   - [x] Clear position
   - [x] Favorable to this issue's cause.
+</code></pre>
 </details>
 
 <!-- #endregion -->
