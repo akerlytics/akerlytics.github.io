@@ -8,7 +8,7 @@ permalink: /contributions/
 ---
 
 
-# Contribiutions to the project
+# Contributions to the project
 
 Contributions can be of multiple forms and utilise different mediums.
 
