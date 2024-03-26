@@ -14,12 +14,6 @@ Welcome to the **Political Issue Tracker** effort for the current issue of conce
 Current issue:
 > Proposed amendments to the International Health Regulations (IHR) and the delegation of powers to the World Health Organization (WHO) in the event of a global or national pandemic.
 
-### Intent of this document
-
-This Issue, as presented here, is intended to serve as policy-brief for the public and politicians.
-
-
-
 ---
 ## Table of Contents
 <!-- #region -->
@@ -28,7 +22,6 @@ This Issue, as presented here, is intended to serve as policy-brief for the publ
 - **[Research Objective](#research-objective)**
   - [The two active WHO documents](#the-two-active-who-documents)
 - **[Recent Meetings and Documents](#recent-meetings-and-documents)**
-- **[Important WHO Documents](#important-who-documents)**
 - **[WHO Internal Committee for Change Analysis](#who-internal-committee-for-change-analysis)**
 - **[Timeline of Events](#timeline-of-events)**
 - **[Letters to Deputies](#letters-to-deputies)**
@@ -36,7 +29,7 @@ This Issue, as presented here, is intended to serve as policy-brief for the publ
   - [Encouragement to Participate](#encouragement-to-participate)
 - **[Petitions](#petitions)**
 - **[Independent International Bodies](#independent-international-bodies)**
-  - [World Council for Health Policy - introduction](#world-council-for-health-policy---introduction)
+  - [World Council for Health](#world-council-for-health)
     - [Quotes](#quotes)
 <!-- #endregion -->
 
@@ -105,11 +98,12 @@ A letter has been sent to the representatives of the territories below. This let
 <details><summary>Madawaska-Restigouche</summary>
 
 <!-- #region -->
-<p>Voir le <a href="/letters/v1.0.3/madawaska-restigouche/">modèle de la lettre</a> qui ai été envoyé pour la circonscription Madawaska-Restigouche.</p>
+<br>
+<p>See the <a href="/letters/v1.0.3/madawaska-restigouche/">template of the letter</a> sent for the Madawaska-Restigouche circonscription.</p>
 <ul>
-  <li>❌ Retour de courriel.</li>
-  <li>[?] Affirmation de position claire.</li>
-    <ul>[?] Favorable à la cause.
+  <li>❌ Reply.</li>
+  <li>[?] Clear position.</li>
+    <ul>[?] Favorable to this issue's cause.
     </ul>
 </ul>
 </details>
@@ -118,7 +112,8 @@ A letter has been sent to the representatives of the territories below. This let
 <details><summary>Tobic-Mactaquac</summary>
 
 <!-- #region -->
-<p>Voir le <a href="/letters/v1.0.3/tobic-mactaquac/">modèle de la lettre</a> qui ai été envoyé pour la circonscription Tobic-Mactaquac.</p>
+<br>
+<p>See the <a href="/letters/v1.0.3/tobic-mactaquac/">template of the letter</a> sent for the Tobic-Mactaquac circonscription.</p>
 <ul>
   <li>✅ Retour de courriel.</li>
   <li>✅ Affirmation de position claire.</li>
@@ -161,10 +156,7 @@ See the [debates](/petitions/uk) from United-Kingdom's petitions.
 ---
 ## Independent International Bodies
 
-### World Council for Health Policy - introduction
-<!-- #region -->
-<!-- @#world-council-for-health-policy---introduction -->
-<!-- #endregion -->
+### World Council for Health
 
 See the organism's [page](/resources/world-council-for-health).
 

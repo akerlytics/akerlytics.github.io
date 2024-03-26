@@ -15,7 +15,7 @@ Editors workflow directly within GitHub interface:
 
 This state of all the text is not displayed publically other than using this link.
 
-This branch of the repo is for setting the initial information favorable to the promotion of the letter and it's support throuhout Canada.
+This branch of the repo is for setting the initial information favorable to the promotion of the letter and it's support throughout Canada.
 
 
 ---
@@ -68,6 +68,17 @@ These are the texts with most importance:
 
 [fr/v1.0.3_summary.md](_letters/fr/v1.0.3_summary.md)
 
+[fr/envoyé/nb/Madawaska-Restigouche/Letter_V1.0.3.md](_letters/fr/envoyé/nb/Madawaska-Restigouche/Letter_V1.0.3.md)
+
+[fr/envoyé/nb/Tobic-Mactaquac/Letter_V1.0.3.md](_letters/fr/envoyé/nb/Tobic-Mactaquac/Letter_V1.0.3.md)
+
+
+### Petitions
+
+[en/can/petitions/e-4623.md](_petitions/en/can/petitions/e-4623.md)
+
+[fr/can/petitions/e-4623.md](_petitions/fr/can/petitions/e-4623.md)
+
 
 
 ---
@@ -111,6 +122,10 @@ These are the texts with most importance:
 [en/v1.0.3.md](_letters/en/v1.0.3.md)
 
 [en/v1.0.3_summary.md](_letters/en/v1.0.3_summary.md)
+
+[fr/envoyé/nb/Madawaska-Restigouche/Letter_V1.0.3.md](_letters/fr/envoyé/nb/Madawaska-Restigouche/Letter_V1.0.3.md)
+
+[fr/envoyé/nb/Tobic-Mactaquac/Letter_V1.0.3.md](_letters/fr/envoyé/nb/Tobic-Mactaquac/Letter_V1.0.3.md)
 
 [fr/letters.md](_letters/fr/letters.md)
 

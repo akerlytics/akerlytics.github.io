@@ -35,10 +35,10 @@ Enjeu actuel :
       - [NB](#nb)
     - [Incitation à participer](#incitation-à-participer)
   - [Pétitions](#pétitions)
-- **[Entité Internationaux](#entité-internationaux)**
+- **[Entités Internationaux](#entités-internationaux)**
   - [Débats chez les autres nations](#débats-chez-les-autres-nations)
   - [Entitées indépendentes - autres que l'OMS](#entitées-indépendentes---autres-que-loms)
-    - [World Council for Health Policy - introduction](#world-council-for-health-policy---introduction)
+    - [Conseil Mondial pour la Santé](#conseil-mondial-pour-la-santé)
       - [Citations](#citations)
 <!-- #endregion -->
 
@@ -116,7 +116,8 @@ Une lettre à été envoyée aux représentants des territoires ci-dessous. Cett
 <details><summary>Madawaska-Restigouche</summary>
 
 <!-- #region -->
-<p>Voir le <a href="/letters/v1.0.3/madawaska-restigouche/">modèle de la lettre</a> qui ai été envoyé pour la circonscription Madawaska-Restigouche.</p>
+<br>
+<p>Voir le <a href="/letters/v1.0.3/madawaska-restigouche/">modèle de la lettre</a> qui a été envoyé pour la circonscription Madawaska-Restigouche.</p>
 <ul>
   <li>❌ Retour de courriel.</li>
   <li>[?] Affirmation de position claire.</li>
@@ -130,7 +131,8 @@ Une lettre à été envoyée aux représentants des territoires ci-dessous. Cett
 <details><summary>Tobic-Mactaquac</summary>
 
 <!-- #region -->
-<p>Voir le <a href="/letters/v1.0.3/tobic-mactaquac/">modèle de la lettre</a> qui ai été envoyé pour la circonscription Tobic-Mactaquac.</p>
+<br>
+<p>Voir le <a href="/letters/v1.0.3/tobic-mactaquac/">modèle de la lettre</a> qui a été envoyé pour la circonscription Tobic-Mactaquac.</p>
 <ul>
   <li>✅ Retour de courriel.</li>
   <li>✅ Affirmation de position claire.</li>
@@ -149,7 +151,7 @@ Une lettre à été envoyée aux représentants des territoires ci-dessous. Cett
 
 Note: Cette communication est d'un format publique afin que tous puissent afficher leur support sur l'étendu du territoire Canadien.
 
-Voir le template de la [lettre](/letters/v1.0.3/madawaska-restigouche/) qui ai été envoyé pour la circonscription Madawaska-Restigouche.
+Voir le [modèle de la lettre](/letters/v1.0.3/madawaska-restigouche/) qui a été envoyé pour la circonscription Madawaska-Restigouche.
 
 Rendez-vous sur la [page détails](/letters/) de la lettre pour plus d'information.
 
@@ -179,7 +181,7 @@ Voir les [debates](/petitions/uk) du Royaume-Uni suite à des pétitions semblab
 
 ### Entitées indépendentes - autres que l'OMS
 
-#### World Council for Health Policy - introduction
+#### Conseil Mondial pour la Santé
 
 Cet organisme travaillent sur le développement de briefs politiques pour présenter des recherches et recommandations sur diverses questions essentielles.
 
@@ -199,7 +201,6 @@ Note: tous les liens qui suivent sont vers des ressources anglophone, certaines 
 
 > Un groupe d'experts en sciences politiques et en droit a préparé un brief politique approfondi de 45 pages sur les amendements proposés aux Règlements Sanitaires Internationaux (2005) et le traité/accord pandémique de l'OMS (WHO CA+). Ce brief offre un aperçu professionnel sur les instruments juridiques proposés. Il présente également un compte rendu historique des erreurs commises pendant la pandémie de COVID, décrit les tentatives faites pour établir ces erreurs comme normes acceptées, et fournit des insights précieux sur comment corriger le cap avant qu'il ne soit trop tard. Les points centraux du brief sont résumés ci-dessous pour votre commodité.
 
-<!-- @todo: verify quote & en -->
 > Il est notable dans ce contexte que l'OMS contrôle seulement environ un quart de son propre budget. Le reste consiste en participate volontaires ciblées par ses bailleurs de fonds. Si elles sont adoptées, certaines des amendements aux RSI (2005) permettraient aux intérêts spéciaux qui ont compromis l'organisation (voir par exemple Cohen & Carter 2010) de standardiser et d'imposer comment les États et même les acteurs non étatiques dans le monde entier doivent répondre aux urgences de santé publique et aborder une variété de questions de santé mondiale en général.
 
 
