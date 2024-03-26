@@ -23,8 +23,8 @@ We, the voters of the Tobique-Mactaquac constituency, are writing to you in your
 
 More specifically, we are concerned about the legal implications of documents scheduled for ratification next May, which will thus become law in our country:
 
-Amendments to the International Health Regulations (2005) (IHR)
-Adoption of the Global Agreement on Pandemic Prevention, Preparedness, and Response
+- Amendments to the International Health Regulations (2005) (IHR)
+- Adoption of the Global Agreement on Pandemic Prevention, Preparedness, and Response
 
 
 We are particularly concerned about certain proposed amendments to the IHR and the delegation of powers to the World Health Organization (WHO) in the event of a global or national pandemic. The modifications that concern us most include:

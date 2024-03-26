@@ -82,17 +82,17 @@ attachments:
 
 <!-- END image attachement description -->
 
-future-contributions:
+future-participate:
   - [ ] I wish to signal my work in progess for this section, this flag will expire in one week, resend to renew.
   - [ ] I wish to stop the signal for work in progess for this section.
   
-present-contributions: 
+present-participate: 
   - [ ] Use alternate section path instead of 'this section' specifically: 
     * alternate_path: 
   - [ ] I whish to make contact with the person doing current work for the section.
   - [ ] I whish to make contact with the persons having done work for the section in the past.
   
-past-contributions:
+past-participate:
   - [ ] request history
   - [ ] remove my support information for:
     - [ ] the selected section

@@ -1,14 +1,14 @@
 ---
-page_id: contributions
+page_id: participate
 layout: about
-title: Contributions
-permalink: /contributions/
+title: Participate
+permalink: /participate/
 ---
 
 
-# Contributions au projet
+# Contributions a l'effort
 
-Les contributions peuvent avoir plusieurs formes et médiums : éditer le texte directement dans le dépôt pour cette question, cloner le projet pour commencer d'autres problèmes, collaborer avec l'outil adjacent pour automatiser les tâches d'édition afin de répondre aux besoins...
+Participer à cet effort peut avoir plusieurs formes et médiums : éditer le texte directement dans le dépôt pour cette question, cloner le projet pour commencer d'autres problèmes, collaborer avec l'outil adjacent pour automatiser les tâches d'édition afin de répondre aux besoins...
 
 Méthodes de contribution sur le problème actuel :
   - Par email :
@@ -97,7 +97,7 @@ After showing support for any section of the project via a email template, you c
 
 The email address is converted to a hashed token for security. Your email will not be shared with editors or contributors to the project.
 
-If you make contributions to some text, the previous personal information will persist until changed or until you unsubscribe/remove your data.
+If you make participate to some text, the previous personal information will persist until changed or until you unsubscribe/remove your data.
 
 Emails will be collected and attributed a unique identifier. Spam emails will be ignored. Any Email can be flagged for Spam, all senders will be notified if this appens. Emails can be verified per voter region of their democratic system.
 
@@ -117,7 +117,7 @@ A section for each email template is designated for unsubscription of email.
 
 ```markdown
 
-past-contributions:
+past-participate:
   - [ ] request history
   - [ ] remove support for:
     - [ ] this section: /political_issue_tracker/CAN/who

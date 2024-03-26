@@ -18,6 +18,7 @@ This state of all the text is not displayed publically other than using this lin
 This branch of the repo is for setting the initial information favorable to the promotion of the letter and it's support throuhout Canada.
 
 
+---
 ## IMPORTANT Texts
 
 These are the texts with most importance:
@@ -27,6 +28,7 @@ These are the texts with most importance:
 [en/about.md](_pages/en/about.md)
 
 [fr/about.md](_pages/fr/about.md)
+
 
 ### Debates
 
@@ -74,23 +76,6 @@ These are the texts with most importance:
 <!-- Following section will be automatically updated, do not edit directly. -->
 
 <!-- @autofill create_git_hub_editor_shortcuts -->
-### Contributions
-
-[en/contributions.md](_contributions/en/contributions.md)
-
-[en/email-templates/email_templates_options.md](_contributions/en/email-templates/email_templates_options.md)
-
-[en/tutorials/git/git.md](_contributions/en/tutorials/git/git.md)
-
-[en/tutorials/github_account/01_setup_account_todo.md](_contributions/en/tutorials/github_account/01_setup_account_todo.md)
-
-[en/tutorials/markdown.md](_contributions/en/tutorials/markdown.md)
-
-[en/tutorials/policy_brief.md](_contributions/en/tutorials/policy_brief.md)
-
-[fr/contributions.md](_contributions/fr/contributions.md)
-
-
 ### Debates
 
 [en/arguments.md](_debates/en/arguments.md)

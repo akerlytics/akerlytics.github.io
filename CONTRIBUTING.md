@@ -22,5 +22,5 @@ When submitting an issue, please make sure to use the appropriate template.
 
 ## License
 
-By contributing to multi-language-al-folio, you agree that your contributions will be licensed
+By contributing to multi-language-al-folio, you agree that your participate will be licensed
 under the LICENSE file in the root directory of the source tree.

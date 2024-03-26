@@ -1,16 +1,16 @@
 ---
-page_id: contributions
+page_id: participate
 layout: about
-title: contributions
-permalink: /contributions/
+title: participate
+permalink: /participate/
 # nav: true
 # nav_order: 5
 ---
 
 
-# Contributions to the project
+# Contribute to the project
 
-Contributions can be of multiple forms and utilise different mediums.
+Contributing to the project can have multiple forms and utilise different mediums.
 
 The encouraged approche is by editing the text directly in the repo for this issue. The host for the documents is GitHub, see [contribute via GitHub](#contribute-via-github).
 

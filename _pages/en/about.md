@@ -46,7 +46,7 @@ This Issue, as presented here, is intended to serve as policy-brief for the publ
 This document provides an overview of the current efforts of the WHO to develop and amend key international instruments related to global public health, including the International Health Regulations (IHR) and the International Treaty on Pandemic Prevention, Preparedness, and Response. It highlights key meetings, the entities in charge, and the important documents associated with these efforts. Furthermore, it emphasizes the importance of public engagement and parliamentary debate regarding these developments,
 
 <!-- @optional
-as well as the critical role of non-governmental organizations like the World Council for Health in providing counter-arguments and evidence-based recommendations. Selected quotes present concerns about the influence of financial contributions on WHO decisions and the importance of maintaining national sovereignty in the face of international pressures to adopt these new legal instruments.
+as well as the critical role of non-governmental organizations like the World Council for Health in providing counter-arguments and evidence-based recommendations. Selected quotes present concerns about the influence of financial participate on WHO decisions and the importance of maintaining national sovereignty in the face of international pressures to adopt these new legal instruments.
 -->
 
 
@@ -105,25 +105,26 @@ A letter has been sent to the representatives of the territories below. This let
 <details><summary>Madawaska-Restigouche</summary>
 
 <!-- #region -->
-<pre><code>
-- [ ] Reply.
-- Position on the issue:
-  - [ ] Clear position
-  - [ ] Favorable to this issue's cause.
-<pre><code>
-</code></pre>
+<p>Voir le <a href="/letters/v1.0.3/madawaska-restigouche/">modèle de la lettre</a> qui ai été envoyé pour la circonscription Madawaska-Restigouche.</p>
+<ul>
+  <li>❌ Retour de courriel.</li>
+  <li>[?] Affirmation de position claire.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
 </details>
 
 <!-- #endregion -->
 <details><summary>Tobic-Mactaquac</summary>
 
 <!-- #region -->
-<pre><code>
-- [x] Reply.
-- Position on the issue:
-  - [x] Clear position
-  - [x] Favorable to this issue's cause.
-</code></pre>
+<p>Voir le <a href="/letters/v1.0.3/tobic-mactaquac/">modèle de la lettre</a> qui ai été envoyé pour la circonscription Tobic-Mactaquac.</p>
+<ul>
+  <li>✅ Retour de courriel.</li>
+  <li>✅ Affirmation de position claire.</li>
+    <ul>✅ Favorable à la cause.
+    </ul>
+</ul>
 </details>
 
 <!-- #endregion -->
@@ -178,4 +179,4 @@ See the organism's [page](/resources/world-council-for-health).
 
 > A group of experts in political science and law prepared a comprehensive 45-page policy brief on the proposed amendments to the International Health Regulations (2005) and the WHO's pandemic treaty/agreement (WHO CA+). This brief provides a professional overview of the proposed legal instruments. It also presents a historical account of mistakes made during the COVID pandemic, describes attempts to establish these mistakes as accepted norms, and provides valuable insights on how to correct course before it's too late. The central points of the brief are summarized below for your convenience.
 
-> It is noteworthy in this context that the WHO only has full control over roughly a quarter of its own budget. The rest consists of earmarked voluntary contributions by its funders. If agreed upon, some of the IHR (2005) amendments would enable the special interests that have compromised the organisation (see e.g. Cohen & Carter 2010) to standardise and impose how states and even non-state actors worldwide shall respond to public health emergencies and approach a variety of global health matters in general.
+> It is noteworthy in this context that the WHO only has full control over roughly a quarter of its own budget. The rest consists of earmarked voluntary participate by its funders. If agreed upon, some of the IHR (2005) amendments would enable the special interests that have compromised the organisation (see e.g. Cohen & Carter 2010) to standardise and impose how states and even non-state actors worldwide shall respond to public health emergencies and approach a variety of global health matters in general.

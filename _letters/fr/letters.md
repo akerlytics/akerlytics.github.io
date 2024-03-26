@@ -51,3 +51,7 @@ Veuillez vous référer à ces liens pour faire une copie des dispositifs de com
 <br>
 Voir section [communication/gouvernement](/communications/fr/gouvernement) pour plus de détails sur les communications effectué.
 
+
+## Oportunité de représentation en chambre
+
+Puisque la [pétition e-4623](/petitions/can/e-4623) pourrait faire l'objet d'un débat au parlement, nous vous encourageons à partagez ce site avec votre député pour encourager sa participation à ce débat attendu.

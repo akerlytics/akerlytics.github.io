@@ -27,7 +27,7 @@ Enjeu actuel :
     - [RSI](#rsi)
     - [Traité Pandémique](#traité-pandémique)
   - [Les organes en charge du processus](#les-organes-en-charge-du-processus)
-  - [Réunions](#réunions)
+  - [Suivi des rencontres](#suivi-des-rencontres)
 - **[Débats au Canada](#débats-au-canada)**
   - [Questions soulevé par Leslyne Lewis](#questions-soulevé-par-leslyne-lewis)
   - [Lettres aux députés](#lettres-aux-députés)
@@ -45,7 +45,7 @@ Enjeu actuel :
 ---
 ## Résumé et description du dossier
 
-Ce document fournit un aperçu des efforts actuels de l'OMS pour développer et amender des instruments internationaux clés liés à la santé publique mondiale, notamment le Règlement Sanitaire International (RSI) et le Traité international sur la prévention, la préparation et la riposte aux pandémies. Il met en lumière les rencontres clés, les entités en charge, et les documents importants associés à ces efforts. De plus, il souligne l'importance de l'engagement public et du débat parlementaire concernant ces développements, ainsi que le rôle critique des organisations non gouvernementales comme le World Council for Health dans la fourniture de contre-arguments et de recommandations basées sur des preuves. Les citations sélectionnées présentent les préoccupations concernant l'influence des contributions financières sur les décisions de l'OMS et l'importance de maintenir la souveraineté nationale face aux pressions internationales pour l'adoption de ces nouveaux instruments juridiques.
+Ce document fournit un aperçu des efforts actuels de l'OMS pour développer et amender des instruments internationaux clés liés à la santé publique mondiale, notamment le Règlement Sanitaire International (RSI) et le Traité international sur la prévention, la préparation et la riposte aux pandémies. Il met en lumière les rencontres clés, les entités en charge, et les documents importants associés à ces efforts. De plus, il souligne l'importance de l'engagement public et du débat parlementaire concernant ces développements, ainsi que le rôle critique des organisations non gouvernementales comme le World Council for Health dans la fourniture de contre-arguments et de recommandations basées sur des preuves. Les citations sélectionnées présentent les préoccupations concernant l'influence des participate financières sur les décisions de l'OMS et l'importance de maintenir la souveraineté nationale face aux pressions internationales pour l'adoption de ces nouveaux instruments juridiques.
 
 
 ---
@@ -76,16 +76,16 @@ Version récente du document brouillon sur la prévention, la préparation et la
 
 ### Les organes en charge du processus
 
-1. **Règlement Sanitaire International (2005) (RSI)**
+1. Pour le document **Règlement Sanitaire International (2005) (RSI)**
    - Entité en charge : Groupe de travail sur les amendements au Règlement Sanitaire International (WGIHR).
    - [Plus d'informations sur le WGIHR.](https://apps.who.int/gb/wgihr/)
 
-2. **Traité international sur la prévention, la préparation et la riposte aux pandémies** (Traité Pandémique)
+2. Pour le document **Traité international sur la prévention, la préparation et la riposte aux pandémies** (Traité Pandémique)
    - Entité en charge : Organe de Négociation Intergouvernemental (ONI).
    - [Site d'informations de l'ONI](https://inb-who-int.translate.goog/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp). <br>note : ce lien est traduit par *google.translate* puisque la version française [inb.who.int](https://inb.who.int/) reste à trouver.
 
 
-### Réunions
+### Suivi des rencontres
 
 Se rendre sur la page du suivi de l'[Organe intergouvernemental de négociation](https://apps.who.int/gb/inb/f/index.html) chargé de rédiger et de négocier une convention, un accord ou un autre instrument international de l’OMS sur la prévention, la préparation et la riposte face aux pandémies.
 
@@ -116,11 +116,13 @@ Une lettre à été envoyée aux représentants des territoires ci-dessous. Cett
 <details><summary>Madawaska-Restigouche</summary>
 
 <!-- #region -->
-<pre><code>
-  - [ ] Retour de courriel.
-  - [ ] Affirmation de position claire.
-    - [ ] Favorable à la cause.
-</code></pre>
+<p>Voir le <a href="/letters/v1.0.3/madawaska-restigouche/">modèle de la lettre</a> qui ai été envoyé pour la circonscription Madawaska-Restigouche.</p>
+<ul>
+  <li>❌ Retour de courriel.</li>
+  <li>[?] Affirmation de position claire.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
 </details>
 
 <!-- #endregion -->
@@ -128,11 +130,13 @@ Une lettre à été envoyée aux représentants des territoires ci-dessous. Cett
 <details><summary>Tobic-Mactaquac</summary>
 
 <!-- #region -->
-<pre><code>
-  - [x] Retour de courriel.
-  - [x] Affirmation de position claire:
-    - [x] Favorable à la cause.
-</code></pre>
+<p>Voir le <a href="/letters/v1.0.3/tobic-mactaquac/">modèle de la lettre</a> qui ai été envoyé pour la circonscription Tobic-Mactaquac.</p>
+<ul>
+  <li>✅ Retour de courriel.</li>
+  <li>✅ Affirmation de position claire.</li>
+    <ul>✅ Favorable à la cause.
+    </ul>
+</ul>
 </details>
 
 <!-- #endregion -->
@@ -141,14 +145,13 @@ Une lettre à été envoyée aux représentants des territoires ci-dessous. Cett
 
 #### Incitation à participer
 
-**Afficher votre support** à la lettre qui fut mise de l'avant afin de faire valoir les points les plus importants sur le dossier et qui a été envoyée à certains députés.
+**Afficher votre support** à la communication sous forme de lettre ouverte qui fut mise de l'avant afin de faire valoir les points les plus importants sur le dossier et qui a été envoyée à certains députés.
 
-Cette lettre est d'un format publique afin que tous puissent afficher leur support sur l'étendu du territoire Canadien.
+Note: Cette communication est d'un format publique afin que tous puissent afficher leur support sur l'étendu du territoire Canadien.
 
-Rendez-vous sur le formulaire pour afficher [support à la Lettre-V1.0.3](/letters/v1.0.3/tobic-mactaquac/) pour des suggestions sur comment procéder.
+Voir le template de la [lettre](/letters/v1.0.3/madawaska-restigouche/) qui ai été envoyé pour la circonscription Madawaska-Restigouche.
 
-Cette méthode pourrait servir à nos députés dans le cas où la [pétition e-4623](/petitions/can/e-4623) ferait l'objet d'un débat au parlement. Partagez ce site avec votre député pour encourager sa participation à ce débat attendu.
-
+Rendez-vous sur la [page détails](/letters/) de la lettre pour plus d'information.
 
 <!-- @todo
 À faire: Voici les données pour le support public en date du : <date-today>. Afficher une version simplifiée des supports sur GitHub, ensuite générer automatiquement des emails et des hashtags...
@@ -168,7 +171,7 @@ Voir les [notes](/petitions/can/) sur les pétitions Canadiennes.
 
 
 ---
-## Entité Internationaux
+## Entités Internationaux
 
 ### Débats chez les autres nations
 
@@ -180,9 +183,9 @@ Voir les [debates](/petitions/uk) du Royaume-Uni suite à des pétitions semblab
 
 Cet organisme travaillent sur le développement de briefs politiques pour présenter des recherches et recommandations sur diverses questions essentielles.
 
-Voir la [page](/resources/world-council-for-health/) de détails sur cet organisme ressource.
+Voir la [page de détails](/resources/world-council-for-health/) sur cet organisme, on y retrouve également les critiques répertorier sur Wikipédia.
 
-Voici les liens vers les efforts fournis par cet organisme en liens avec nos efforts.
+Voici les liens vers le matériel fournis par cet organisme en liens avec nos efforts.
 
 Note: tous les liens qui suivent sont vers des ressources anglophone, certaines pages sont disponnible dans d'autre langues.
 
@@ -197,7 +200,7 @@ Note: tous les liens qui suivent sont vers des ressources anglophone, certaines 
 > Un groupe d'experts en sciences politiques et en droit a préparé un brief politique approfondi de 45 pages sur les amendements proposés aux Règlements Sanitaires Internationaux (2005) et le traité/accord pandémique de l'OMS (WHO CA+). Ce brief offre un aperçu professionnel sur les instruments juridiques proposés. Il présente également un compte rendu historique des erreurs commises pendant la pandémie de COVID, décrit les tentatives faites pour établir ces erreurs comme normes acceptées, et fournit des insights précieux sur comment corriger le cap avant qu'il ne soit trop tard. Les points centraux du brief sont résumés ci-dessous pour votre commodité.
 
 <!-- @todo: verify quote & en -->
-> Il est notable dans ce contexte que l'OMS contrôle seulement environ un quart de son propre budget. Le reste consiste en contributions volontaires ciblées par ses bailleurs de fonds. Si elles sont adoptées, certaines des amendements aux RSI (2005) permettraient aux intérêts spéciaux qui ont compromis l'organisation (voir par exemple Cohen & Carter 2010) de standardiser et d'imposer comment les États et même les acteurs non étatiques dans le monde entier doivent répondre aux urgences de santé publique et aborder une variété de questions de santé mondiale en général.
+> Il est notable dans ce contexte que l'OMS contrôle seulement environ un quart de son propre budget. Le reste consiste en participate volontaires ciblées par ses bailleurs de fonds. Si elles sont adoptées, certaines des amendements aux RSI (2005) permettraient aux intérêts spéciaux qui ont compromis l'organisation (voir par exemple Cohen & Carter 2010) de standardiser et d'imposer comment les États et même les acteurs non étatiques dans le monde entier doivent répondre aux urgences de santé publique et aborder une variété de questions de santé mondiale en général.
 
 
 <!-- #region -->

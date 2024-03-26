@@ -154,7 +154,7 @@ related_blog_posts:
 # -----------------------------------------------------------------------------
 
 collections:
-  contributions:
+  participate:
     output: true
     permalink: /:collection/:title/
   debates: 

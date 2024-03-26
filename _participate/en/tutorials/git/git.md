@@ -2,7 +2,7 @@
 page_id: git-tutorials
 layout: about
 title: Git Tutorials
-permalink: /contributions/learn/tutorials/git
+permalink: /participate/learn/tutorials/git
 # nav: true
 # nav_order: 5
 ---

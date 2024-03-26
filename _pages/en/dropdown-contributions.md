@@ -1,14 +1,14 @@
 ---
-id: dropdown-contributions
+id: dropdown-participate
 layout: page
-title: contributions
+title: participate
 nav: true
 nav_order: 3
 
 dropdown: true
 children:
   - title: Contribution
-    permalink: /contributions/
+    permalink: /participate/
   - title: divider
   - title: Letters to MP
     permalink: /letters/
