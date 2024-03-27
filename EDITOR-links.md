@@ -3,20 +3,26 @@
 All relevant text files links.
 
 To share with a potential contributor to the project:
-- contributor needs a GitHub accont
-- got to this address: https://github.com/akerlytics/akerlytics.github.io/blob/initial-push/EDITOR-links.md
 
-Editors workflow directly within GitHub interface:
-1. go to section using links bellow,
-2. edit page
+**To view**:
+- Got to this address: https://github.com/akerlytics/akerlytics.github.io/blob/initial-push/EDITOR-links.md
+
+**To edit**:
+- Create a GitHub account
+- Edit text directly within GitHub's interface:
+    1. Go to section using links bellow,
+    2. Refresh page is it has been openned for a long time to ensure all latest changes are displayed.
+    3. Edit the text via `pen` button in the top-right of the text block.
+
 
 ---
 ## Note to editors
 
-This state of all the text is not displayed publically other than using this link.
+This state of all the text is not displayed publically other than by using this link.
 
 This branch of the repo is for setting the initial information favorable to the promotion of the letter and it's support throughout Canada.
 
+The display of the page in the preview mode is very close to the web-page display.
 
 ---
 ## IMPORTANT Texts
@@ -82,7 +88,7 @@ These are the texts with most importance:
 
 
 ---
-## All Navigation Links
+## All Text Pages Links
 
 <!-- Following section will be automatically updated, do not edit directly. -->
 

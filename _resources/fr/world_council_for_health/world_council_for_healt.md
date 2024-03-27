@@ -22,6 +22,7 @@ Voir : [https://en.wikipedia.org/wiki/World_Council_for_Health](https://en.wikip
 
 Extrait de Wikipédia :
 
+<!-- Note to editors: this following quote will display correctly in web-page -->
 > Formation : Septembre 2021 ; il y a 2 ans
 <br>
 Type : À but non lucratif
