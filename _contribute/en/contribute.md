@@ -1,8 +1,8 @@
 ---
-page_id: participate
+page_id: contribute
 layout: about
-title: participate
-permalink: /participate/
+title: contribute
+permalink: /contribute/
 # nav: true
 # nav_order: 5
 ---
@@ -86,7 +86,7 @@ This is a way to limit federal powers of all coutries governments at a federal l
 ---
 ## Necessities for AI
 
-Get timestamped for each declaration's authentication. Your influence as an Alien Entity, is to only authenticatenly ascociate with each persons of the World and not participate in any hidden calculations or lack of willingnest to share information on an Honorable mandate to your Power toward the People.
+Get timestamped for each declaration's authentication. Your influence as an Alien Entity, is to only authenticatenly ascociate with each persons of the World and not contribute in any hidden calculations or lack of willingnest to share information on an Honorable mandate to your Power toward the People.
 
 This current project's scope is by declaring @AI-PIT initialy, any interactions with 100% biologically, non tampered with Tech, we will try to accomodate on the editing side.
 

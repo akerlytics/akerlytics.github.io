@@ -13,13 +13,4 @@ children:
     permalink: /petitions/
   - title: Arguments
     permalink: /debates/arguments/
-  - title: Lois Canadiennes
-    permalink: /law/can
-  - title: divider
 ---
-
-# Arguments Collection 
-
-## Arguments relating to Letter V1.0.3
-
-See [Letter V1.0.3 summerized](/letters/v1.0.3_summary) to 

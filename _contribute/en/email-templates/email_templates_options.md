@@ -46,7 +46,7 @@ follow-up:
     - [ ] send me an email on all changes for this section.
   
   colaborations:
-    - [ ] Other contributors may receive my email contact in private for consultation for sections I participated in. Default process is for other contributors to request consultation with past contributors.
+    - [ ] Other contributors may receive my email contact in private for consultation for sections I contributed in. Default process is for other contributors to request consultation with past contributors.
 
 show_support:
   - [ ] I strongly support this section.
@@ -82,17 +82,17 @@ attachments:
 
 <!-- END image attachement description -->
 
-future-participate:
+future-contribute:
   - [ ] I wish to signal my work in progess for this section, this flag will expire in one week, resend to renew.
   - [ ] I wish to stop the signal for work in progess for this section.
   
-present-participate: 
+present-contribute: 
   - [ ] Use alternate section path instead of 'this section' specifically: 
     * alternate_path: 
   - [ ] I whish to make contact with the person doing current work for the section.
   - [ ] I whish to make contact with the persons having done work for the section in the past.
   
-past-participate:
+past-contribute:
   - [ ] request history
   - [ ] remove my support information for:
     - [ ] the selected section

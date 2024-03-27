@@ -61,7 +61,7 @@ The parliamentary debates on the proposed international agreement on pandemic pr
    - This raises questions about democratic accountability and governance by the consent of the governed.
 
 3. **Influence of Major Donors**
-   - The WHO's funding mechanism, involving significant participate from member states and private entities, raises concerns about the influence of these donors on the organization's policies and priorities.
+   - The WHO's funding mechanism, involving significant contribute from member states and private entities, raises concerns about the influence of these donors on the organization's policies and priorities.
    - Critics argue this could result in the interests of the most influential donors driving the WHO's agenda and, by extension, the policies imposed on member states through the treaty.
 
 4. **Potential for Overreach**
@@ -350,7 +350,7 @@ The proposed pandemic agreement will set humanity into a new era that is strange
 <br><br>
 The entire structure will be financed by a new funding stream that is separate from WHO funding and an additional requirement on taxpayers over current national commitments. Article 20(2) states that the funding will also include an endowment of
 <br><br>
-“voluntary…participate from all relevant sectors that benefit from international work to strengthen pandemic prevention, preparedness and response;
+“voluntary…contribute from all relevant sectors that benefit from international work to strengthen pandemic prevention, preparedness and response;
 and…donations from philanthropic organizations”.
 <br><br>
 I wonder who those organisations referred to in article 20(2)(b) might be; perhaps someone who made a lot of money out of mRNA vaccination.

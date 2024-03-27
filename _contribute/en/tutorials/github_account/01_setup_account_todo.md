@@ -40,4 +40,4 @@ private: true #mag_tag
   - Explore projects related to your interests or start your own.
 
 - [ ] **Engage with the Community**
-  - Follow projects and users, participate in discussions, and contribute to open-source projects.
+  - Follow projects and users, contribute in discussions, and contribute to open-source projects.

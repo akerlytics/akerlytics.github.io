@@ -9,7 +9,7 @@ permalink: /letters/v1.0.3/madawaska-restigouche/
 # Lettre V1.0.3
 
 
-Kedgwick, le 22 février 2024
+<< nom de votre vile >>, << date de signature >>
 
 À l'attention de Monsieur René Arseneault, député de Madawaska-Restigouche,
 Chambre des communes,

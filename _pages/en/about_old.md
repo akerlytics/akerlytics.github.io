@@ -13,6 +13,6 @@ Welcome to this static documentation for the current political issue: <current-p
 
 This document is a form of a living document, it's structure and goal is to transmit and collect points of political impact and matter for individuals of all and any democratic system.
 
-See [contribution](/participate/participate.md) section to get started with sharing your input or level of support. 
+See [contribution](/contribute/contribute.md) section to get started with sharing your input or level of support. 
 
 Note: news, selected_papers and social are set to true for this _pages/about.yaml

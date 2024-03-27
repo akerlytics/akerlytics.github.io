@@ -154,7 +154,7 @@ related_blog_posts:
 # -----------------------------------------------------------------------------
 
 collections:
-  participate:
+  contribute:
     output: true
     permalink: /:collection/:title/
   debates: 
@@ -176,7 +176,6 @@ collections:
     output: true
     permalink: /:collection/:title/
 
-  # demo
   news:
     defaults:
       layout: post

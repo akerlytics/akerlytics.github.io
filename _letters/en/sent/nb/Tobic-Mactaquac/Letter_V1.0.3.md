@@ -9,7 +9,7 @@ permalink: /letters/v1.0.3/tobic-mactaquac/
 # Letter V1.0.3
 
 
-Grand Falls, February 21, 2024
+<< your city >>, << date of signature >>
 
 To Mr. Richard Bragdon, Member of Parliament for Tobique-Mactaquac
 House of Commons

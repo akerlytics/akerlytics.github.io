@@ -1,7 +1,7 @@
 ---
 page_id: world-council-for-health
 layout: about
-title: World Council for Health
+title: Conseil Mondial pour la Santé
 permalink: /resources/world-council-for-health/
 ---
 

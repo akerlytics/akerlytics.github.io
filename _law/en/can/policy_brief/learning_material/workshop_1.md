@@ -6,7 +6,7 @@ subtitle:
 permalink: /law/can/learn/workshop-1
 ---
 
-<!-- @todo warning AI participate -->
+<!-- @todo warning AI contribute -->
 # Detailed Summary of Workshop on Creating Effective Policy Briefs
 
 During the workshop, participants discussed the importance of creating effective policy briefs to influence UK policies. They analyzed sample policy briefs and identified key elements such as being brief, well-structured, using accessible language, and providing clear recommendations. Participants also practiced writing their own executive summaries based on their research topics. Feedback included the need for more concise language, clear recommendations, and a focus on the "what's in it for me" aspect for policy makers. The workshop emphasized the importance of targeting the right audience, such as policy makers, journalists, and stakeholders, and following up to ensure proper credit and recognition for the research. Participants were encouraged to use multiple channels to disseminate their research findings and to keep records of interactions for future reference. Overall, the workshop provided valuable insights and practical tips for creating impactful policy briefs and engaging with key stakeholders to drive change.

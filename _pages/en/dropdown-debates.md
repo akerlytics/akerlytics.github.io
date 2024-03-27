@@ -13,7 +13,4 @@ children:
     permalink: /petitions/
   - title: Arguments
     permalink: /debates/arguments/
-  - title: divider
-  - title: Canadian Law
-    permalink: /law/can
 ---
