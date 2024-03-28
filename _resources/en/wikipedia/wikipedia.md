@@ -22,5 +22,5 @@ Arguments indicating questionnable attributes of Wikipedia are to be collected h
 
 ### Co-founder's claim of 'propaganda'
 
-See this New-York-Post [article](https://nypost.com/2021/07/16/wikipedia-co-founder-says-site-is-now-propaganda-for-left-leaning-establishment/) **Wikipedia co-founder says site is now ‘propaganda’ for left-leaning ‘establishment’** for direct quotes from Larry Sanger.
+See this New-York-Post article [Wikipedia co-founder says site is now ‘propaganda’ for left-leaning ‘establishment’](https://nypost.com/2021/07/16/wikipedia-co-founder-says-site-is-now-propaganda-for-left-leaning-establishment/) for direct quotes from Larry Sanger.
 

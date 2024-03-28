@@ -1,5 +1,5 @@
 ---
-page_id: wikipedia
+page_id: professionals
 layout: about
 title: Wikipedia
 permalink: /resources/professionals/

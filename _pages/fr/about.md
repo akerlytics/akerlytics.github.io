@@ -11,10 +11,10 @@ permalink: /
 
 Bienvenue sur la plateforme de **Veille des Enjeux Politiques** canadiens.
 
-Saviez vous que le 22 mai 2024, le Canada s'apprête à signer des documents qui aurront force de loi et qui transfère le pouvoir acutel des canadies à l'Organisme Mondial de la Santé (OMS)
-
 Enjeu actuel :
 > Amendements proposés au Règlement Sanitaire International (RSI) et la délégation de pouvoirs à l'Organisation Mondiale de la Santé (OMS) en cas de pandémie mondiale ou nationale.
+
+Saviez vous que le 22 mai 2024, le Canada s'apprête à signer des documents qui aurront force de loi et qui transfère le pouvoir acutel des canadies à l'Organisme Mondial de la Santé (OMS)
 
 
 ---
@@ -76,11 +76,11 @@ Version récente du document brouillon sur la prévention, la préparation et la
 
 ### Les organes en charge du processus
 
-1. Pour le document **Règlement Sanitaire International (2005) (RSI)**
+1. pour le document **Règlement Sanitaire International (2005) (RSI)** :
    - Entité en charge : Groupe de travail sur les amendements au Règlement Sanitaire International (WGIHR).
    - [Plus d'informations sur le WGIHR.](https://apps.who.int/gb/wgihr/)
 
-2. Pour le document **Traité international sur la prévention, la préparation et la riposte aux pandémies** (Traité Pandémique)
+2. pour le document **Traité international sur la prévention, la préparation et la riposte aux pandémies** (Traité Pandémique) :
    - Entité en charge : Organe de Négociation Intergouvernemental (ONI).
    - [Site d'informations de l'ONI](https://inb-who-int.translate.goog/?_x_tr_sl=auto&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=wapp). <br>note : ce lien est traduit par *google.translate* puisque la version française [inb.who.int](https://inb.who.int/) reste à trouver.
 
@@ -119,7 +119,7 @@ Une lettre à été envoyée aux représentants des territoires ci-dessous. Cett
 <br>
 <p>Voir le <a href="/letters/v1.0.3/madawaska-restigouche/">modèle de la lettre</a> qui a été envoyé pour la circonscription Madawaska-Restigouche.</p>
 <ul>
-  <li>❌ Retour de courriel.</li>
+  <li>❌ Retour du député.</li>
   <li>[?] Affirmation de position claire.</li>
     <ul>[?] Favorable à la cause.
     </ul>
@@ -134,7 +134,7 @@ Une lettre à été envoyée aux représentants des territoires ci-dessous. Cett
 <br>
 <p>Voir le <a href="/letters/v1.0.3/tobic-mactaquac/">modèle de la lettre</a> qui a été envoyé pour la circonscription Tobic-Mactaquac.</p>
 <ul>
-  <li>✅ Retour de courriel.</li>
+  <li>✅ Retour du député.</li>
   <li>✅ Affirmation de position claire.</li>
     <ul>✅ Favorable à la cause.
     </ul>

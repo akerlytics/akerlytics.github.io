@@ -68,7 +68,7 @@ Cordialement,
 <br>
 
 <br>
-<< Nom en lettre moulée >>
+<< Nom en lettres moulées >>
 
 Engagé pour la région de Madawaska-Restigouche
 

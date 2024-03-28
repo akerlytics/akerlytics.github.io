@@ -101,7 +101,7 @@ A letter has been sent to the representatives of the territories below. This let
 <br>
 <p>See the <a href="/letters/v1.0.3/madawaska-restigouche/">template of the letter</a> sent for the Madawaska-Restigouche circonscription.</p>
 <ul>
-  <li>❌ Reply.</li>
+  <li>❌ Reply from the MP.</li>
   <li>[?] Clear position.</li>
     <ul>[?] Favorable to this issue's cause.
     </ul>
@@ -115,9 +115,9 @@ A letter has been sent to the representatives of the territories below. This let
 <br>
 <p>See the <a href="/letters/v1.0.3/tobic-mactaquac/">template of the letter</a> sent for the Tobic-Mactaquac circonscription.</p>
 <ul>
-  <li>✅ Retour de courriel.</li>
-  <li>✅ Affirmation de position claire.</li>
-    <ul>✅ Favorable à la cause.
+  <li>✅ Reply from the MP.</li>
+  <li>✅ Clear position.</li>
+    <ul>✅ Favorable to this issue's cause.
     </ul>
 </ul>
 </details>

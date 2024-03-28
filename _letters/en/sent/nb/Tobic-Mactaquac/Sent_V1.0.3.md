@@ -81,9 +81,9 @@ Engaged for the Tobique-Mactaquac Region
 <br>
 For any correspondence, please contact:
 
-Name: << Full Name name >>
+Name: << Full name >>
 
-Phone: << Phone Number >>
+Phone: << Phone number >>
 
 Email: << Email >>
 

@@ -5,14 +5,14 @@ All relevant text files links.
 To share with a potential contributor to the project:
 
 **To view**:
-- Got to this address: https://github.com/akerlytics/akerlytics.github.io/blob/initial-push/EDITOR-links.md
+- Share this page address: https://github.com/akerlytics/akerlytics.github.io/blob/initial-push/EDITOR-links.md
 
 **To edit**:
-- Create a GitHub account
+- Create a GitHub account; log in.
 - Edit text directly within GitHub's interface:
     1. Go to section using links bellow,
     2. Refresh page is it has been openned for a long time to ensure all latest changes are displayed.
-    3. Edit the text via `pen` button in the top-right of the text block.
+    3. Edit the text via `pencil` button in the top-right of the text block.
 
 
 ---
@@ -23,6 +23,7 @@ This state of all the text is not displayed publically other than by using this 
 This branch of the repo is for setting the initial information favorable to the promotion of the letter and it's support throughout Canada.
 
 The display of the page in the preview mode is very close to the web-page display.
+
 
 ---
 ## IMPORTANT Texts
@@ -84,7 +85,6 @@ These are the texts with most importance:
 [en/can/petitions/e-4623.md](_petitions/en/can/petitions/e-4623.md)
 
 [fr/can/petitions/e-4623.md](_petitions/fr/can/petitions/e-4623.md)
-
 
 
 ---

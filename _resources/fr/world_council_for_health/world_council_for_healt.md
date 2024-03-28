@@ -12,11 +12,11 @@ Leur déclaration de mission :
 > Le Conseil Mondial pour la Santé est une initiative à but non lucratif pour le peuple, informée et financée par le peuple. Notre coalition mondiale d'initiatives axées sur la santé et de groupes de la société civile cherche à élargir la connaissance de la santé publique et la création de sens à travers la science et la sagesse partagée. Nous sommes dédiés à la protection des droits de l'homme et du libre arbitre tout en donnant aux individus le pouvoir de prendre le contrôle de leur santé et bien-être.
 
 ---
-## Validité Contestée par Wikipédia
+## Contestation de leur validité par Wikipédia
 
 Note : Veuillez vous référer à nos notes sur :
-- [Wikipédia](/ressources/wikipedia), ses avantages et inconvénients.
-- [Professionnels](/ressources/professionnels/) et notre utilisation des ressources.
+- [Wikipédia](/resources/wikipedia/), ses avantages et inconvénients.
+- [Professionnels](/resources/professionnels/) et notre utilisation des ressources.
 
 Voir : [https://en.wikipedia.org/wiki/World_Council_for_Health](https://en.wikipedia.org/wiki/World_Council_for_Health)
 
