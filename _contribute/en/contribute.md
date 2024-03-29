@@ -109,9 +109,6 @@ Contribute:
 
 ---
 ## Personal Data
-<!-- #region -->
-<sup>[ | ](#contribiutions-to-the-project)[ << ](#personal-data)[ up ](#contribiutions-to-the-project)[ down ](#editors)</sup>
-<!-- #endregion -->
 
 After showing support for any section of the project via a email template, you can receive email to notify you when a section changes.
 
@@ -186,9 +183,6 @@ attachments:
 
 ---
 ## Editors
-<!-- #region -->
-<sup>[ | ](#contribiutions-to-the-project)[ << ](#personal-data)[ up ](#personal-data) ~~down~~</sup>
-<!-- #endregion -->
 
 People can contribute to the project as an editor. To have the editing toolset for an issue or project, you will need to install software on your computer, have a github account and build projects cloned from our github repositories pages.
 

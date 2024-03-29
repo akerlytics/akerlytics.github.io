@@ -4,8 +4,8 @@ layout: about
 title: Lois Canadiennes
 subtitle:
 permalink: /law/can/resources
-toc:
-  sidebar: left
+# toc:
+#   sidebar: left
 ---
 
 ## Notes sur le droit canadien

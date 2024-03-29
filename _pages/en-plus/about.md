@@ -3,11 +3,12 @@ page_id: about
 layout: about
 title: About
 permalink: /
-# toc:
-#   sidebar: left
 ---
 
 # Political Issue Watch - CAN
+<!-- #region -->
+<!-- @#political-issue-watch---can -->
+<!-- #endregion -->
 
 Welcome to the **Political Issue Watch** effort for the current issue of concern with significant impact for all Canadians.
 
@@ -15,6 +16,7 @@ Current issue:
 > Proposed amendments to the International Health Regulations (IHR) and the delegation of powers to the World Health Organization (WHO) in the event of a global or national pandemic.
 
 
+<!-- @#political-issue-watch---can -->
 ---
 ## Table of Contents
 <!-- #region -->
@@ -36,6 +38,10 @@ Current issue:
 
 ---
 ## Overview Description of the Issue
+<!-- #region -->
+<!-- @#overview-description-of-the-issue -->
+<sup>[ | ](#political-issue-watch---can) [ &#8803; ](#overview-description-of-the-issue)   --   [ ⇧ ](#political-issue-watch---can) [ ⇩ ](#research-objective)   -   [ ⇡ ](#political-issue-watch---can) [ ⇣ ](#research-objective)   --   [ (✎✉) ](None)   --   [ ? ](None)</sup>
+<!-- #endregion -->
 
 This document provides an overview of the current efforts of the WHO to develop and amend key international instruments related to global public health, including the International Health Regulations (IHR) and the International Treaty on Pandemic Prevention, Preparedness, and Response. It highlights key meetings, the entities in charge, and the important documents associated with these efforts. Furthermore, it emphasizes the importance of public engagement and parliamentary debate regarding these developments,
 
@@ -46,6 +52,10 @@ as well as the critical role of non-governmental organizations like the World Co
 
 ---
 ## Research Objective
+<!-- #region -->
+<!-- @#research-objective -->
+<sup>[ | ](#political-issue-watch---can) [ &#8803; ](#overview-description-of-the-issue)   --   [ ⇧ ](#overview-description-of-the-issue) [ ⇩ ](#recent-meetings-and-documents)   -   [ ⇡ ](#overview-description-of-the-issue) [ ⇣ ](#the-two-active-who-documents)   --   [ (✎✉) ](None)   --   [ ? ](None)</sup>
+<!-- #endregion -->
 
 Two documents from the World Health Organization (WHO) are currently being developed and will be signed into law by Canada on May 22, 2024. Updates are expected at this date:
 
@@ -54,6 +64,10 @@ Two documents from the World Health Organization (WHO) are currently being devel
 These meetings are organized by the Intergovernmental Negotiating Body (INB), see next section for link to INB.
 
 ### The two active WHO documents
+<!-- #region -->
+<!-- @#the-two-active-who-documents -->
+<sup>[ | ](#political-issue-watch---can) [ &#8803; ](#overview-description-of-the-issue)   --   [ ⇧ ](#overview-description-of-the-issue) [ ⇩ ](#recent-meetings-and-documents)   -   [ ⇡ ](#research-objective) [ ⇣ ](#recent-meetings-and-documents)   --   [ (✎✉) ](None)   --   [ ? ](None)</sup>
+<!-- #endregion -->
 
 The two following documents are in the final stretch to being signed in May 2024. These documents represent critical components of the World Health Organization's (WHO) ongoing efforts to strengthen global health security and governance. The International Health Regulations (2005) (IHR) and the International Treaty on Pandemic Prevention, Preparedness, and Response (Pandemic Treaty) are of the order of establishing a framework for international cooperation and response to public health emergencies. The development and amendment of these documents involve extensive negotiations and consultations with member states, reflecting the collective ambition to enhance global preparedness against future pandemics. These efforts underscore the importance of a coordinated international approach to public health threats, emphasizing the need for transparency, equity, and shared responsibility.
 
@@ -68,16 +82,28 @@ The two following documents are in the final stretch to being signed in May 2024
 
 ---
 ## Recent Meetings and Documents
+<!-- #region -->
+<!-- @#recent-meetings-and-documents -->
+<sup>[ | ](#political-issue-watch---can) [ &#8803; ](#overview-description-of-the-issue)   --   [ ⇧ ](#research-objective) [ ⇩ ](#who-internal-committee-for-change-analysis)   -   [ ⇡ ](#the-two-active-who-documents) [ ⇣ ](#who-internal-committee-for-change-analysis)   --   [ (✎✉) ](None)   --   [ ? ](None)</sup>
+<!-- #endregion -->
 
 [Intergovernmental Negotiating Body](https://apps.who.int/gb/inb/) to draft and negotiate a WHO convention, agreement or other international instrument on pandemic prevention, preparedness and response
 
 ---
 ## WHO Internal Committee for Change Analysis
+<!-- #region -->
+<!-- @#who-internal-committee-for-change-analysis -->
+<sup>[ | ](#political-issue-watch---can) [ &#8803; ](#overview-description-of-the-issue)   --   [ ⇧ ](#recent-meetings-and-documents) [ ⇩ ](#timeline-of-events)   -   [ ⇡ ](#recent-meetings-and-documents) [ ⇣ ](#timeline-of-events)   --   [ (✎✉) ](None)   --   [ ? ](None)</sup>
+<!-- #endregion -->
 
 - see [Reference document](https://apps.who.int/gb/wgihr/pdf_files/wgihr2/A_WGIHR2_Reference_document-en.pdf)
 
 ---
 ## Timeline of Events
+<!-- #region -->
+<!-- @#timeline-of-events -->
+<sup>[ | ](#political-issue-watch---can) [ &#8803; ](#overview-description-of-the-issue)   --   [ ⇧ ](#who-internal-committee-for-change-analysis) [ ⇩ ](#letters-to-deputies)   -   [ ⇡ ](#who-internal-committee-for-change-analysis) [ ⇣ ](#letters-to-deputies)   --   [ (✎✉) ](None)   --   [ ? ](None)</sup>
+<!-- #endregion -->
 
 For more information on the history of the two documents, see:
 
@@ -91,10 +117,18 @@ For more information on the history of the two documents, see:
 
 ---
 ## Letters to Deputies
+<!-- #region -->
+<!-- @#letters-to-deputies -->
+<sup>[ | ](#political-issue-watch---can) [ &#8803; ](#overview-description-of-the-issue)   --   [ ⇧ ](#timeline-of-events) [ ⇩ ](#petitions)   -   [ ⇡ ](#timeline-of-events) [ ⇣ ](#nb)   --   [ (✎✉) ](None)   --   [ ? ](None)</sup>
+<!-- #endregion -->
 
 A letter has been sent to the representatives of the territories below. This letter aims to highlight the importance of conducting thorough analyses with democratic support in the context of the legal changes proposed by the efforts of the WHO and its member countries.
 
 ### NB
+<!-- #region -->
+<!-- @#nb -->
+<sup>[ | ](#political-issue-watch---can) [ &#8803; ](#overview-description-of-the-issue)   --   [ ⇧ ](#timeline-of-events) [ ⇩ ](#petitions)   -   [ ⇡ ](#letters-to-deputies) [ ⇣ ](#encouragement-to-contribute)   --   [ (✎✉) ](None)   --   [ ? ](None)</sup>
+<!-- #endregion -->
 
 <details><summary>Madawaska-Restigouche</summary>
 
@@ -134,6 +168,10 @@ See section [communication/government](/communications/gouvernement) for more de
 
 
 ### Encouragement to Contribute
+<!-- #region -->
+<!-- @#encouragement-to-contribute -->
+<sup>[ | ](#political-issue-watch---can) [ &#8803; ](#overview-description-of-the-issue)   --   [ ⇧ ](#timeline-of-events) [ ⇩ ](#petitions)   -   [ ⇡ ](#nb) [ ⇣ ](#petitions)   --   [ (✎✉) ](None)   --   [ ? ](None)</sup>
+<!-- #endregion -->
 
 **Show your support** for the letter that highlights the most important points on the issue and that has been sent to certain deputies.
 
@@ -146,6 +184,10 @@ This method could serve our MPs in case the [petition e-4623][/petitions/can/e-4
 
 ---
 ## Petitions
+<!-- #region -->
+<!-- @#petitions -->
+<sup>[ | ](#political-issue-watch---can) [ &#8803; ](#overview-description-of-the-issue)   --   [ ⇧ ](#letters-to-deputies) [ ⇩ ](#independent-international-bodies)   -   [ ⇡ ](#encouragement-to-contribute) [ ⇣ ](#independent-international-bodies)   --   [ (✎✉) ](None)   --   [ ? ](None)</sup>
+<!-- #endregion -->
 
 - **Petition to the House of Commons** and **Petition to the Government of Canada**:
   Citizens request that any signature of an international pandemic treaty by the WHO be approved by public referendum.
@@ -156,8 +198,16 @@ See the [debates](/petitions/uk) from United-Kingdom's petitions.
 
 ---
 ## Independent International Bodies
+<!-- #region -->
+<!-- @#independent-international-bodies -->
+<sup>[ | ](#political-issue-watch---can) [ &#8803; ](#overview-description-of-the-issue)   --   [ ⇧ ](#petitions)  ~~⇩~~    -   [ ⇡ ](#petitions) [ ⇣ ](#world-council-for-health)   --   [ (✎✉) ](None)   --   [ ? ](None)</sup>
+<!-- #endregion -->
 
 ### World Council for Health
+<!-- #region -->
+<!-- @#world-council-for-health -->
+<sup>[ | ](#political-issue-watch---can) [ &#8803; ](#overview-description-of-the-issue)   --   [ ⇧ ](#petitions) [ ⇩ ]()   -   [ ⇡ ](#independent-international-bodies) [ ⇣ ](#quotes)   --   [ (✎✉) ](None)   --   [ ? ](None)</sup>
+<!-- #endregion -->
 
 See the organism's [page](/resources/world-council-for-health).
 
@@ -169,6 +219,10 @@ See the organism's [page](/resources/world-council-for-health).
 
 
 #### Quotes
+<!-- #region -->
+<!-- @#quotes -->
+<sup>[ | ](#political-issue-watch---can) [ &#8803; ](#overview-description-of-the-issue)   --   [ ⇧ ](#petitions) [ ⇩ ]()   -   [ ⇡ ](#world-council-for-health)  ~~⇣~~    --   [ (✎✉) ](None)   --   [ ? ](None)</sup>
+<!-- #endregion -->
 
 > A group of experts in political science and law prepared a comprehensive 45-page policy brief on the proposed amendments to the International Health Regulations (2005) and the WHO's pandemic treaty/agreement (WHO CA+). This brief provides a professional overview of the proposed legal instruments. It also presents a historical account of mistakes made during the COVID pandemic, describes attempts to establish these mistakes as accepted norms, and provides valuable insights on how to correct course before it's too late. The central points of the brief are summarized below for your convenience.
 

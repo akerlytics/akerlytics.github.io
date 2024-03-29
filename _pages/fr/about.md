@@ -29,7 +29,7 @@ Saviez vous que le 22 mai 2024, le Canada s'apprête à signer des documents qui
   - [Les organes en charge du processus](#les-organes-en-charge-du-processus)
   - [Suivi des rencontres](#suivi-des-rencontres)
 - **[Débats au Canada](#débats-au-canada)**
-  - [Questions soulevé par Leslyne Lewis](#questions-soulevé-par-leslyne-lewis)
+  - [Questions soulevées par Leslyne Lewis](#questions-soulevées-par-leslyne-lewis)
   - [Lettres aux députés](#lettres-aux-députés)
     - [Circonscriptions](#circonscriptions)
       - [NB](#nb)
@@ -45,7 +45,15 @@ Saviez vous que le 22 mai 2024, le Canada s'apprête à signer des documents qui
 ---
 ## Résumé et description du dossier
 
-Ce document fournit un aperçu des efforts actuels de l'OMS pour développer et amender des instruments internationaux clés liés à la santé publique mondiale, notamment le Règlement Sanitaire International (RSI) et le Traité international sur la prévention, la préparation et la riposte aux pandémies. Il met en lumière les rencontres clés, les entités en charge, et les documents importants associés à ces efforts. De plus, il souligne l'importance de l'engagement public et du débat parlementaire concernant ces développements, ainsi que le rôle critique des organisations non gouvernementales comme le World Council for Health dans la fourniture de contre-arguments et de recommandations basées sur des preuves. Les citations sélectionnées présentent les préoccupations concernant l'influence des contribute financières sur les décisions de l'OMS et l'importance de maintenir la souveraineté nationale face aux pressions internationales pour l'adoption de ces nouveaux instruments juridiques.
+Ce document fournit un aperçu des efforts actuels de l'OMS pour développer et amender des instruments internationaux clés liés à la santé publique mondiale, notamment le Règlement Sanitaire International (RSI) et le Traité international sur la prévention, la préparation et la riposte aux pandémies. Il met en lumière les rencontres clés, les entités en charge, et les documents importants associés à ces efforts. De plus, il souligne l'importance de l'engagement public et du débat publique concernant ces développements. Et, il sert d'outil pour maintenir la souveraineté nationale face aux pressions internationales pour l'adoption de ces nouveaux instruments juridiques.
+
+<!-- reformuler
+Nous souhaitons par cet effort collectif, informer sur les préoccupations concernant l'influence des contributions financières que peu avoir les décisions de l'OMS
+-->
+
+<!-- delme
+, ainsi que le rôle critique des organisations non gouvernementales comme le World Council for Health dans la fourniture de contre-arguments et de recommandations basées sur des preuves.
+-->
 
 
 ---
@@ -92,6 +100,10 @@ Se rendre sur la page du suivi de l'[Organe intergouvernemental de négociation]
 
 ---
 ## Débats au Canada
+
+Position du Canada sur le RSI : [Canada and the International Health Regulations (IHR): Overview](https://www.canada.ca/en/public-health/services/emergency-preparedness-response/international-health-regulations.html). Note: `Date modified: 2023-06-29`
+
+Position du Canada sur le dévellopement du Traité Pandémique : [Canada's role in the development of an international pandemic agreement](https://www.canada.ca/en/public-health/services/emergency-preparedness-response/canada-role-international-pandemic-instrument.html). Note: `Date modified: 2024-02-07`
 
 ### Questions soulevées par Leslyne Lewis
 
