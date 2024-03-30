@@ -65,7 +65,7 @@ Eventually, there will be a favored way of proving voting/deciding privilèges, 
 
 as beneficiaries of each nations acording there country's unmeasurable wealth.
 
-X, or Twitter, would be a suitable, minimal cencership accès to information produced by other humain supplier, with internationnal technology to support.
+X, or Twitter, would be a suitable, minimal cencership access to information produced by other humain supplier, with internationnal technology to support.
 
 *Prefered requirements for international ID system proposition*:
 Have an independent entity, like X, manage the proof of address with citizenship of people within voting ages, of all genders, within their federaly divided geographical regions.

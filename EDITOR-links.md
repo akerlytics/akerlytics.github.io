@@ -150,6 +150,8 @@ These are the texts with most importance:
 
 [en/v1.0.3_summary.md](_letters/en/v1.0.3_summary.md)
 
+[fr/envoyé/nb/Madawaska-Restigouche/Email.md](_letters/fr/envoyé/nb/Madawaska-Restigouche/Email.md)
+
 [fr/envoyé/nb/Madawaska-Restigouche/Sent_V1.0.3.md](_letters/fr/envoyé/nb/Madawaska-Restigouche/Sent_V1.0.3.md)
 
 [fr/envoyé/nb/Tobic-Mactaquac/Sent_V1.0.3.md](_letters/fr/envoyé/nb/Tobic-Mactaquac/Sent_V1.0.3.md)
