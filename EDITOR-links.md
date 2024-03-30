@@ -63,21 +63,23 @@ These are the texts with most importance:
 
 [en/letters.md](_letters/en/letters.md)
 
-[en/sent/nb/Tobic-Mactaquac/Letter_V1.0.3.md](_letters/en/sent/nb/Tobic-Mactaquac/Letter_V1.0.3.md)
+[en/sent/nb/Madawaska-Restigouche/Sent_V1.0.3.md](_letters/en/sent/nb/Madawaska-Restigouche/Sent_V1.0.3.md)
+
+[en/sent/nb/Tobic-Mactaquac/Sent_V1.0.3.md](_letters/en/sent/nb/Tobic-Mactaquac/Sent_V1.0.3.md)
 
 [en/v1.0.3.md](_letters/en/v1.0.3.md)
 
 [en/v1.0.3_summary.md](_letters/en/v1.0.3_summary.md)
+
+[fr/envoyé/nb/Madawaska-Restigouche/Sent_V1.0.3.md](_letters/fr/envoyé/nb/Madawaska-Restigouche/Sent_V1.0.3.md)
+
+[fr/envoyé/nb/Tobic-Mactaquac/Sent_V1.0.3.md](_letters/fr/envoyé/nb/Tobic-Mactaquac/Sent_V1.0.3.md)
 
 [fr/letters.md](_letters/fr/letters.md)
 
 [fr/v1.0.3.md](_letters/fr/v1.0.3.md)
 
 [fr/v1.0.3_summary.md](_letters/fr/v1.0.3_summary.md)
-
-[fr/envoyé/nb/Madawaska-Restigouche/Letter_V1.0.3.md](_letters/fr/envoyé/nb/Madawaska-Restigouche/Letter_V1.0.3.md)
-
-[fr/envoyé/nb/Tobic-Mactaquac/Letter_V1.0.3.md](_letters/fr/envoyé/nb/Tobic-Mactaquac/Letter_V1.0.3.md)
 
 
 ### Petitions
@@ -123,15 +125,17 @@ These are the texts with most importance:
 
 [en/letters.md](_letters/en/letters.md)
 
-[en/sent/nb/Tobic-Mactaquac/Letter_V1.0.3.md](_letters/en/sent/nb/Tobic-Mactaquac/Letter_V1.0.3.md)
+[en/sent/nb/Madawaska-Restigouche/Sent_V1.0.3.md](_letters/en/sent/nb/Madawaska-Restigouche/Sent_V1.0.3.md)
+
+[en/sent/nb/Tobic-Mactaquac/Sent_V1.0.3.md](_letters/en/sent/nb/Tobic-Mactaquac/Sent_V1.0.3.md)
 
 [en/v1.0.3.md](_letters/en/v1.0.3.md)
 
 [en/v1.0.3_summary.md](_letters/en/v1.0.3_summary.md)
 
-[fr/envoyé/nb/Madawaska-Restigouche/Letter_V1.0.3.md](_letters/fr/envoyé/nb/Madawaska-Restigouche/Letter_V1.0.3.md)
+[fr/envoyé/nb/Madawaska-Restigouche/Sent_V1.0.3.md](_letters/fr/envoyé/nb/Madawaska-Restigouche/Sent_V1.0.3.md)
 
-[fr/envoyé/nb/Tobic-Mactaquac/Letter_V1.0.3.md](_letters/fr/envoyé/nb/Tobic-Mactaquac/Letter_V1.0.3.md)
+[fr/envoyé/nb/Tobic-Mactaquac/Sent_V1.0.3.md](_letters/fr/envoyé/nb/Tobic-Mactaquac/Sent_V1.0.3.md)
 
 [fr/letters.md](_letters/fr/letters.md)
 
@@ -152,6 +156,8 @@ These are the texts with most importance:
 
 
 ### Pages
+
+[en-plus/about.md](_pages/en-plus/about.md)
 
 [en/about.md](_pages/en/about.md)
 
@@ -191,6 +197,10 @@ These are the texts with most importance:
 [en/wikipedia/wikipedia.md](_resources/en/wikipedia/wikipedia.md)
 
 [en/world_council_for_health/world_council_for_healt.md](_resources/en/world_council_for_health/world_council_for_healt.md)
+
+[fr/resources.md](_resources/fr/resources.md)
+
+[fr/world_council_for_health/world_council_for_healt.md](_resources/fr/world_council_for_health/world_council_for_healt.md)
 
 
 <!-- @endaufofill -->
