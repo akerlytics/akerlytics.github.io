@@ -103,7 +103,7 @@ Se rendre sur la page du suivi de l'[Organe intergouvernemental de négociation]
 
 Position du Canada sur le RSI : [Canada and the International Health Regulations (IHR): Overview](https://www.canada.ca/en/public-health/services/emergency-preparedness-response/international-health-regulations.html). Note: `Date modified: 2023-06-29`
 
-Position du Canada sur le dévellopement du Traité Pandémique : [Canada's role in the development of an international pandemic agreement](https://www.canada.ca/en/public-health/services/emergency-preparedness-response/canada-role-international-pandemic-instrument.html). Note: `Date modified: 2024-02-07`
+Position du Canada sur le développement du Traité Pandémique : [Canada's role in the development of an international pandemic agreement](https://www.canada.ca/en/public-health/services/emergency-preparedness-response/canada-role-international-pandemic-instrument.html). Note: `Date modified: 2024-02-07`
 
 ### Questions soulevées par Leslyne Lewis
 
@@ -185,23 +185,23 @@ Voir les [notes](/petitions/can/) sur les pétitions Canadiennes.
 
 
 ---
-## Entités Internationaux
+## Entités Internationales
 
 ### Débats chez les autres nations
 
 Voir les [debates](/petitions/uk) du Royaume-Uni suite à des pétitions semblable aux notres.
 
-### Entitées indépendentes - autres que l'OMS
+### Entités indépendantes - autres que l'OMS
 
 #### Conseil Mondial pour la Santé
 
-Cet organisme travaillent sur le développement de briefs politiques pour présenter des recherches et recommandations sur diverses questions essentielles.
+Cet organisme travaille sur le développement de briefs politiques pour présenter des recherches et recommandations sur diverses questions essentielles.
 
-Voir la [page de détails](/resources/world-council-for-health/) sur cet organisme, on y retrouve également les critiques répertorier sur Wikipédia.
+Voir la [page de détails](/resources/world-council-for-health/) sur cet organisme, on y retrouve également les critiques répertoriées sur Wikipédia.
 
-Voici les liens vers le matériel fournis par cet organisme en liens avec nos efforts.
+Voici les liens vers le matériel fourni par cet organisme en liens avec nos efforts.
 
-Note: tous les liens qui suivent sont vers des ressources anglophone, certaines pages sont disponnible dans d'autre langues.
+Note: tous les liens qui suivent sont vers des ressources anglophones, certaines pages sont disponibles dans d'autre langues.
 
 - [Lien vers les politiques](https://worldcouncilforhealth.org/policy/)
 - [Compilation des amendements](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/WGIHR_Redlined-words-of-Proposed-Amendement-Compilation-en.pdf)

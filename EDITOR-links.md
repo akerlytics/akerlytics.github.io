@@ -10,7 +10,7 @@ To share with a potential contributor to the project:
 **To edit**:
 - Create a GitHub account; log in.
 - Edit text directly within GitHub's interface:
-    1. Go to section using links bellow,
+    1. Go to section using links below,
     2. Refresh page is it has been openned for a long time to ensure all latest changes are displayed.
     3. Edit the text via `pencil` button in the top-right of the text block.
 
@@ -95,6 +95,23 @@ These are the texts with most importance:
 <!-- Following section will be automatically updated, do not edit directly. -->
 
 <!-- @autofill create_git_hub_editor_shortcuts -->
+### Contribute
+
+[en/contribute.md](_contribute/en/contribute.md)
+
+[en/email-templates/email_templates_options.md](_contribute/en/email-templates/email_templates_options.md)
+
+[en/tutorials/git/git.md](_contribute/en/tutorials/git/git.md)
+
+[en/tutorials/github_account/01_setup_account_todo.md](_contribute/en/tutorials/github_account/01_setup_account_todo.md)
+
+[en/tutorials/markdown.md](_contribute/en/tutorials/markdown.md)
+
+[en/tutorials/policy_brief.md](_contribute/en/tutorials/policy_brief.md)
+
+[fr/contribute.md](_contribute/fr/contribute.md)
+
+
 ### Debates
 
 [en/arguments.md](_debates/en/arguments.md)

@@ -9,7 +9,7 @@ permalink: /resources/world-council-for-health/
 # Conseil Mondial pour la Santé
 
 Leur déclaration de mission :
-> Le Conseil Mondial pour la Santé est une initiative à but non lucratif pour le peuple, informée et financée par le peuple. Notre coalition mondiale d'initiatives axées sur la santé et de groupes de la société civile cherche à élargir la connaissance de la santé publique et la création de sens à travers la science et la sagesse partagée. Nous sommes dédiés à la protection des droits de l'homme et du libre arbitre tout en donnant aux individus le pouvoir de prendre le contrôle de leur santé et bien-être.
+> Le Conseil Mondial pour la Santé est une initiative à but non lucratif pour le peuple, informée et financée par le peuple. Notre coalition mondiale d'initiatives axées sur la santé et de groupes de la société civille cherche à élargir la connaissance de la santé publique et la création de sens à travers la science et la sagesse partagée. Nous sommes dédiés à la protection des droits de l'homme et du libre arbitre tout en donnant aux individus le pouvoir de prendre le contrôle de leur santé et bien-être.
 
 ---
 ## Contestation de leur validité par Wikipédia

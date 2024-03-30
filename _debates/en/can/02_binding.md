@@ -46,8 +46,7 @@ Définitions
 Loi constitutionnel
 Wikipedia : https://en.wikipedia.org/wiki/Advice_(constitutional_law)
 Advice (constitutional law)
-In parliamentary system, advice is a formal and usually binding instruction given by one constitutional officer of state to another. ...
-Although most advice is binding, in comparatively rare instances it is not.
+> In parliamentary system, advice is a formal and usually binding instruction given by one constitutional officer of state to another. [...] Although most advice is binding, in comparatively rare instances it is not.
 
 
 WHO - INB Meeting
