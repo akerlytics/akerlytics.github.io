@@ -51,10 +51,6 @@ Ce document fournit un aperçu des efforts actuels de l'OMS pour développer et 
 Nous souhaitons par cet effort collectif, informer sur les préoccupations concernant l'influence des contributions financières que peu avoir les décisions de l'OMS
 -->
 
-<!-- delme
-, ainsi que le rôle critique des organisations non gouvernementales comme le World Council for Health dans la fourniture de contre-arguments et de recommandations basées sur des preuves.
--->
-
 
 ---
 ## Objet de la recherche
@@ -190,31 +186,6 @@ Voir les [notes](/petitions/can/) sur les pétitions Canadiennes.
 ### Débats chez les autres nations
 
 Voir les [debates](/petitions/uk) du Royaume-Uni suite à des pétitions semblable aux notres.
-
-### Entités indépendantes - autres que l'OMS
-
-#### Conseil Mondial pour la Santé
-
-Cet organisme travaille sur le développement de briefs politiques pour présenter des recherches et recommandations sur diverses questions essentielles.
-
-Voir la [page de détails](/resources/world-council-for-health/) sur cet organisme, on y retrouve également les critiques répertoriées sur Wikipédia.
-
-Voici les liens vers le matériel fourni par cet organisme en liens avec nos efforts.
-
-Note: tous les liens qui suivent sont vers des ressources anglophones, certaines pages sont disponibles dans d'autre langues.
-
-- [Lien vers les politiques](https://worldcouncilforhealth.org/policy/)
-- [Compilation des amendements](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/WGIHR_Redlined-words-of-Proposed-Amendement-Compilation-en.pdf)
-- [Arguments complets](https://worldcouncilforhealth.org/wp-content/uploads/2023/06/Rejecting-Monopoly-Power-over-Global-Public-Health.-WCH-Policy-Brief-on-the-Proposed-IHR-Amendments-and-Pandemic-Treaty.pdf) - 45 pages.
-- [Résumé des arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/07/WHOPolicyBriefSummary_FRENCH_V2.pdf) - 8 pages.
-
-
-##### Citations
-
-> Un groupe d'experts en sciences politiques et en droit a préparé un brief politique approfondi de 45 pages sur les amendements proposés aux Règlements Sanitaires Internationaux (2005) et le traité/accord pandémique de l'OMS (WHO CA+). Ce brief offre un aperçu professionnel sur les instruments juridiques proposés. Il présente également un compte rendu historique des erreurs commises pendant la pandémie de COVID, décrit les tentatives faites pour établir ces erreurs comme normes acceptées, et fournit des insights précieux sur comment corriger le cap avant qu'il ne soit trop tard. Les points centraux du brief sont résumés ci-dessous pour votre commodité.
-
-> Il est notable dans ce contexte que l'OMS contrôle seulement environ un quart de son propre budget. Le reste consiste en contribute volontaires ciblées par ses bailleurs de fonds. Si elles sont adoptées, certaines des amendements aux RSI (2005) permettraient aux intérêts spéciaux qui ont compromis l'organisation (voir par exemple Cohen & Carter 2010) de standardiser et d'imposer comment les États et même les acteurs non étatiques dans le monde entier doivent répondre aux urgences de santé publique et aborder une variété de questions de santé mondiale en général.
-
 
 <!-- #region -->
 <!-- <style>

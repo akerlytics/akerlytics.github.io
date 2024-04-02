@@ -1,5 +1,12 @@
 # TODO for Political-Issue-Tracker Repo
 
+## Content Moderation
+
+### AWS - Recognition
+
+https://www.youtube.com/watch?v=EKJ43l_HiZk
+
+
 ## Online Form Engine
 
 ### Jotform
@@ -13,9 +20,11 @@ email to pdf: https://www.jotform.com/answers/1286997-can-we-convert-email-templ
 
 see https://issuevoter.org/ for an example of a similar goal site, their display and flow of information.
 
+
 ## Jekyll formating
 
 https://idratherbewriting.com/documentation-theme-jekyll/mydoc_adding_tooltips.html
+
 
 ## _includes Tooltips
 
@@ -25,6 +34,7 @@ Note the summary automation from the FrontMatter in the link above.
 
 Feature request: 
 - [ ] `edit me` button for each page.
+
 
 ## _includes Alerts
 
