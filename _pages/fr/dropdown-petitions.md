@@ -1,4 +1,4 @@
----
+<!-- ---
 id: dropdown-petitions
 layout: page
 title: Pétitions
@@ -11,4 +11,4 @@ children:
   - title: divider
   - title: Pétitions-Liquid
     permalink: /petitions-liquid/
----
+--- -->

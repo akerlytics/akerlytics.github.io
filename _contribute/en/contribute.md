@@ -2,7 +2,7 @@
 page_id: contribute
 layout: about
 title: contribute
-permalink: /contribute/
+#permalink: /contribute/
 # nav: true
 # nav_order: 5
 ---

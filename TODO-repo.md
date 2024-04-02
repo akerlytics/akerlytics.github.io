@@ -2,7 +2,7 @@
 
 ## Content Moderation
 
-### AWS - Recognition
+### AWS - Rekognition
 
 https://www.youtube.com/watch?v=EKJ43l_HiZk
 

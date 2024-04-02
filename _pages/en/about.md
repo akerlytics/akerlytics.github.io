@@ -39,9 +39,6 @@ Current issue:
 
 This document provides an overview of the current efforts of the WHO to develop and amend key international instruments related to global public health, including the International Health Regulations (IHR) and the International Treaty on Pandemic Prevention, Preparedness, and Response. It highlights key meetings, the entities in charge, and the important documents associated with these efforts. Furthermore, it emphasizes the importance of public engagement and parliamentary debate regarding these developments,
 
-<!-- @optional
-as well as the critical role of non-governmental organizations like the World Council for Health in providing counter-arguments and evidence-based recommendations. Selected quotes present concerns about the influence of financial contribute on WHO decisions and the importance of maintaining national sovereignty in the face of international pressures to adopt these new legal instruments.
--->
 
 
 ---
@@ -125,12 +122,7 @@ A letter has been sent to the representatives of the territories below. This let
 
 <!-- #endregion -->
 
-
-
 <br>
-<!-- @todo
-See section [communication/government](/communications/gouvernement) for more details.
--->
 
 
 ### Encouragement to Contribute
@@ -153,23 +145,3 @@ This method could serve our MPs in case the [petition e-4623][/petitions/can/e-4
 See the [notes](/petitions/can/) on Canadian petitions.
 
 See the [debates](/petitions/uk) from United-Kingdom's petitions.
-
----
-## Independent International Bodies
-
-### World Council for Health
-
-See the organism's [page](/resources/world-council-for-health).
-
-**Theses are their links relating to this current issue**:
-- [Link to policies](https://worldcouncilforhealth.org/policy/)
-- [Compilation of amendments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/WGIHR_Redlined-words-of-Proposed-Amendement-Compilation-en.pdf)
-- [Full arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/06/Rejecting-Monopoly-Power-over-Global-Public-Health.-WCH-Policy-Brief-on-the-Proposed-IHR-Amendments-and-Pandemic-Treaty.pdf) - 45 pages.
-- [Summary of arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/Policy-Brief-Summary-1.pdf) - 7 pages.
-
-
-#### Quotes
-
-> A group of experts in political science and law prepared a comprehensive 45-page policy brief on the proposed amendments to the International Health Regulations (2005) and the WHO's pandemic treaty/agreement (WHO CA+). This brief provides a professional overview of the proposed legal instruments. It also presents a historical account of mistakes made during the COVID pandemic, describes attempts to establish these mistakes as accepted norms, and provides valuable insights on how to correct course before it's too late. The central points of the brief are summarized below for your convenience.
-
-> It is noteworthy in this context that the WHO only has full control over roughly a quarter of its own budget. The rest consists of earmarked voluntary contribute by its funders. If agreed upon, some of the IHR (2005) amendments would enable the special interests that have compromised the organisation (see e.g. Cohen & Carter 2010) to standardise and impose how states and even non-state actors worldwide shall respond to public health emergencies and approach a variety of global health matters in general.

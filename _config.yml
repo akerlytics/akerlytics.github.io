@@ -154,12 +154,12 @@ related_blog_posts:
 # -----------------------------------------------------------------------------
 
 collections:
-  contribute:
-    output: true
-    permalink: /:collection/:title/
-  debates: 
-    output: true
-    permalink: /:collection/:title/
+  # contribute:
+  #   output: true
+  #   permalink: /:collection/:title/
+  # debates: 
+  #   output: true
+  #   permalink: /:collection/:title/
   law:
     output: true
     permalink: /:collection/:title/
@@ -169,9 +169,9 @@ collections:
   petitions: 
     output: true
     permalink: /:collection/:title/
-  presentation: 
-    output: true
-    permalink: /:collection/:title/
+  # presentation: 
+  #   output: true
+  #   permalink: /:collection/:title/
   resources: 
     output: true
     permalink: /:collection/:title/
@@ -179,9 +179,6 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
-    permalink: /:collection/:title/
-  projects:
     output: true
     permalink: /:collection/:title/
 
@@ -358,7 +355,8 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en", "en-plus", "fr"]
+#languages: ["en", "en-plus", "fr"]
+languages: ["en", "fr"]
 default_lang: "en"
 exclude_from_localization: ["assets"]
 lang_from_path: true

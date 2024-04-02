@@ -2,7 +2,7 @@
 page_id: contribute
 layout: about
 title: Contributions
-permalink: /contribute/
+#permalink: /contribute/
 ---
 
 

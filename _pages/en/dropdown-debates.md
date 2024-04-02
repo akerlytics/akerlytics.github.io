@@ -1,4 +1,4 @@
----
+<!-- ---
 id: dropdown-debates
 layout: page
 title: debates
@@ -13,4 +13,4 @@ children:
     permalink: /petitions/
   - title: Arguments
     permalink: /debates/arguments/
----
+--- -->
