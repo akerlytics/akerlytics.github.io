@@ -18,40 +18,7 @@ Veuillez vous référer à ces liens pour faire une copie des dispositifs de com
 
 [Lettre V1.0.3](/letters/v1.0.3)
 
-### Circonscriptions
-
-#### NB
-
-<details><summary>Tobic-Mactaquac</summary>
-
-<!-- #region -->
-
-- [x] Retour de courriel.
-- Position sur le problème:
-  - [x] Position claire.
-  - [x] Favorable à la cause.
-
-</details>
-
-<!-- #endregion -->
-
-<details><summary>Madawaska-Restigouche</summary>
-
-<!-- #region -->
-
-- [ ] Retour de courriel.
-- Position sur le problème:
-  - [x] Position claire.
-  - [ ] Favorable à la cause.
-
-</details>
-
-<!-- #endregion -->
-
-<br>
-Voir section [communication/gouvernement](/communications/fr/gouvernement) pour plus de détails sur les communications effectué.
-
 
 ## Oportunité de représentation en chambre
 
-Puisque la [pétition e-4623](/petitions/can/e-4623) pourrait faire l'objet d'un débat au parlement, nous vous encourageons à partagez ce site avec votre député pour encourager sa participation à ce débat attendu.
+Puisque la [pétition e-4623](/petitions/can/e-4623) pourrait faire l'objet d'un débat au parlement, nous vous encourageons à partagez ce site avec votre député pour encourager sa participation à ce débat possible.

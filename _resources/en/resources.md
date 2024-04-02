@@ -1,19 +1,22 @@
 ---
 id: resources
 layout: page
+title: Resources
 permalink: /resources/
 --- 
 
-# Resources
+## Canadian Law
+
+See [Canadian Law](/law/can/resources)
 
 ## WHO Member States
 
-See [details](todo)
+TODO
 
 ## Funders to the WHO
 
-See [details](todo)
+TODO
 
 ## Groups Of Experts
 
-See [details](todo)
+TODO

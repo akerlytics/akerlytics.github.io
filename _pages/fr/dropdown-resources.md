@@ -9,12 +9,12 @@ children:
   - title: Ressources Générales
     permalink: /resources/
   - title: Lois Canadiennes
-    permalink: /law/can
-  - title: divider
-  - title: États membre de l'OMS
-    permalink: /todo/
-  - title: Donnateur à l'OMS
-    permalink: /todo/
-  - title: Groupe d'experts
-    permalink: /todo/
+    permalink: /law/can/resources
+  # - title: divider
+  # - title: États membre de l'OMS
+  #   permalink: /todo/
+  # - title: Donnateur à l'OMS
+  #   permalink: /todo/
+  # - title: Groupe d'experts
+  #   permalink: /todo/
 ---

@@ -20,37 +20,3 @@ Please refer to these links to make a copy of the original communication devices
 
 [Lettre V1.0.3](/letters/v1.0.3)
 
-
-### Circonscriptions
-
-#### NB
-
-<details><summary>Tobic-Mactaquac</summary>
-
-<!-- #region -->
-
-- [x] Reply.
-- Position on the issue:
-  - [x] Clear position 
-  - [x] Favorable to this issue's cause.
-
-</details>
-
-<!-- #endregion -->
-
-<details><summary>Madawaska-Restigouche</summary>
-
-<!-- #region -->
-
-- [ ] Reply.
-- Position on the issue:
-  - [ ] Clear position 
-  - [ ] Favorable to this issue's cause.
-
-</details>
-
-<!-- #endregion -->
-
-<br>
-todo: Voir section [communication/gouvernement](/communications/fr/gouvernement) pour plus de détails sur les communications effectué.
-

@@ -125,7 +125,7 @@ Une lettre à été envoyée aux représentants des territoires ci-dessous. Cett
 
 <!-- #region -->
 <br>
-<p>Voir le <a href="/letters/v1.0.3/madawaska-restigouche/">modèle de la lettre</a> qui a été envoyé pour la circonscription Madawaska-Restigouche.</p>
+<!-- <p>Voir le <a href="/letters/v1.0.3/madawaska-restigouche/">modèle de la lettre</a> qui a été envoyé pour la circonscription Madawaska-Restigouche.</p> -->
 <ul>
   <li>❌ Retour du député.</li>
   <li>[?] Affirmation de position claire.</li>
@@ -140,7 +140,7 @@ Une lettre à été envoyée aux représentants des territoires ci-dessous. Cett
 
 <!-- #region -->
 <br>
-<p>Voir le <a href="/letters/v1.0.3/tobic-mactaquac/">modèle de la lettre</a> qui a été envoyé pour la circonscription Tobic-Mactaquac.</p>
+<!-- <p>Voir le <a href="/letters/v1.0.3/tobic-mactaquac/">modèle de la lettre</a> qui a été envoyé pour la circonscription Tobic-Mactaquac.</p> -->
 <ul>
   <li>✅ Retour du député.</li>
   <li>✅ Affirmation de position claire.</li>

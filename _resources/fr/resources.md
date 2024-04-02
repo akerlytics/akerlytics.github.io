@@ -1,19 +1,22 @@
 ---
 id: resources
 layout: page
+title: Ressources
 permalink: /resources/
 --- 
 
-# Ressources
+## Lois manadiennes
+
+Voir [Droits canadiennes](/law/can/resources)
 
 ## Pays membre de l'OMS
 
-Voir la [page détaillée](todo)
+TODO
 
 ## Donateurs à l'OMS
 
-Voir la [page détaillée](todo)
+TODO
 
 ## Groupe d'experts
 
-Voir la [page détaillée](todo)
+TODO
