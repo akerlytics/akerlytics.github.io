@@ -16,6 +16,8 @@ Current issue:
 
 Did you know that on May 22, 2024, Canada is preparing to sign documents that will have the force of law and that will transfer the current power of Canadians to the World Health Organization (WHO)?
 
+<div data-fillout-id="5v3ayHZPdBus" data-fillout-embed-type="popup" data-fillout-button-text="Support Form" data-fillout-inherit-parameters></div><script src="https://server.fillout.com/embed/v1/"></script>
+
 ---
 ## Table of Contents
 <!-- #region -->
@@ -36,9 +38,6 @@ Did you know that on May 22, 2024, Canada is preparing to sign documents that wi
   - [Petitions](#petitions)
 - **[International Entities](#international-entities)**
   - [Debates in other nations](#debates-in-other-nations)
-  - [Independent entities - other than WHO](#independent-entities---other-than-who)
-    - [World Health Council](#world-health-council)
-      - [Quotes](#quotes)
 <!-- #endregion -->
 
 ---
@@ -48,12 +47,6 @@ This document provides an overview of the WHO's current efforts to develop and a
 
 ---
 ## Purpose of the Research
-
-Two documents from the World Health Organization (WHO) are currently being developed and will be signed into law by Canada on May 22, 2024. Here are the remaining consultation meetings:
-
-- **Ninth and final meeting**: March 18–29, 2024
-
-The meetings are organized by the Intergovernmental Negotiating Body (INB).
 
 ### The two active WHO documents
 

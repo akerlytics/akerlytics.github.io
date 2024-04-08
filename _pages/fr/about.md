@@ -16,6 +16,7 @@ Enjeu actuel :
 
 Saviez vous que le 22 mai 2024, le Canada s'apprête à signer des documents qui aurront force de loi et qui transfère le pouvoir acutel des canadies à l'Organisme Mondial de la Santé (OMS)
 
+<div data-fillout-id="oj8KhQuzWPus" data-fillout-embed-type="popup" data-fillout-button-text="Formulaire de support" data-fillout-inherit-parameters></div><script src="https://server.fillout.com/embed/v1/"></script>
 
 ---
 ## Table des matières
@@ -35,11 +36,8 @@ Saviez vous que le 22 mai 2024, le Canada s'apprête à signer des documents qui
       - [NB](#nb)
     - [Incitation à participer](#incitation-à-participer)
   - [Pétitions](#pétitions)
-- **[Entités Internationaux](#entités-internationaux)**
+- **[Entités Internationales](#entités-internationales)**
   - [Débats chez les autres nations](#débats-chez-les-autres-nations)
-  - [Entitées indépendentes - autres que l'OMS](#entitées-indépendentes---autres-que-loms)
-    - [Conseil Mondial pour la Santé](#conseil-mondial-pour-la-santé)
-      - [Citations](#citations)
 <!-- #endregion -->
 
 ---
@@ -47,20 +45,9 @@ Saviez vous que le 22 mai 2024, le Canada s'apprête à signer des documents qui
 
 Ce document fournit un aperçu des efforts actuels de l'OMS pour développer et amender des instruments internationaux clés liés à la santé publique mondiale, notamment le Règlement Sanitaire International (RSI) et le Traité international sur la prévention, la préparation et la riposte aux pandémies. Il met en lumière les rencontres clés, les entités en charge, et les documents importants associés à ces efforts. De plus, il souligne l'importance de l'engagement public et du débat publique concernant ces développements. Et, il sert d'outil pour maintenir la souveraineté nationale face aux pressions internationales pour l'adoption de ces nouveaux instruments juridiques.
 
-<!-- reformuler
-Nous souhaitons par cet effort collectif, informer sur les préoccupations concernant l'influence des contributions financières que peu avoir les décisions de l'OMS
--->
-
 
 ---
 ## Objet de la recherche
-
-Deux documents de l’Organisme mondial de la santé (OMS) sont en cours de développement et seront signés en loi par le Canada le 22 mai 2024. Voici les rencontres de consultations restantent :
-
-- **Neuvième et dernière rencontre** : 18–29 mars 2024
-
-Les rencontres sont organisées par l’Organe de Négociation Intergouvernemental (ONI) ou Intergovernmental Negotiating Body (INB) en anglais.
-
 
 ### Les deux documents actifs de l'OMS
 
