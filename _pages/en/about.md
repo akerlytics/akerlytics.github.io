@@ -14,15 +14,16 @@ Welcome to the **Political Issue Watch** platform for Canadian issues.
 Current issue:
 > Proposed amendments to the International Health Regulations (IHR) and the delegation of powers to the World Health Organization (WHO) in the event of a global or national pandemic.
 
-The IHR are an instrument of international law that is legally-binding on 196 State Parties, including the 194 WHO Member States. The IHR, in their version adopted in 2005, have been amended twice – in 2014 and 2022 (the most-recent amendments will come into force in May 2024). [source](https://www.who.int/news/item/07-10-2023-governments-make-progress-towards-agreeing-amendments-to-the-international-health-regulations-(2005))
+The IHR are an instrument of international law that is legally-binding on 196 State Parties, including the 194 WHO Member States. The IHR, in their version adopted in 2005, have been amended twice – in 2014 and 2022 (the most-recent amendments will come into force in May 2024). The newest proposed amendments come in response to the challenges posed by the COVID-19 pandemic. [source](https://www.who.int/news/item/07-10-2023-governments-make-progress-towards-agreeing-amendments-to-the-international-health-regulations-(2005))
 
 Member States of the World Health Organization have agreed to a global process to draft and negotiate a convention, agreement or other international instrument under the Constitution of the World Health Organization to strengthen pandemic prevention, preparedness and response. The World Health Assembly mandated the INB to submit its final outcome to the Seventy-seventh World Health Assembly in May 2024. [source](https://www.who.int/news-room/questions-and-answers/item/pandemic-prevention--preparedness-and-response-accord)
 
-Deadline: 77th World Health Assembly (WHA) - May 27th to June 1st, where
+**Deadline**: 77th World Health Assembly (WHA) - May 27th to June 1st, where
 - Proposed amendments to the International Health Regulations (IHR) will be discussed and voted on.
 - The final treaty adoption will take place.
 
 
+**Share your concerns to your MP via this following letter** :
 <div data-fillout-id="5v3ayHZPdBus" data-fillout-embed-type="popup" data-fillout-button-text="Support Form" data-fillout-inherit-parameters></div><script src="https://server.fillout.com/embed/v1/"></script>
 
 ---

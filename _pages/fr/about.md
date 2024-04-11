@@ -18,10 +18,11 @@ Le RSI est un instrument de droit international juridiquement contraignant pour 
 
 Les États Membres de l’Organisation mondiale de la Santé sont convenus d’un processus mondial visant à élaborer et à négocier une convention, un accord ou un autre instrument international, en vertu de la Constitution de l’Organisation mondiale de la Santé, afin de renforcer la prévention, la préparation et la riposte face aux pandémies. L’Assemblée mondiale de la Santé a chargé l’organe intergouvernemental de négociation de soumettre les résultats de ses travaux à la Soixante-Dix-Septième Assemblée mondiale de la Santé en 2024. [source](https://www.who.int/fr/news-room/questions-and-answers/item/pandemic-prevention--preparedness-and-response-accord)
 
-Date limite : 77e Assemblée mondiale de la santé (WHA) - du 27 mai au 1er juin, où
+**Date limite** : 77e Assemblée mondiale de la santé (WHA) - du 27 mai au 1er juin, où
 - Les amendements proposés au Règlement sanitaire international (RSI) seront discutés et soumis au vote.
 - L'adoption du traité final aura lieu.
 
+**Envoyé vos préocupations à votre député par cette lettre** :
 <div data-fillout-id="oj8KhQuzWPus" data-fillout-embed-type="popup" data-fillout-button-text="Formulaire de support" data-fillout-inherit-parameters></div><script src="https://server.fillout.com/embed/v1/"></script>
 
 ---
