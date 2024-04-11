@@ -18,6 +18,11 @@ The IHR are an instrument of international law that is legally-binding on 196 St
 
 Member States of the World Health Organization have agreed to a global process to draft and negotiate a convention, agreement or other international instrument under the Constitution of the World Health Organization to strengthen pandemic prevention, preparedness and response. The World Health Assembly mandated the INB to submit its final outcome to the Seventy-seventh World Health Assembly in May 2024. [source](https://www.who.int/news-room/questions-and-answers/item/pandemic-prevention--preparedness-and-response-accord)
 
+Deadline: 77th World Health Assembly (WHA) - May 27th to June 1st, where
+- Proposed amendments to the International Health Regulations (IHR) will be discussed and voted on.
+- The final treaty adoption will take place.
+
+
 <div data-fillout-id="5v3ayHZPdBus" data-fillout-embed-type="popup" data-fillout-button-text="Support Form" data-fillout-inherit-parameters></div><script src="https://server.fillout.com/embed/v1/"></script>
 
 ---
