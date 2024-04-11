@@ -52,4 +52,12 @@ permalink: /law/can/resources
 - Quick overview of relevant links and the importance of public communication and legal implications: [Google Search Results](https://www.google.com/search?q=site%3Acanada.ca+%22International+Health+Regulations%22)
 
 ### References and Important Links
-- Various references to Canada's emergency preparedness, response, privacy concerns, and regulatory plans: [Emergency Preparedness and Response](https://www.canada.ca/en/public-health/services/emergency-preparedness-response.html), [Privacy and the Public Health Agency of Canada](https://www.canada.ca/en/public-health/corporate/mandate/about-agency/access-information-privacy/privacy.html), [Forward Regulatory Plan 2022-2024](https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regulations/forward-regulatory-plan/amendment-quarantine-regulations.html)
+- Various references to Canada's emergency preparedness, response, privacy concerns, and regulatory plans: [Emergency Preparedness and Response](https://www.canada.ca/en/public-health/services/emergency-preparedness-response.html), 
+
+- [Privacy and the Public Health Agency of Canada](https://www.canada.ca/en/public-health/corporate/mandate/about-agency/access-information-privacy/privacy.html), 
+
+- [Forward Regulatory Plan 2022-2024](https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regulations/forward-regulatory-plan/amendment-quarantine-regulations.html)
+
+[Event-based surveillance: Early warning for communicable diseases](https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2023-49/issue-2-3-february-march-2023/event-based-surveillance-early-warning-communicable-diseases.html)
+
+[Info Source: Sources of Federal Government and Employee Information Public Health Agency of Canada](https://www.canada.ca/en/public-health/corporate/mandate/about-agency/access-information-privacy/info-source-federal-government-employee-information.html)

@@ -11,8 +11,9 @@ Voir [Droits canadiennes](/law/can/resources)
 
 ## Pays membre de l'OMS
 
-TODO
+Voir [brief de recherche](https://commonslibrary.parliament.uk/research-briefings/cbp-9550/) du Royaume-Uni.
 
+<!--
 ## Donateurs à l'OMS
 
 TODO
@@ -20,3 +21,4 @@ TODO
 ## Groupe d'experts
 
 TODO
+-->

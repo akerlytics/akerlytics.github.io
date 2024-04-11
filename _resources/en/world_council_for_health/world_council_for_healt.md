@@ -10,6 +10,15 @@ permalink: /resources/world-council-for-health/
 Their Mission Statement:
 > The World Council for Health is a non-profit initiative for the people, that is informed and funded by the people. Our global coalition of health-focused initiatives and civil society groups seeks to broaden public health knowledge and sense-making through science and shared wisdom. We are dedicated to safeguarding human rights and free will while empowering people to take control of their health and wellbeing.
 
+See the organism's [page](/resources/world-council-for-health).
+
+**Theses are their links relating to this current issue**:
+- [Link to policies](https://worldcouncilforhealth.org/policy/)
+- [Compilation of amendments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/WGIHR_Redlined-words-of-Proposed-Amendement-Compilation-en.pdf)
+- [Full arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/06/Rejecting-Monopoly-Power-over-Global-Public-Health.-WCH-Policy-Brief-on-the-Proposed-IHR-Amendments-and-Pandemic-Treaty.pdf) - 45 pages.
+- [Summary of arguments](https://worldcouncilforhealth.org/wp-content/uploads/2023/05/Policy-Brief-Summary-1.pdf) - 7 pages.
+
+
 ---
 ## Validity Challenged by Wikipedia
 

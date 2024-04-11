@@ -14,7 +14,9 @@ Bienvenue sur la plateforme de **Veille des Enjeux Politiques** canadiens.
 Enjeu actuel :
 > Amendements proposés au Règlement Sanitaire International (RSI) et la délégation de pouvoirs à l'Organisation Mondiale de la Santé (OMS) en cas de pandémie mondiale ou nationale.
 
-Saviez vous que le 22 mai 2024, le Canada s'apprête à signer des documents qui aurront force de loi et qui transfère le pouvoir acutel des canadies à l'Organisme Mondial de la Santé (OMS)
+Le RSI est un instrument de droit international juridiquement contraignant pour 196 États Parties, dont les 194 États Membres de l’OMS. Il a été amendé à deux reprises dans sa version adoptée en 2005 : en 2014 et en 2022 (les derniers amendements entreront en vigueur en mai 2024). Les dernières propositions d’amendements visent à relever les défis posés par la pandémie de COVID-19. [source](https://www.who.int/fr/news/item/07-10-2023-governments-make-progress-towards-agreeing-amendments-to-the-international-health-regulations-(2005))
+
+Les États Membres de l’Organisation mondiale de la Santé sont convenus d’un processus mondial visant à élaborer et à négocier une convention, un accord ou un autre instrument international, en vertu de la Constitution de l’Organisation mondiale de la Santé, afin de renforcer la prévention, la préparation et la riposte face aux pandémies. L’Assemblée mondiale de la Santé a chargé l’organe intergouvernemental de négociation de soumettre les résultats de ses travaux à la Soixante-Dix-Septième Assemblée mondiale de la Santé en 2024. [source](https://www.who.int/fr/news-room/questions-and-answers/item/pandemic-prevention--preparedness-and-response-accord)
 
 <div data-fillout-id="oj8KhQuzWPus" data-fillout-embed-type="popup" data-fillout-button-text="Formulaire de support" data-fillout-inherit-parameters></div><script src="https://server.fillout.com/embed/v1/"></script>
 
