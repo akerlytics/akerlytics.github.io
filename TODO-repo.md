@@ -1,5 +1,10 @@
 # TODO for Political-Issue-Tracker Repo
 
+## Find out ratification date
+
+https://www.who.int/news/item/03-03-2023-countries-begin-negotiations-on-global-agreement-to-protect-world-from-future-pandemic-emergencies
+
+
 ## Content Moderation
 
 ### AWS - Rekognition

@@ -21,6 +21,19 @@ Les deux 'policy-brief' du WCHP devraient avoir des traductions en français, du
 voir section law/can
 
 
+## Ressources contre
+
+about canada's role:
+https://www.canada.ca/en/public-health/services/emergency-preparedness-response/canada-role-international-pandemic-instrument.html
+and see sources:
+https://genevahealthfiles.substack.com/p/towards-meaningful-country-level
+
+https://theconversation.com/the-whos-international-pandemic-treaty-meaningful-public-engagement-must-inform-canadas-negotiations-203747
+https://policyoptions.irpp.org/magazines/may-2023/international-pandemic-treaty-canada/
+https://www.hrw.org/news/2023/11/07/draft-pandemic-treaty-fails-protect-rights
+https://citizengo.org/en-ca/ot/211857-stop-uns-desperate-pandemic-treaty-push
+
+
 ## Propositions
 
 ### about
