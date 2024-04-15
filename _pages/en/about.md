@@ -7,110 +7,118 @@ permalink: /
 #   sidebar: left
 ---
 
-# Political Issue Watch - CAN
+
+
+# Political Issues Watch - CANADA
 
 Welcome to the **Political Issue Watch** platform for Canadian issues.
 
-Current issue:
-> Proposed amendments to the International Health Regulations (IHR) and the delegation of powers to the World Health Organization (WHO) in the event of a global or national pandemic.
+**Featured Issue**: **WHO - 05/2024**
+> "Proposed amendments to the International Health Regulations (IHR) and the delegation of powers to the World Health Organization (WHO) in the event of a global or national pandemic."
 
-The IHR are an instrument of international law that is legally-binding on 196 State Parties, including the 194 WHO Member States. The IHR, in their version adopted in 2005, have been amended twice – in 2014 and 2022 (the most-recent amendments will come into force in May 2024). The newest proposed amendments come in response to the challenges posed by the COVID-19 pandemic. [source](https://www.who.int/news/item/07-10-2023-governments-make-progress-towards-agreeing-amendments-to-the-international-health-regulations-(2005))
+**What it implies**:
+In May 2024, the 77th World Health Assembly will take place. This assembly will adopt, after lengthy negotiations, modifications to significant documents governing global health policies. Canada, as a member state of the WHO, will be affected by these changes and will need to adapt its own legislation and public health practices to accommodate the anticipated changes.
 
-Member States of the World Health Organization have agreed to a global process to draft and negotiate a convention, agreement or other international instrument under the Constitution of the World Health Organization to strengthen pandemic prevention, preparedness and response. The World Health Assembly mandated the INB to submit its final outcome to the Seventy-seventh World Health Assembly in May 2024. [source](https://www.who.int/news-room/questions-and-answers/item/pandemic-prevention--preparedness-and-response-accord)
+Due to agreements contracted by Canada, some of these documents will have the force of law. They prove to be more binding than previous ones and involve the transfer of decision-making powers held by Canadian authorities to the World Health Organization (WHO). This is part of the efforts undertaken by WHO to develop and amend international regulatory instruments related to public health.
 
-**Deadline**: 77th World Health Assembly (WHA) - May 27th to June 1st, where
-- Proposed amendments to the International Health Regulations (IHR) will be discussed and voted on.
-- The final treaty adoption will take place.
+**Our concerns**:
+With this initiative, Canada delegates part of its legislative and regulatory power to an international entity. Indeed, by incorporating the proposed amendments to the IHR and the pandemic agreement, Canada renounces holding full power regarding its management of public health issues. This undermines the national sovereignty of Canada and could limit the ability of the Canadian government to respond independently and according to its own prerogatives to a potential health crisis. Moreover, the decisions made by the WHO are not subject to review by Canadian citizens and do not have the democratic legitimacy of laws and regulations adopted in Canada by the House of Commons.
 
+We believe in the importance of civic engagement and public debate concerning regulations and policies affecting the health of Canadians. These amendments may limit the ability of Canadian citizens to express their views on decisions executed by their government in times of crisis or to support/reject them during federal elections.
 
-**Share your concerns to your MP via this following letter** :
+**A tool for the citizen**:
+Here, you can follow the calendar of key meetings, take note of the entities involved in the file, and consult important documents associated with its evolution. You will also find tools to make your voice heard!
+
+**Send your concerns to your representative through this letter**:
 <div data-fillout-id="5v3ayHZPdBus" data-fillout-embed-type="popup" data-fillout-button-text="Support Form" data-fillout-inherit-parameters></div><script src="https://server.fillout.com/embed/v1/"></script>
 
----
-## Table of Contents
-<!-- #region -->
+<br>
+<hr>
 
-- **[Summary and Description of the File](#summary-and-description-of-the-file)**
-- **[Purpose of the Research](#purpose-of-the-research)**
-  - [The two active WHO documents](#the-two-active-who-documents)
-    - [IHR](#ihr)
-    - [Pandemic Treaty](#pandemic-treaty)
-  - [The bodies in charge of the process](#the-bodies-in-charge-of-the-process)
-  - [Monitoring of meetings](#monitoring-of-meetings)
-- **[Debates in Canada](#debates-in-canada)**
-  - [Questions raised by Leslyne Lewis](#questions-raised-by-leslyne-lewis)
-  - [Letters to MPs](#letters-to-mps)
-    - [Constituencies](#constituencies)
-      - [NB](#nb)
-    - [Encouragement to participate](#encouragement-to-participate)
-  - [Petitions](#petitions)
-- **[International Entities](#international-entities)**
-  - [Debates in other nations](#debates-in-other-nations)
-<!-- #endregion -->
+## The Issue
 
----
-## Summary and Description of the File
+The following two documents are at the end of their drafting process, and their adoption by the member countries of the WHO is scheduled for May 2024. The International Health Regulations of 2005 (IHR) and the new International Agreement on the Prevention, Preparedness, and Response to Pandemics (Pandemic Agreement) are part of the agreements that frame the response to public health emergencies at the international level. Their objectives are to facilitate and harmonize the response of WHO member states to various health threats and to facilitate cooperation in the development of their national public health policies.
 
-This document provides an overview of the WHO's current efforts to develop and amend key international instruments related to global public health, notably the International Health Regulations (IHR) and the International Treaty on Pandemic Prevention, Preparedness, and Response. It highlights key meetings, the entities in charge, and the important documents associated with these efforts. Moreover, it emphasizes the importance of public engagement and public debate regarding these developments. It serves as a tool to maintain national sovereignty in the face of international pressures to adopt these new legal instruments.
+The writing and updating of these agreements involve extensive negotiations and consultations with member states by WHO administrators and experts. These efforts are based on the need to adopt a coordinated international approach to facing certain public health threats, emphasizing the necessity of transparency, equity, and shared responsibility.
 
----
-## Purpose of the Research
+However, some of the recently proposed amendments to these documents go against this shared responsibility and encroach on the competencies of the member states and may constrain their actions.
 
-### The two active WHO documents
+### IHR: A Regulation Soon Binding for Canada
 
-The following two documents are in the final stretch before their signature in May 2024. These documents represent crucial components of the World Health Organization's (WHO) ongoing efforts to strengthen global health security and governance. The International Health Regulations (2005) (IHR) and the International Treaty on Pandemic Prevention, Preparedness, and Response (Pandemic Treaty) are essential for establishing a framework for international cooperation and response to public health emergencies. The development and amendment of these documents involve extensive negotiations and consultations with member states, reflecting the collective ambition to improve global preparedness against future pandemics. These efforts underline the importance of a coordinated international approach to public health threats, focusing on the need for transparency, equity, and shared responsibility.
+The IHR is an international agreement overseen by the World Health Assembly designed to prevent and respond to international health emergencies. It aims to:
 
-#### IHR
+1. prevent the international spread of diseases,
 
-Here is the document showing the amendments; accompanied by comments from the WHO's internal committee for change analysis.
+2. protect countries against international health emergencies, and
 
-- [Reference document: amendment proposals and technical recommendations](https://apps.who.int/gb/wgihr/pdf_files/wgihr2/A_WGIHR2_Reference_document-en.pdf)
+3. control and offer a public response to these risks, while avoiding unnecessary disruptions to international traffic and trade. Since its adoption, it has played a key role in managing global health crises, such as the Zika outbreaks in 2016, the Ebola outbreak in 2014, and the H1N1 outbreak in 2009. In the wake of the COVID-19 pandemic of 2020, some modifications to the IHR are envisioned.
 
-#### Pandemic Treaty
+**From WHO**:
+> The IHR are an instrument of international law that is legally-binding on 196 State Parties, including the 194 WHO Member States. The IHR, in their version adopted in 2005, have been amended twice – in 2014 and 2022 (the most-recent amendments will come into force in May 2024). The newest proposed amendments come in response to the challenges posed by the COVID-19 pandemic. [source](https://www.who.int/news/item/07-10-2023-governments-make-progress-towards-agreeing-amendments-to-the-international-health-regulations-(2005))
 
-The most recent draft document on pandemic prevention, preparedness, and response:
-  - [Proposal for the text of the WHO Pandemic Agreement submitted for negotiation](https://apps.who.int/gb/inb/pdf_files/inb7/A_INB7_3-en.pdf)
+### Pandemic Agreement: An Additional Agreement, with More Reach
 
-### The bodies in charge of the process
+The pandemic agreement, an agreement/treaty under preparation. Compared to the IHR, this agreement establishes more robust mechanisms for surveillance, information sharing, and resource distribution during a pandemic. In accordance with Canada's obligations to WHO, the new provisions of this treaty will be adopted by the Canadian government and applied in our country.
 
-1. For the document **International Health Regulations (2005) (IHR)**:
-   - Entity in charge: Working Group on Amendments to the International Health Regulations (WGIHR).
-   - [More information on the WGIHR.](https://apps.who.int/gb/wgihr/)
+**From WHO**:
+> Member States of the World Health Organization have agreed to a global process to draft and negotiate a convention, agreement or other international instrument under the Constitution of the World Health Organization to strengthen pandemic prevention, preparedness and response. The World Health Assembly mandated the INB to submit its final outcome to the Seventy-seventh World Health Assembly in May 2024. [source](https://www.who.int/news-room/questions-and-answers/item/pandemic-prevention--preparedness-and-response-accord)
 
-2. For the document **International Treaty on Pandemic Prevention, Preparedness, and Response** (Pandemic Treaty):
-   - Entity in charge: Intergovernmental Negotiating Body (INB).
-   - [INB information site](https://inb.who.int/). Note: this link is translated by *google.translate* since the French version [inb.who.int](https://inb.who.int/) is yet to be found.
+## The Involved Parties
 
-### Monitoring of meetings
+### The WGIHR
 
-Visit the page for monitoring the [Intergovernmental Negotiating Body](https://apps.who.int/gb/inb/f/index.html) responsible for drafting and negotiating a convention, agreement, or other international WHO instrument on pandemic prevention, preparedness, and response.
+The Working Group on Amendments to the International Health Regulations (WGIHR) is responsible for writing and updating the IHR. This group, which reports to the WHO Executive Board, identifies and gathers possible amendments to the IHR from member states.
 
----
-## Debates in Canada
+### The INB
 
-Canada's position on the IHR: [Canada and the International Health Regulations (IHR): Overview](https://www.canada.ca/en/public-health/services/emergency-preparedness-response/international-health-regulations.html). Note: `Date modified: 2023-06-29`
+The Intergovernmental Negotiating Body (INB) was created following the COVID-19 pandemic by the World Health Assembly. Its goal is to develop, negotiate, and establish a new agreement, the pandemic agreement. It notably conducts consultations and public hearings in the WHO member states.
 
-Canada's position on the development of the Pandemic Treaty: [Canada's role in the development of an international pandemic agreement](https://www.canada.ca/en/public-health/services/emergency-preparedness-response/canada-role-international-pandemic-instrument.html). Note: `Date modified: 2024-02-07`
+### The Canadian Government
+Due to its international commitments, the IHR is legally binding for Canada. Under this agreement, Canada must strengthen its surveillance and intervention capacities and report certain public health events to WHO. The IHR is implemented in the country through the Public Health Agency of Canada.
 
-### Questions raised by Leslyne Lewis
+In relation to the pandemic agreement, Canada declares its strong support for the new WHO initiative. It coordinates consultation efforts at the provincial and territorial levels and has mandated the Office of International Affairs to define Canada's positions concerning the new treaty.
 
-Leslyne Lewis, the MP elected by the counties of Haldimand - Norfolk in Ontario, has mentioned in the chamber some points related to our cause.
+## The State of the Debate
 
-- **Leslyne Lewis's site**:
-  - [leslynlewismp.ca](https://leslynlewismp.ca/2024/01/17/the-who-pandemic-treaty/)
+In Canada and elsewhere in the world, the proposed amendments to the IHR and the new treaty have sparked public debates about their relevance and the risks they pose to the sovereignty of the member states of WHO.
 
-- **Counter-article**:
-  - Leslyn Lewis claims that the WHO's pandemic pact is a step towards a "world government". Link: [www-cbc-ca](https://www.cbc.ca/news/politics/leslyn-lewis-who-world-health-organization-pandemic-1.6460159)
+### In Canada
+
+Leslyn Lewis, MP for Haldimand-Norfolk in Ontario, leads the opposition to the proposed reforms concerning the management of global health crises. She has frequently spoken in the media and in parliament to highlight the risks associated with the modifications to the IHR and the pandemic agreement. She argues that this treaty could limit individual freedoms and grant excessive power to WHO.
+
+**Leslyne Lewis's site**:
+- [leslynlewismp.ca](https://leslynlewismp.ca/2024/01/17/the-who-pandemic-treaty/)
+
+This position, however, is criticized by some observers, who contest the MP's interpretation of the proposed amendments. Nevertheless, these critics primarily rely on amalgams and do not directly or in-depth address the concerns raised by Ms. Lewis.
+
+**Counter-article**:
+- Leslyn Lewis claims that the WHO's pandemic pact is a step towards a "world government". Link: [www-cbc-ca](https://www.cbc.ca/news/politics/leslyn-lewis-who-world-health-organization-pandemic-1.6460159)
+
+
+### Elsewhere in the World
+
+In the United Kingdom, heated debates have taken place in the British Parliament regarding WHO initiatives. Critics of these initiatives advance that the new legally binding obligations could limit the autonomy of public health policies of countries. Moreover, they denounce the influence of major donors on WHO and decisions made by unelected officials, questioning democratic accountability. These debates highlight the challenge of maintaining national sovereignty while cooperating internationally to manage pandemics.
+
+## Want to take action?
+
+If you feel called upon by this issue, you are encouraged to get involved and make your voice heard by your representative, through a letter, by showing your support, or by signing a petition.
 
 ### Letters to MPs
 
-A letter has been sent to the representatives of the territories below. This letter aims to highlight the importance of conducting thorough analyses with democratic support in the context of the legal changes proposed by the efforts of the WHO and its member countries.
+A letter has been addressed to our representatives to emphasize the importance of conducting detailed analyses with democratic support, in the context of the legal modifications proposed by WHO and its member states.
+You too can send a similar letter to your MP!
+
+#### Sent letters:
+
+**Total received**: 2
+
+**Total sent**: 2
 
 #### Constituencies
 
-##### NB
+##### NB (2)
 
-<details><summary>Madawaska-Restigouche</summary>
+<details><summary>Madawaska-Restigouche (1)</summary>
 
 <!-- #region -->
 <br>
@@ -125,7 +133,7 @@ A letter has been sent to the representatives of the territories below. This let
 
 <!-- #endregion -->
 
-<details><summary>Tobic-Mactaquac</summary>
+<details><summary>Tobic-Mactaquac (1)</summary>
 
 <!-- #region -->
 <br>
@@ -141,28 +149,3 @@ A letter has been sent to the representatives of the territories below. This let
 <!-- #endregion -->
 
 <br>
-
-#### Encouragement to participate
-
-**Show your support** for the open letter that was put forward to highlight the most important points on the issue and that was sent to certain MPs.
-
-Note: This communication is in a public format so that everyone can show their support across the Canadian territory.
-
-See the [template of the letter](/letters/v1.0.3/madawaska-restigouche/) that was sent for the Madawaska-Restigouche constituency.
-
-Visit the [letter details page](/letters/) for more information.
-
-### Petitions
-
-- **Petition to the House of Commons** and **Petition to the Government of Canada**:
-  Citizens are asking that any signature of an international pandemic treaty by the WHO be approved by public referendum.
-
-See the [notes](/petitions/can/) on Canadian petitions.
-
-
----
-## International Entities
-
-### Debates in other nations
-
-See the [debates](/petitions/uk) in the United Kingdom following petitions similar to ours.

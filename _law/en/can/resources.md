@@ -48,8 +48,8 @@ permalink: /law/can/resources
 ### Implementing the IHR in Canada
 - PHAC's role and shared responsibilities: [Implementing the IHR](https://www.canada.ca/en/public-health/services/emergency-preparedness-response/international-health-regulations.html)
 
-### Google search for "International Health Regulations" on canada.ca
-- Quick overview of relevant links and the importance of public communication and legal implications: [Google Search Results](https://www.google.com/search?q=site%3Acanada.ca+%22International+Health+Regulations%22)
+<!-- ### Google search for "International Health Regulations" on canada.ca
+- Quick overview of relevant links and the importance of public communication and legal implications: [Google Search Results](https://www.google.com/search?q=site%3Acanada.ca+%22International+Health+Regulations%22) -->
 
 ### References and Important Links
 - Various references to Canada's emergency preparedness, response, privacy concerns, and regulatory plans: [Emergency Preparedness and Response](https://www.canada.ca/en/public-health/services/emergency-preparedness-response.html), 
