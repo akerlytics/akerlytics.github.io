@@ -110,15 +110,15 @@ You too can send a similar letter to your MP!
 
 #### Sent letters:
 
-**Total received**: 2
+**Total received**: 3
 
-**Total sent**: 2
+**Total sent**: 3
 
 #### Constituencies
 
-##### NB (2)
+##### NB (3)
 
-<details><summary>Madawaska-Restigouche (1)</summary>
+<details><summary>Madawaska-Restigouche (2)</summary>
 
 <!-- #region -->
 <br>

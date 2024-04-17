@@ -123,15 +123,15 @@ Vous aussi vous pouvez envoyer une lettre similaire à votre député!
 
 #### Lettres envoyée à date :
 
-**Nombre total réceptionnée**: 2
+**Nombre total réceptionnée**: 3
 
-**Nombre total envoyée**: 2
+**Nombre total envoyée**: 3
 
 #### Circonscriptions
 
-##### NB (2)
+##### NB (3)
 
-<details><summary>Madawaska-Restigouche (1)</summary>
+<details><summary>Madawaska-Restigouche (2)</summary>
 
 <!-- #region -->
 <br>
