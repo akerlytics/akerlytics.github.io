@@ -110,19 +110,16 @@ You too can send a similar letter to your MP!
 
 #### Sent letters:
 
-**Total received**: 3
-
-**Total sent**: 3
+**Total forms received**: 10
 
 #### Constituencies
 
-##### NB (3)
+##### QC (1)
 
-<details><summary>Madawaska-Restigouche (2)</summary>
+<details><summary>Portneuf—Jacques-Cartier (1)</summary>
 
 <!-- #region -->
 <br>
-<!-- <p>See the <a href="/letters/v1.0.3/madawaska-restigouche/">template of the letter</a> that was sent for the Madawaska-Restigouche constituency.</p> -->
 <ul>
   <li>❌ Reply from the MP.</li>
   <li>[?] Clear position affirmed.</li>
@@ -133,11 +130,28 @@ You too can send a similar letter to your MP!
 
 <!-- #endregion -->
 
-<details><summary>Tobic-Mactaquac (1)</summary>
+##### NB (9)
+
+<details><summary>Madawaska—Restigouche (6)</summary>
 
 <!-- #region -->
 <br>
-<!-- <p>See the <a href="/letters/v1.0.3/tobic-mactaquac/">template of the letter</a> that was sent for the Tobic-Mactaquac constituency.</p> -->
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<br> 
+
+<details><summary>Tobic—Mactaquac (3)</summary>
+
+<!-- #region -->
+<br>
 <ul>
   <li>✅ Reply from the MP.</li>
   <li>✅ Clear position affirmed.</li>

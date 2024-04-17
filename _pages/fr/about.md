@@ -123,19 +123,16 @@ Vous aussi vous pouvez envoyer une lettre similaire à votre député!
 
 #### Lettres envoyée à date :
 
-**Nombre total réceptionnée**: 3
-
-**Nombre total envoyée**: 3
+**Nombre total de formulaire remplis**: 10
 
 #### Circonscriptions
 
-##### NB (3)
+##### QC (1)
 
-<details><summary>Madawaska-Restigouche (2)</summary>
+<details><summary>Portneuf—Jacques-Cartier (1)</summary>
 
 <!-- #region -->
 <br>
-<!-- <p>Voir le <a href="/letters/v1.0.3/madawaska-restigouche/">modèle de la lettre</a> qui a été envoyé pour la circonscription Madawaska-Restigouche.</p> -->
 <ul>
   <li>❌ Retour du député.</li>
   <li>[?] Affirmation de position claire.</li>
@@ -146,7 +143,25 @@ Vous aussi vous pouvez envoyer une lettre similaire à votre député!
 
 <!-- #endregion -->
 
-<details><summary>Tobic-Mactaquac (1)</summary>
+<br> 
+
+##### NB (9)
+
+<details><summary>Madawaska-Restigouche (6)</summary>
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Retour du député.</li>
+  <li>[?] Affirmation de position claire.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Tobic-Mactaquac (3)</summary>
 
 <!-- #region -->
 <br>
