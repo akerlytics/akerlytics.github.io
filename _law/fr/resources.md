@@ -54,4 +54,14 @@ permalink: /law/can/resources
 - Aperçu rapide des liens pertinents et importance de la communication publique et des implications légales : [Résultats de recherche Google](https://www.google.com/search?q=site%3Acanada.ca+%22International+Health+Regulations%22)
 
 ### Références et liens importants
-- Diverses références à la préparation et à la réponse d'urgence du Canada, aux préoccupations en matière de confidentialité et aux plans réglementaires : [Préparation et réponse aux urgences](https://www.canada.ca/en/public-health/services/emergency-preparedness-response.html), [Confidentialité et l'Agence de la santé publique du Canada](https://www.canada.ca/en/public-health/corporate/mandate/about-agency/access-information-privacy/privacy.html), [Plan réglementaire 2022-2024](https://www.canada.ca/en/public-health/corporate/mandate/about-agency/acts-regulations/forward-regulatory-plan/amendment-quarantine-regulations.html)
+- Diverses références à la préparation et à la réponse d'urgence du Canada, aux préoccupations en matière de confidentialité et aux plans réglementaires : 
+
+- [Mesures et interventions en cas d’urgence](https://www.canada.ca/fr/sante-publique/services/mesures-interventions-urgence.html), 
+
+- [La vie privée et l'Agence de la santé publique du Canada](https://www.canada.ca/fr/sante-publique/organisation/mandat/a-propos-agence/acces-a-information-protection-renseignements-personnels/protection-renseignements-personnels.html), 
+
+- [Plan prospectif de la réglementation de 2024 à 2026 : Modifications du Règlement sur la quarantaine](https://www.canada.ca/fr/sante-publique/organisation/mandat/a-propos-agence/lois-reglements/plan-prospectif-reglementation/modifications-reglement-quarantaine.html)
+
+- [Surveillance fondée sur les événements : fournir une alerte rapide pour les menaces de maladies transmissibles](https://www.canada.ca/fr/sante-publique/services/rapports-publications/releve-maladies-transmissibles-canada-rmtc/numero-mensuel/2023-49/numero-2-3-fevrier-mars-2023/surveillance-fondee-evenements-fournir-alerte-rapide-menaces-maladies-transmissibles.html)
+
+-[Info Source : Sources de renseignements du gouvernement fédéral et sur les fonctionnaires fédéraux Agence de la santé publique du Canada](https://www.canada.ca/fr/sante-publique/organisation/mandat/a-propos-agence/acces-a-information-protection-renseignements-personnels/info-source-renseignements-gouvernement-federal-fonctionnaires-federaux.html)

@@ -35,6 +35,7 @@ Here, you can follow the calendar of key meetings, take note of the entities inv
 <br>
 <hr>
 
+---
 ## The Issue
 
 The following two documents are at the end of their drafting process, and their adoption by the member countries of the WHO is scheduled for May 2024. The International Health Regulations of 2005 (IHR) and the new International Agreement on the Prevention, Preparedness, and Response to Pandemics (Pandemic Agreement) are part of the agreements that frame the response to public health emergencies at the international level. Their objectives are to facilitate and harmonize the response of WHO member states to various health threats and to facilitate cooperation in the development of their national public health policies.
@@ -63,6 +64,7 @@ The pandemic agreement, an agreement/treaty under preparation. Compared to the I
 **From WHO**:
 > Member States of the World Health Organization have agreed to a global process to draft and negotiate a convention, agreement or other international instrument under the Constitution of the World Health Organization to strengthen pandemic prevention, preparedness and response. The World Health Assembly mandated the INB to submit its final outcome to the Seventy-seventh World Health Assembly in May 2024. [source](https://www.who.int/news-room/questions-and-answers/item/pandemic-prevention--preparedness-and-response-accord)
 
+---
 ## The Involved Parties
 
 ### The WGIHR
@@ -78,6 +80,7 @@ Due to its international commitments, the IHR is legally binding for Canada. Und
 
 In relation to the pandemic agreement, Canada declares its strong support for the new WHO initiative. It coordinates consultation efforts at the provincial and territorial levels and has mandated the Office of International Affairs to define Canada's positions concerning the new treaty.
 
+---
 ## The State of the Debate
 
 In Canada and elsewhere in the world, the proposed amendments to the IHR and the new treaty have sparked public debates about their relevance and the risks they pose to the sovereignty of the member states of WHO.
@@ -99,9 +102,16 @@ This position, however, is criticized by some observers, who contest the MP's in
 
 In the United Kingdom, heated debates have taken place in the British Parliament regarding WHO initiatives. Critics of these initiatives advance that the new legally binding obligations could limit the autonomy of public health policies of countries. Moreover, they denounce the influence of major donors on WHO and decisions made by unelected officials, questioning democratic accountability. These debates highlight the challenge of maintaining national sovereignty while cooperating internationally to manage pandemics.
 
+---
 ## Want to take action?
 
 If you feel called upon by this issue, you are encouraged to get involved and make your voice heard by your representative, through a letter, by showing your support, or by signing a petition.
+
+**Send your concerns to your representative through this letter**:
+<div data-fillout-id="5v3ayHZPdBus" data-fillout-embed-type="popup" data-fillout-button-text="Support Form" data-fillout-inherit-parameters></div><script src="https://server.fillout.com/embed/v1/"></script>
+
+<br>
+Please note that letters intended for our Members of Parliament (MPs) should be sent using the email provided in the form. Once received, it is your responsibility to forward these letters to the respective MP. Additionally, please check your junk email folder regularly, as our domain has not been validated yet. Thank you.
 
 ### Letters to MPs
 
@@ -110,13 +120,25 @@ You too can send a similar letter to your MP!
 
 #### Sent letters:
 
-**Total forms received**: 10
+<!-- @autofill form-stats -->
+
+**Total forms received**: 30
+
 
 #### Constituencies
 
-##### QC (1)
 
-<details><summary>Portneuf—Jacques-Cartier (1)</summary>
+<br>
+<hr/>
+
+##### New Brunswick (19)
+
+**Total forms received for New Brunswick**: 19
+
+
+
+<details><summary>Acadie—Bathurst (1)</summary>
+
 
 <!-- #region -->
 <br>
@@ -130,9 +152,8 @@ You too can send a similar letter to your MP!
 
 <!-- #endregion -->
 
-##### NB (9)
+<details><summary>Madawaska—Restigouche (15)</summary>
 
-<details><summary>Madawaska—Restigouche (6)</summary>
 
 <!-- #region -->
 <br>
@@ -146,9 +167,8 @@ You too can send a similar letter to your MP!
 
 <!-- #endregion -->
 
-<br> 
+<details><summary>Tobique—Mactaquac (3)</summary>
 
-<details><summary>Tobic—Mactaquac (3)</summary>
 
 <!-- #region -->
 <br>
@@ -163,3 +183,177 @@ You too can send a similar letter to your MP!
 <!-- #endregion -->
 
 <br>
+<hr/>
+
+##### Quebec (11)
+
+**Total forms received for Quebec**: 11
+
+
+
+<details><summary>Abitibi—Baie-James—Nunavik—Eeyou (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Ahuntsic-Cartierville (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Gaspésie—Les Îles-de-la-Madeleine (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Joliette (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>La Prairie (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Laurentides—Labelle (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Montmagny—L'Islet—Kamouraska—Rivière-du-Loup (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Portneuf—Jacques-Cartier (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Québec (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Saint-Maurice—Champlain (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Sherbrooke (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<!-- @endautofill form-stats -->

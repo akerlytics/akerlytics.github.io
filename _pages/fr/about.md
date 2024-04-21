@@ -33,6 +33,7 @@ Ici, vous pourrez suivre le calendrier des rencontres clés, prendre note des en
 <br>
 <hr>
 
+---
 ## L’enjeu
 
 Les deux documents suivants sont à la fin de leur processus de rédaction et leur adoption par les pays membres de l’OMS est prévue pour mai 2024. Le Règlement sanitaire international de 2005 (RSI) et le nouvel Accord international sur la prévention, la préparation et la riposte aux pandémies (accord sur la pandémie) font partie des accords qui encadrent la réponse aux urgences de santé publique au niveau international. Leurs objectifs est de faciliter et d’harmoniser la réponse des États membres de l’OMS aux différentes menaces sanitaires et à faciliter la coopération dans l’édition de leurs politiques de santé publique nationales.
@@ -43,11 +44,11 @@ Cependant, certains des amendements récemment proposés à ces documents vont �
 
 ### RSI : une règlementation bientôt contraignante pour le Canada
 
-Le RSI est un accord international supervisé par l’Assemblée mondiale de la santé conçu pour prévenir et répondre aux urgences sanitaires internationales. Il vise à 
+Le RSI est un accord international supervisé par l’Assemblée mondiale de la santé conçu pour prévenir et répondre aux urgences sanitaires internationales. Il vise à
 
 1. prévenir la propagation internationale des maladies,
 
-2. protéger les pays contre les urgences sanitaires internationales, et 
+2. protéger les pays contre les urgences sanitaires internationales, et
 
 3. contrôler et offrir une réponse publique à ces risques, tout en évitant les perturbations inutiles du trafic international et du commerce. Depuis son adoption, il a joué un rôle clé dans la gestion de crises sanitaires mondiales, tel que les épidémies de Zica en 2016, d’Ebola en 2014 et de H1N1 en 2009. Dans la foulé de la pandémie de COVID-19 de 2020, certaines modifications au RSI sont envisagées.
 
@@ -60,19 +61,20 @@ De plus, les amendements proposent une refonte substantiellement de l’article 
 
 ### Accord sur la pandémie : un accord supplémentaire, avec plus de portée
 
-L'accord sur la pandémique, est un accord/traité en préparation. Par rapport au RSI, cet accord met en place des mécanismes plus robustes pour la surveillance, le partage d'informations et la distribution des ressources lors d'une pandémie. En accord avec les obligations du Canada par rapport à l’OMS, les nouvelles dispositions de ce traité seront adoptées par le gouvernement canadien et appliqué dans notre pays. 
+L'accord sur la pandémique, est un accord/traité en préparation. Par rapport au RSI, cet accord met en place des mécanismes plus robustes pour la surveillance, le partage d'informations et la distribution des ressources lors d'une pandémie. En accord avec les obligations du Canada par rapport à l’OMS, les nouvelles dispositions de ce traité seront adoptées par le gouvernement canadien et appliqué dans notre pays.
 
-<!-- Les dispositions suivantes sont notamment proposées, 
+<!-- Les dispositions suivantes sont notamment proposées,
 certaines de ces dispositions s’avèrent problématiques. Notamment le XXXX, car il XXXX et XXXX. -->
 
 **De l'OMS** :
 > Les États Membres de l’Organisation mondiale de la Santé sont convenus d’un processus mondial visant à élaborer et à négocier une convention, un accord ou un autre instrument international, en vertu de la Constitution de l’Organisation mondiale de la Santé, afin de renforcer la prévention, la préparation et la riposte face aux pandémies. L’Assemblée mondiale de la Santé a chargé l’organe intergouvernemental de négociation de soumettre les résultats de ses travaux à la Soixante-Dix-Septième Assemblée mondiale de la Santé en 2024. [source](https://www.who.int/fr/news-room/questions-and-answers/item/pandemic-prevention--preparedness-and-response-accord)
 
+---
 ## Les parties engagées
 
 ### Le WGIHR
 
-Le Groupe de travail sur les amendements au Règlement sanitaire international (WGIHR) est responsable de l’écriture et de la mise à jour du RSI. Ce groupe, qui répond du conseil exécutif de l’OMS, recense et rassemble les amendements possibles au RSI auprès des États membres. 
+Le Groupe de travail sur les amendements au Règlement sanitaire international (WGIHR) est responsable de l’écriture et de la mise à jour du RSI. Ce groupe, qui répond du conseil exécutif de l’OMS, recense et rassemble les amendements possibles au RSI auprès des États membres.
 
 ### L’INB
 
@@ -86,11 +88,12 @@ Par rapport a l'accord sur la pandémie, le Canada déclare appuyer fermement la
 
 <!-- [Rappeler ce qui va changer avec les amendements et le nouvel accord] -->
 
+---
 ## L’État du débat
 
 Au Canada et ailleurs dans le monde, les amendements proposés au RSI et le nouveau traité ont suscité des débats publics, quant à la pertinence de ceux-ci et des risques qu’ils encourent pour la souveraineté des États membres de l’OMS.
 
-### Au Canada 
+### Au Canada
 
 Leslyn Lewis, députée de Haldimand-Norfolk en Ontario, mène l'opposition aux réformes proposées concernant la gestion des crises sanitaires mondiales. Elle a fréquemment pris la parole dans les médias et au parlement pour souligner les risques associés aux modifications au RSI et a l'accord sur la pandémie. Elle argumente que ce traité pourrait limiter les libertés individuelles et accorder un pouvoir excessif à l'OMS.
 
@@ -107,6 +110,7 @@ Cette position est toutefois critiquée par certains observateurs, qui contesten
 
 Au Rayaume-Uni, des débats houleux ont eu lieu au parlement britannique par rapport aux initiatives de l’OMS. Les critiques de celles-ci avancent que les nouvelles obligations juridiquement contraignantes qui pourraient limiter l'autonomie des politiques de santé publique des pays. De plus, ils dénoncent l'influence des donateurs majeurs sur l'OMS et les décisions prises par des fonctionnaires non élus, mettant en question la responsabilité démocratique. Ces débats soulignent le défi que représente le maintien de la souveraineté nationale tout en coopérant à l'échelle internationale pour gérer les pandémies.
 
+---
 ## Vous voulez agir?
 
 Si vous vous sentez interpellé par cet enjeu, vous êtes encouragés à vous engager et à vous faire entendre par votre représentant, via une lettre, en affichant votre support, ou en signant une pétition.
@@ -120,22 +124,35 @@ Vous aussi vous pouvez envoyer une lettre similaire à votre député!
 <div data-fillout-id="oj8KhQuzWPus" data-fillout-embed-type="popup" data-fillout-button-text="Formulaire de support" data-fillout-inherit-parameters></div><script src="https://server.fillout.com/embed/v1/"></script>
 
 <br>
+Veuillez noter que les lettres destinées à nos députés doivent être envoyées en utilisant l'email fourni dans le formulaire. Une fois reçues, il est de votre responsabilité de les transmettre au député concerné. De plus, veuillez vérifier régulièrement votre dossier de courrier indésirable, car notre domaine n'a pas encore été validé. Merci.
 
 #### Lettres envoyée à date :
 
-**Nombre total de formulaire remplis**: 10
+<!-- @autofill form-stats -->
+
+**Total des formulaires reçus** : 30
+
 
 #### Circonscriptions
 
-##### QC (1)
 
-<details><summary>Portneuf—Jacques-Cartier (1)</summary>
+<br>
+<hr/>
+
+##### Nouveau-Brunswick (19)
+
+**Total des formulaires reçus pour Nouveau-Brunswick** : 19
+
+
+
+<details><summary>Acadie—Bathurst (1)</summary>
+
 
 <!-- #region -->
 <br>
 <ul>
-  <li>❌ Retour du député.</li>
-  <li>[?] Affirmation de position claire.</li>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
     <ul>[?] Favorable à la cause.
     </ul>
 </ul>
@@ -143,17 +160,14 @@ Vous aussi vous pouvez envoyer une lettre similaire à votre député!
 
 <!-- #endregion -->
 
-<br> 
+<details><summary>Madawaska—Restigouche (15)</summary>
 
-##### NB (9)
-
-<details><summary>Madawaska-Restigouche (6)</summary>
 
 <!-- #region -->
 <br>
 <ul>
-  <li>❌ Retour du député.</li>
-  <li>[?] Affirmation de position claire.</li>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
     <ul>[?] Favorable à la cause.
     </ul>
 </ul>
@@ -161,14 +175,14 @@ Vous aussi vous pouvez envoyer une lettre similaire à votre député!
 
 <!-- #endregion -->
 
-<details><summary>Tobic-Mactaquac (3)</summary>
+<details><summary>Tobique—Mactaquac (3)</summary>
+
 
 <!-- #region -->
 <br>
-<!-- <p>Voir le <a href="/letters/v1.0.3/tobic-mactaquac/">modèle de la lettre</a> qui a été envoyé pour la circonscription Tobic-Mactaquac.</p> -->
 <ul>
-  <li>✅ Retour du député.</li>
-  <li>✅ Affirmation de position claire.</li>
+  <li>✅ Réponse du député.</li>
+  <li>✅ Position claire affirmée.</li>
     <ul>✅ Favorable à la cause.
     </ul>
 </ul>
@@ -177,6 +191,181 @@ Vous aussi vous pouvez envoyer une lettre similaire à votre député!
 <!-- #endregion -->
 
 <br>
+<hr/>
+
+##### Québec (11)
+
+**Total des formulaires reçus pour Québec** : 11
+
+
+
+<details><summary>Abitibi—Baie-James—Nunavik—Eeyou (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Ahuntsic-Cartierville (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Gaspésie—Les Îles-de-la-Madeleine (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Joliette (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>La Prairie (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Laurentides—Labelle (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Montmagny—L'Islet—Kamouraska—Rivière-du-Loup (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Portneuf—Jacques-Cartier (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Québec (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Saint-Maurice—Champlain (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Sherbrooke (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<!-- @endautofill form-stats -->
+
 
 <!-- ### Pétitions
 
@@ -189,7 +378,7 @@ Pour démarrer la vôtre : [liens] -->
 Plus d’informations sur le WGIHR
 Plus d'information sur l'INB
 Suivi des rencontres de l'INB
-Le RSI et les amendements proposés (110 pages) 
+Le RSI et les amendements proposés (110 pages)
 Le texte du l'accord sur la pandémie, tel que soumis à la négociation (32 pages)
 Position du Canada par rapport à l'RSI
 Position du Canada par rapport a l'accord sur la pandémie

@@ -1,11 +1,11 @@
----
-page_id: about
+<!-- ---
+page_id: about_old
 layout: about
 title: About
 permalink: /
 # toc:
 #   sidebar: left
----
+--- -->
 
 # Political Issue Watch - CAN
 
