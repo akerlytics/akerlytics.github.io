@@ -122,7 +122,7 @@ You too can send a similar letter to your MP!
 
 <!-- @autofill form-stats -->
 
-**Total forms received**: 30
+**Total forms received**: 33
 
 
 #### Constituencies
@@ -131,9 +131,9 @@ You too can send a similar letter to your MP!
 <br>
 <hr/>
 
-##### New Brunswick (19)
+##### New Brunswick (22)
 
-**Total forms received for New Brunswick**: 19
+**Total forms received for New Brunswick**: 22
 
 
 
@@ -152,7 +152,7 @@ You too can send a similar letter to your MP!
 
 <!-- #endregion -->
 
-<details><summary>Madawaska—Restigouche (15)</summary>
+<details><summary>Madawaska—Restigouche (17)</summary>
 
 
 <!-- #region -->
@@ -167,7 +167,7 @@ You too can send a similar letter to your MP!
 
 <!-- #endregion -->
 
-<details><summary>Tobique—Mactaquac (3)</summary>
+<details><summary>Tobique—Mactaquac (4)</summary>
 
 
 <!-- #region -->
