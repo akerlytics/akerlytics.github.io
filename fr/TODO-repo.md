@@ -17,7 +17,6 @@ https://www.youtube.com/watch?v=EKJ43l_HiZk
 
 ### Fillout
 
-Demo: Appel, si ils répondent pas, donc Francis: "vue qu'il répondes pas à la raison, il va faloir qu'il répondes à la pression", procède à envoyé la lettre par l'électronique puis ensuite envoyé le email. 
 
 
 ### Jotform
