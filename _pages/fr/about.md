@@ -130,7 +130,7 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 
 <!-- @autofill form-stats -->
 
-**Total des formulaires reçus** : 33
+**Total des formulaires reçus** : 39
 
 
 #### Circonscriptions
@@ -139,9 +139,9 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 <br>
 <hr/>
 
-##### Nouveau-Brunswick (22)
+##### Nouveau-Brunswick (27)
 
-**Total des formulaires reçus pour Nouveau-Brunswick** : 22
+**Total des formulaires reçus pour Nouveau-Brunswick** : 27
 
 
 
@@ -160,7 +160,7 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 
 <!-- #endregion -->
 
-<details><summary>Madawaska—Restigouche (17)</summary>
+<details><summary>Madawaska—Restigouche (21)</summary>
 
 
 <!-- #region -->
@@ -175,7 +175,7 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 
 <!-- #endregion -->
 
-<details><summary>Tobique—Mactaquac (4)</summary>
+<details><summary>Tobique—Mactaquac (5)</summary>
 
 
 <!-- #region -->
@@ -193,9 +193,9 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 <br>
 <hr/>
 
-##### Québec (11)
+##### Québec (12)
 
-**Total des formulaires reçus pour Québec** : 11
+**Total des formulaires reçus pour Québec** : 12
 
 
 
@@ -274,7 +274,7 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 
 <!-- #endregion -->
 
-<details><summary>Laurentides—Labelle (1)</summary>
+<details><summary>Laurentides—Labelle (2)</summary>
 
 
 <!-- #region -->
