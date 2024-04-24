@@ -122,7 +122,7 @@ You too can send a similar letter to your MP!
 
 <!-- @autofill form-stats -->
 
-**Total forms received**: 39
+**Total forms received**: 42
 
 
 #### Constituencies
@@ -131,9 +131,9 @@ You too can send a similar letter to your MP!
 <br>
 <hr/>
 
-##### New Brunswick (27)
+##### New Brunswick (28)
 
-**Total forms received for New Brunswick**: 27
+**Total forms received for New Brunswick**: 28
 
 
 
@@ -152,7 +152,7 @@ You too can send a similar letter to your MP!
 
 <!-- #endregion -->
 
-<details><summary>Madawaska—Restigouche (21)</summary>
+<details><summary>Madawaska—Restigouche (22)</summary>
 
 
 <!-- #region -->
@@ -185,9 +185,9 @@ You too can send a similar letter to your MP!
 <br>
 <hr/>
 
-##### Quebec (12)
+##### Quebec (14)
 
-**Total forms received for Quebec**: 12
+**Total forms received for Quebec**: 14
 
 
 
@@ -207,6 +207,21 @@ You too can send a similar letter to your MP!
 <!-- #endregion -->
 
 <details><summary>Ahuntsic-Cartierville (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Berthier—Maskinongé (1)</summary>
 
 
 <!-- #region -->
@@ -312,6 +327,21 @@ You too can send a similar letter to your MP!
 <!-- #endregion -->
 
 <details><summary>Québec (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Rosemont—La Petite-Patrie (1)</summary>
 
 
 <!-- #region -->

@@ -28,6 +28,9 @@ Nous croyons à l’importance de l’engagement citoyen et du débat public con
 Ici, vous pourrez suivre le calendrier des rencontres clés, prendre note des entités impliquées dans le dossier et consulter les documents importants associés à son évolution. Vous trouverez également des outils pour faire entendre votre voix!
 
 **Envoyé vos préocupations à votre député par cette lettre** :
+
+<!-- Voir la [section détail]() sur l'envoie de la lettre au député pour plus d'information sur les différentes étapes. -->
+
 <div data-fillout-id="oj8KhQuzWPus" data-fillout-embed-type="popup" data-fillout-button-text="Formulaire de support" data-fillout-inherit-parameters></div><script src="https://server.fillout.com/embed/v1/"></script>
 
 <br>
@@ -130,7 +133,7 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 
 <!-- @autofill form-stats -->
 
-**Total des formulaires reçus** : 39
+**Total des formulaires reçus** : 42
 
 
 #### Circonscriptions
@@ -139,9 +142,9 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 <br>
 <hr/>
 
-##### Nouveau-Brunswick (27)
+##### Nouveau-Brunswick (28)
 
-**Total des formulaires reçus pour Nouveau-Brunswick** : 27
+**Total des formulaires reçus pour Nouveau-Brunswick** : 28
 
 
 
@@ -160,7 +163,7 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 
 <!-- #endregion -->
 
-<details><summary>Madawaska—Restigouche (21)</summary>
+<details><summary>Madawaska—Restigouche (22)</summary>
 
 
 <!-- #region -->
@@ -193,9 +196,9 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 <br>
 <hr/>
 
-##### Québec (12)
+##### Québec (14)
 
-**Total des formulaires reçus pour Québec** : 12
+**Total des formulaires reçus pour Québec** : 14
 
 
 
@@ -215,6 +218,21 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 <!-- #endregion -->
 
 <details><summary>Ahuntsic-Cartierville (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Berthier—Maskinongé (1)</summary>
 
 
 <!-- #region -->
@@ -320,6 +338,21 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 <!-- #endregion -->
 
 <details><summary>Québec (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Rosemont—La Petite-Patrie (1)</summary>
 
 
 <!-- #region -->
