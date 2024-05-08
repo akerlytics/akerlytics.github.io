@@ -133,7 +133,7 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 
 <!-- @autofill form-stats -->
 
-**Total des formulaires reçus** : 42
+**Total des formulaires reçus** : 45
 
 
 #### Circonscriptions
@@ -142,9 +142,9 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 <br>
 <hr/>
 
-##### Nouveau-Brunswick (28)
+##### Nouveau-Brunswick (30)
 
-**Total des formulaires reçus pour Nouveau-Brunswick** : 28
+**Total des formulaires reçus pour Nouveau-Brunswick** : 30
 
 
 
@@ -163,7 +163,7 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 
 <!-- #endregion -->
 
-<details><summary>Madawaska—Restigouche (22)</summary>
+<details><summary>Madawaska—Restigouche (24)</summary>
 
 
 <!-- #region -->
@@ -196,13 +196,28 @@ Veuillez noter que les lettres destinées à nos députés doivent être envoyé
 <br>
 <hr/>
 
-##### Québec (14)
+##### Québec (15)
 
-**Total des formulaires reçus pour Québec** : 14
+**Total des formulaires reçus pour Québec** : 15
 
 
 
 <details><summary>Abitibi—Baie-James—Nunavik—Eeyou (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Réponse du député.</li>
+  <li>[?] Position claire affirmée.</li>
+    <ul>[?] Favorable à la cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Abitibi—Témiscamingue (1)</summary>
 
 
 <!-- #region -->

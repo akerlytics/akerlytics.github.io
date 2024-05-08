@@ -22,9 +22,9 @@ See the organism's [page](/resources/world-council-for-health).
 ---
 ## Validity Challenged by Wikipedia
 
-Note: Please refer to our notes on: 
+<!-- Note: Please refer to our notes on: 
 - [Wikipedia](/resources/wikipedia), its pros and cons.
-- [Professionals](/resources/professionals/) and our use of resources.
+- [Professionals](/resources/professionals/) and our use of resources. -->
 
 See: [https://en.wikipedia.org/wiki/World_Council_for_Health](https://en.wikipedia.org/wiki/World_Council_for_Health)
 
@@ -51,25 +51,36 @@ Note on the strong etiquette put on this organization. This etiquette is in part
     - Merlan A (22 February 2022a). ["Mysterious Medical Organizations Are Calling for an End to COVID Vaccines"](https://www.vice.com/en/article/n7nqm7/mysterious-medical-organizations-are-calling-for-an-end-to-covid-vaccines). Vice.
     - Merlan A (17 June 2022b). ["Anti-Vaxxers Pivot to 'Treating' Long COVID"](https://www.vice.com/en/article/pkgybz/anti-vaxxers-pivot-to-treating-long-covid). Vice.
 
-Since this resource is from another effort from _the People_, this organization's material, such as policy briefs, are included as necessary for our discussions on the matter of this current _political-issue-tracker_ issue.
+Since this resource is from another effort from _the people_, this organization's material, such as policy briefs, are included as necessary for our discussions on the matter of this current _political-issue-tracker_ issue.
 
-We will track all arguments against the validity of this organization on this page.
+We will track all arguments against the validity of this organization on this page. See this next section or using the link: [rebuttal-to-wikipedias-page-on-wch](#rebuttal-to-wikipedias-page-on-wch)
 
 
 ---
 ### Rebuttal to Wikipedia's page on WCH
 
-See the section dedicated to [Wikipedia](/resources/wikipedia) where we explain why the information there is demoted to lower influence in relation to these efforts.
+<!-- See the section dedicated to [Wikipedia](/resources/wikipedia) where we explain why the information there is demoted to lower influence in relation to these efforts. -->
 
 See the [Talk](https://en.wikipedia.org/wiki/Talk:World_Council_for_Health) section of Wikipedia to see their current discussions of their content.
 
+From the "Talk" section of Wikipedia, this article of counter arguments to WCH is advanced: [Ivermectin is the new hydroxychloroquine, take 3: Conspiracy theories vs. science](https://sciencebasedmedicine.org/ivermectin-is-the-new-hydroxychloroquine-take-3-conspiracy-theories-vs-science/)
+
 #### Ivermectin
 
-The introduction says:
+The introduction of the Wikipedia entry says:
 > which erroneously promotes ivermectin as a COVID-19 treatment. [citing: Kerr et al. 2022, Hume 2022, Merlan 2021]
 
-TODO:
+See next section [Studies Analysis](#studies-analysis) where 103 studies on Ivermectin are tracked and analysed.
 
-#### Dr Tess Lawrie
+---
+### Studies Analysis
 
-TODO:
+See [Ivermectin for COVID-19: real-time meta analysis of 103 studies](https://c19ivm.org/meta.html)
+
+See the entry for Ivermectin's time to when studies showed efficacy: [Time when COVID-19 studies showed efficacy](https://c19early.org/timeline.html), where relevant data existed at the end of 2020.
+
+
+
+<!-- #### Dr Tess Lawrie
+
+TODO: -->

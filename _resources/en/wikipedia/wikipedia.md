@@ -11,8 +11,8 @@ Wikipedia is a resource of information for many Canadians. While Wikipedia's con
 
 The content on Wikipedia can be usefull for Canadians. While the information required for dealing with our internal political affaires needs to be objective, this page will serve as a collection of pros and cons of using Wikipedia.
 
-Ideas:
-- The use of a weight meter could be implemented, thought not a perfect solution.
+<!-- Ideas:
+- The use of a weight meter could be implemented, thought not a perfect solution. -->
 
 
 ---

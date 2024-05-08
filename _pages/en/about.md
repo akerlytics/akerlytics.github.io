@@ -122,7 +122,7 @@ You too can send a similar letter to your MP!
 
 <!-- @autofill form-stats -->
 
-**Total forms received**: 42
+**Total forms received**: 45
 
 
 #### Constituencies
@@ -131,9 +131,9 @@ You too can send a similar letter to your MP!
 <br>
 <hr/>
 
-##### New Brunswick (28)
+##### New Brunswick (30)
 
-**Total forms received for New Brunswick**: 28
+**Total forms received for New Brunswick**: 30
 
 
 
@@ -152,7 +152,7 @@ You too can send a similar letter to your MP!
 
 <!-- #endregion -->
 
-<details><summary>Madawaska—Restigouche (22)</summary>
+<details><summary>Madawaska—Restigouche (24)</summary>
 
 
 <!-- #region -->
@@ -185,13 +185,28 @@ You too can send a similar letter to your MP!
 <br>
 <hr/>
 
-##### Quebec (14)
+##### Quebec (15)
 
-**Total forms received for Quebec**: 14
+**Total forms received for Quebec**: 15
 
 
 
 <details><summary>Abitibi—Baie-James—Nunavik—Eeyou (1)</summary>
+
+
+<!-- #region -->
+<br>
+<ul>
+  <li>❌ Reply from the MP.</li>
+  <li>[?] Clear position affirmed.</li>
+    <ul>[?] Favorable to the cause.
+    </ul>
+</ul>
+</details>
+
+<!-- #endregion -->
+
+<details><summary>Abitibi—Témiscamingue (1)</summary>
 
 
 <!-- #region -->

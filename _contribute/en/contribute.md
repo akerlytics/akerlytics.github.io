@@ -55,7 +55,8 @@ Once a contributor has a GitHub account, they can comment, post messages and mos
 <!-- @declaration help flag -->
 GitHub is thus acting as Technology Interface to _the People_, our entry into that world with individual control of their data sharing, mosly in the form of text.
 
-GitHub will need to make a vow of doing untampered data collection in this context.
+<!-- @update-watch -->
+GitHub will need to fullfill the needs of this effort by doing untampered data collection. If unwilling or unable to do so, we would like to document why. (No official declaration yet)
 
 
 ---
