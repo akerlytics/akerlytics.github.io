@@ -5,6 +5,16 @@ about:
  - [ ] remove World Concil, 
  - [ ] add all UK debate transcripts
 
+contribute:
+
+debates:
+    arguments
+    
+ressources
+    member states, us article
+    experts: WCFH
+
+    
 ## Translations
 
 Les deux 'policy-brief' du WCHP devraient avoir des traductions en français, du moin le résumer.
